@@ -65,6 +65,8 @@ https://ieeexplore.ieee.org/document/7155416[L'article]
 - [[[O,15]]] Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee, Tak Hur. Life Cycle Assessment of a Personal Computer and its Effective Recycling Rate. 
 https://www.researchgate.net/profile/Su_Yol_Lee/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp/links/554ff10908ae93634ec879ad.pdf[L'article]
 
+- [[[P,16]]] http://www.senat.fr/rap/r19-555/r19-5551.pdf. sénat
+
 
 
 * « Programme / Logiciel ou Application », synonymes ou non ?. Apsynet.fr. 
