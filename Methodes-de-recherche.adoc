@@ -9,7 +9,7 @@ Afin d'aborder la problématique et de confirmer ou infirmer les hypothèses ci-
 
 ==== _Hypothèse 1_ : *Le Hardware a un impact plus important que le Software sur l'environnement*
  
-  "La plupart des chiffres disponibles aujourd’hui établissent que le numérique serait à l’origine de 3,7 % des émissions totales de gaz à effet de serre (GES) dans le monde en 2018 et de 4,2 % de la consommation mondiale d’énergie primaire. Au niveau mondial, 44 % de cette empreinte serait due à la fabrication des terminaux, des centres informatiques et des réseaux et 56 % à leur utilisation. " <<C>> 
+  "La plupart des chiffres disponibles aujourd’hui établissent que le numérique serait à l\’origine de 3,7 % des émissions totales de gaz à effet de serre (GES) dans le monde en 2018 et de 4,2 % de la consommation mondiale d’énergie primaire. Au niveau mondial, 44 % de cette empreinte serait due à la fabrication des terminaux, des centres informatiques et des réseaux et 56 % à leur utilisation. " <<C>> 
 
 Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par la préfabrication et se terminent par la fin de vie <<N>> Chaque étape a son propre impact sur l'environnement.
 
