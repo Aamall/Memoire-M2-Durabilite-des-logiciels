@@ -192,3 +192,187 @@ Le serveur est un dispositif qui met des ressources, des données, des services 
 .Différents types de serveurs et leurs logiciels
 [caption="Figure 8: "]
 image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]
+
+=== L'importance du couplage entre Software et Hardware
+L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. 
+Car l’empreinte écologique dépend de la durabilité du matériel !
+
+==== L'empreinte environnementale de matériels informatiques
+
+Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
+
+Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<J>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
+
+Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. Elle est basée sur une méthodologie d'analyse du cycle de vie (ACV), et s'appuie sur trois modèles de quantification des impacts environnementaux (utilisateurs, réseaux, centres informatiques) agrégés par un méta-modèle.
+
+Les quatre indicateurs qui ont été pris en compte dans cette étude : <<J>> 
+
+* Épuisement des ressources abiotiques (ADP) : cet indicateur, qui évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
+* Réchauffement global (GES) : cet indicateur reflète le changement climatique.
+* Bilan énergétique (EP) : L'eau douce est considérée comme la deuxième ressource physiologique de base la plus importante pour l'homme et des millions d'autres formes de vie. Par conséquent, l'eau bleue est plus accessible aux êtres humains que l'eau verte, qui n'est accessible qu'aux plantes. Cela signifie que si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.
+* Tension sur l’eau douce (Eau) : L'énergie primaire est l'énergie nécessaire pour produire l'énergie finale. Ainsi, en numérique, selon l'étape du cycle de vie d'un équipement, il y aura différentes énergies primaires pour produire différentes énergies finales. 
+
+Le mot *Numérique* n'est pas abstrait. Il est donc traduit par équipement et câbles. Pour cela, l'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. 
+
+Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de GreenIT.fr a étudié l'ensemble des impacts environnementaux pour chaque tiers du numérique. Nous présentons quelques résultats de l'étude : <<J>>
+
+ "L'empreinte environnementale du numérique mondial est de l'ordre de :
+ * 6 800 TWh d’énergie primaire (EP).
+ * 1 400 millions de tonnes de gaz à effet de serre (GES).
+ * 7,8 millions de m3 d’eau douce (Eau).
+ * 22 millions de tonnes d’antimoine (ADP)."  
+
+    "L'étude indique que les émissions de gaz à effet de serre sont directement liées à la combustion de l'énergie primaire fossile que nous produisons à tous les stades du cycle de vie des équipements numériques. Cela signifie que la fabrication des équipements utilisateurs prend en charge la station d'émission principale, suivie de l'alimentation électrique, puis des équipements de réseau et des centres informatiques." 
+
+    "C'est la phase d'utilisation qui émet le plus de gaz à effet de serre. Cela signifie qu'à volume constant d'émissions de GES, plus la phase d'utilisation augmente, plus la durée de vie des équipements s'allonge."  
+
+    "Les équipements des utilisateurs sont la principale source d’impacts du numérique mondial. Leur fabrication concentre systématiquement le plus d’impacts avec 30% du bilan énergétique global, 39 % des émissions de GES, 74 % de la consommation d’eau et 76 % de la contribution à l’épuisement des ressources abiotiques.Si on y ajoute les impacts associés à la production de l’électricité qu’ils consomment, les équipements utilisateurs (hors box DSL / fibre) totalisent  de 59 % à 84 % des impacts !" 
+
+    "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)." 
+
+Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
+
+En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<J>>) .
+
+=== Démonstration de l'importance du couplage entre Software et Hardware /// reste à faire ///
+
+L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. 
+Car l’empreinte écologique dépend de la durabilité du matériel !
+
+Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<L>>", que TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un consensus autour de 4-5 %. En comparaison, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
+
+Des études montrent que les deux phases de fabrication et de recyclage sont responsables de la plus forte proportion d'émissions de dioxyde de carbone. D'où l'importance du couplage entre le matériel et les logiciels pour développer des logiciels durables afin de rendre le matériel plus durable avec la plus longue période d'utilisation possible.
+
+La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
+
+==== Conditions préalables pour des matériels durables
+
+Une bonne utilisation de l'équipement permettra de le faire fonctionner le plus longtemps possible.
+Voici les conditions de maintenir de l'équipement : 
+
+* Ne mettez pas l'équipement à la chaleur ou à l'humidité. 
+* Évitez de charger les ordinateurs portables et les smartphones pendant leur utilisation.
+* Évitez de télécharger des applications et des logiciels qui ne sont pas nécessaires, car ils prennent de l'espace mémoire et s'ils fonctionnent toujours en arrière-plan, cela entraîne une consommation d'énergie plus élevée et donc un cycle de vie des battaries plus court.
+* 
+
+
+
+Décrire les mauvaises conditions de maintenir les machaines
+.... les bonnes 
+smartphone tap
+pc
+serveur
+
+==== le logiciel peut aussi endommager le matériel  /// reste à faire ///
+
+sur cheuve temp monte trop 
+
+
+=== Cycle de vie d'un matériel informatique  /// reste à faire ///
+
+Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "est l'ensemble du matériel informatique, des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
+
+Dans ce paragraphe, nous parlerons du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+
+Pour montrer le cycle de vie d'un matériel informatique, nous avons choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions du cycle de vie d'un appareil informatique en Corée du Sud. <<O>>
+
+D'un point de vue général, le cycle de vie d'un dispositif informatique peut être segmenté en cinq grandes phases : 
+
+* Préfabrication.
+* Fabrication.
+* Distribution et Transportation.
+* Usage.
+* Disposition.
+
+Le champ d'application de chaque phase sera défini, suivi des impacts environnementaux résultant de cette phase, les catégories adoptées pour classer les impacts environnementaux étant : 
+
+* Les effets écologiques de l'appauvrissement abiotique.
+* Le réchauffement climatique.
+* L’écotoxicité.
+* La toxicité humaine.
+* L’acidification.
+* L’appauvrissement de la zone stratosphérique.
+* La formation de photo-oxydant.
+* L’eutrophisation.
+
+====  Le cycle de vie d'un dispositif informatique : 
+
+* Préfabrication : 
+
+Pour cette phase, les quatre chercheurs ont utilisé plusieurs bases de données afin de rassembler les informations sur les composants d'un dispositif informatique nécessaires pour établir et analyser le cycle de vie du dernier. Les bases de données utilisées sont les bases de données nationales de la Corée du Sud (celles du ministère de l'environnement et du ministère du commerce, de l'industrie et de l'énergie) avec la base de données du logiciel SIMAPRO.
+Comme il était difficile de rassembler toutes les informations nécessaires, étant donné que de nombreux composants électriques et électroniques de l'appareil informatique contiennent des sous-composants, l'étude du cycle de vie s'est concentrée sur plusieurs composants importants tels que : le boîtier de l'appareil informatique, l'alimentation électrique, le disque dur, le CD-ROM, les cartes vidéo et les cartes audio.
+
+Cette phase s'est avérée être celle qui contribue le plus à toutes les catégories d'impacts environnementaux, à l'exception de la toxicité pour l'homme. Cela peut se comprendre étant donné que la fabrication de petites pièces électriques et de plusieurs composants électroniques pendant cette phase nécessite une quantité importante de matériaux et d'énergie, et émet des quantités importantes de pollution atmosphérique, d'eaux usées et de déchets solides.
+
+* Fabrication : 
+
+Cette phase comprend généralement deux processus : l'assemblage des composants électriques et électroniques, et l'emballage du matériel informatique.
+Pour étudier cette phase, les quatre chercheurs ont utilisé les données sur la production d'électricité disponibles dans la base de données nationale, ainsi que les données fournies par deux grandes entreprises coréennes : Samsung Electronics Co. et TriGem Computer Co.
+
+Les activités de cette phase nécessitent peu d'électricité et émettent peu de polluants dans l'air, les eaux usées ou les déchets solides.
+
+* Distribution et Transportation : 
+
+Cette phase a été établie sur la base de l'hypothèse suivante : 
+La distance moyenne entre les deux principaux fabricants, mentionnés précédemment, et les points de livraison importants est de 230 km. Cette distance est couverte par des camions de 2,5 tonnes pouvant transporter 110 dispositifs informatiques.
+
+Les catégories d'impact environnemental sont peu affectées par les activités de cette phase. Il s'agit principalement du réchauffement climatique, de la toxicité humaine et de l'écotoxicité.
+
+* Usage : 
+
+Cette étude considère que le matériel informatique est principalement utilisé à la maison et au bureau.
+De ce point de vue, et en utilisant les données disponibles dans la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, la consommation d'énergie de l'appareil informatique domestique pendant sa période d'utilisation de 4 ans en Corée du Sud est estimée à 195,53 kWh. D'autre part, la consommation d'énergie de l'ordinateur utilisé au bureau, pour la même période d'utilisation, est estimée à 305,21 kWh.
+
+Selon les résultats de cette étude, il s'avère que cette phase est la deuxième plus néfaste, en termes d'impacts environnementaux, après la phase de préfabrication.
+Cela peut se comprendre étant donné que la consommation d'énergie provenant des ressources en combustibles fossiles pendant cette phase contribue de manière significative aux effets écologiques de l'épuisement abiotique, du réchauffement climatique, de l'acidification et de l'eutrophisation.
+
+* la fin de vie :
+
+Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comportant quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
+Les quatre chercheurs ont utilisé la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, ainsi que les données fournies par Korea Computer Recycling Inc, pour déterminer le taux de recyclage d'un appareil informatique en Corée du Sud.
+Ce taux est fixé à 46%, ce qui signifie que 54% du matériel informatique se retrouve à la décharge.
+
+Cette phase s'est avérée être un facteur majeur de la toxicité pour l'homme. Elle a également largement contribué à l'écotoxicité, juste après la phase de préfabrication. La phase d'élimination dans cette étude comprenait la collecte, le démantèlement, les processus de raffinage pour le recyclage et l'incinération ou la mise en décharge. Parmi ces procédés, la mise en décharge pourrait être le facteur le plus important de toxicité pour l'homme.
+
+Le recyclage du matériel informatique a une influence à la fois positive et négative sur les catégories d'impact environnemental. L'huile légère utilisée dans le processus de collecte des déchets du matériel informatique, ainsi que la consommation d'acide nitrique, d'acide sulfurique, d'acide chlorhydrique et d'agent désoxydant dans le processus de raffinage sont des raisons importantes de la toxicité et de l'écotoxicité pour l'homme. Néanmoins, le recyclage du matériel informatique réduit la charge des impacts environnementaux du cycle de vie, en particulier les effets écologiques de l'épuisement abiotique. Les émissions de CO2 et l'énergie récupérée lors du processus d'incinération n'ont pas été prises en compte dans cette étude. L'inclusion de ces facteurs peut également affecter les résultats de l'impact environnemental potentiel du recyclage des équipements informatiques.
+
+
+==== Les impactes du cycle de vie d'un matériel : 
+
+Pour illustrer l'empreinte des gaz à effet de serre (GES) d'un ordinateur, nous allons résumer l'article "Quelle est l'empreinte carbone d'un ordinateur" publié sur le site GreenIT.fr <<M>>. L'article présente les résultats du travail de Fujitsu avec l'Institut de recherche Bifa à Ausbourg pour présenter l'empreinte en gaz à effet de serre (GES) de son ordinateur de bureau Esprimo E9900.  L'étude a été menée conformément aux normes internationales ISO 14040 et ISO 14044, qui définissent la méthodologie pour réaliser une analyse du cycle de vie (ACV). Son empreinte totale de GES sans l'écran est de 339 kg d'équivalent CO2, ce qui comprend les trois phases de fabrication, de transport et d'assemblage des composants. Pour la phase d'utilisation, sa consommation annuelle est de 113,6 kWh. Avec l'ajout de l'écran, qui émet 676 kg d'équivalent CO2. Cela nous donne un ordre de grandeur de l'empreinte globale d'un poste de travail récent : 1015 kg d'équivalent CO2 pour un poste de travail complet ! 
+
+
+=== Cycle de vie d'un logiciel
+
+Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique. Pour renforcer le caractère intellectuel dulogiciel, l'ISO précise en plus que le logiciel existe indépendemment des supports utilisés pour le transporter, ce qui sous-entend qu'il ne faut pas confondre le logiciel avec son support. <<K>>
+
+Nous définissons le cycle de vie des logiciels : est la période de temps s'étalant du début à la fin du processus du logiciel. Il commence donc avec la proposition ou la décision de développer un logiciel et se termine avec sa mise hors service. <<K>>
+
+Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du logiciel* (en anglais *Software process*). Ce processus est composé de plusieurs sous-processus qui échangent et communiquent entre eux. Pour chaque processus, il y a des conditions à déclencher, des caractéristiques uniques, des activités déployées, certaines ressources utilisées et les produits qui en résultent et ses critères de fin. Les activités qui font partie d'un processus sont à leur tour divisées en sous-activités et en tâches plus détaillées. <<K>> 
+
+.Architecture du processus du logiciel (Software process architecture, ISO/JTC1/SC7/WG3) <<K>> 
+[caption="Figure 12: "]
+image::Architecture-du-processus-du-logiciel.jpg[Architecture du processus du logiciel]
+
+
+En partant de la définition du cycle de vie des logiciels, nous découvrons que le cycle de vie des logiciels se compose de quatre phases <<K>>  qui se succèdent les unes aux autres : 
+
+* *Avant-projet/ Etude préalable* : c'est la phase préparatoire qui a des tâches telles que répondre à des questions comme la clarification de l'objectif du logiciel et de son importance. Il s'agit notamment de clarifier les aspects techniques et de gestion, les phases de ce logiciel et les besoins des utilisateurs. Pour chacune de ces phases, il existe plusieurs petites tâches détaillées. Les résultats de cette phase sont documentés dans un document appelé *Cahier de charge/Spécification du projet* (en anglais projet specification).
+* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence avec la décision de développer un logiciel et se termine avec la livraison du logiciel et son installation. Nous en parlons en détail par la suite.
+* *Exploitation et Maintenance* : après l'achèvement de la phase précédente et avant d'entrer dans la phase d'exploitation, le logiciel passe au stade de *installation*. Cette étape est prise en charge soit par l'équipe de développement pour les logiciels en développement interne, soit par l'utilisateur qui effectue l'installation dans le cas de logiciels largement distribués, et est soutenue par l'assistance du distributeur (service après-vente). Après cette étape vient la phase d'exploitation et de maintenance, qui comprend l'exploitation du logiciel dans son environnement d'exploitation, sa surveillance et sa modification si nécessaire.
+N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajouter de nouvelles fonctionnalités, à l'adopter avec un nouvel environnement, etc. On distingue donc plusieurs types de maintenance : la maintenance corrective, la maintenance perfective et la maintenance adaptative. Souvent, la maintenance d'un logiciel nécessite de revenir à la phase de développement pour le réappliquer. Après chaque maintenance d'un logiciel, il faut bien sûr le distribuer. En outre, il faut fournir une assistance technique et un soutien en matière de conseil.
+* *Retrait* : la dernière phase que nous pouvons également appeler *Mettre le logiciel hors de service*. Cette phase comprend : avertir les utilisateurs,effectuer une exploitation en parallèle du logiciel à retirer, arrêter le support du logiciel.
+
+Pour revenir au cycle de développement du logiciel <<K>>. Ce dernier se compose de plusieurs phases qui sont les suivantes :
+
+* *La gestion du projet*.
+* *La vérification et validation*.
+* *Le développement de la documentation*.
+* *La gestion de la configuration*.
+* *La formation*. 
+
+De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et le cycle de développement des logiciels, ce qui correspond au but de cette thèse (pour aller plus en détail <<K>>). 
+
+.Cycle de vie du logiciel <<K>> 
+[caption="Figure 13: "]
+image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
