@@ -1,7 +1,5 @@
 :toc-title: Plan
 
-
-
 include::Introduction.adoc[leveloffset=+1]
 include::Méthodes-de-recherche.adoc[leveloffset=+1]
 include::Etat-art.adoc[leveloffset=+1]
@@ -16,67 +14,37 @@ include::Conclusion.adoc[leveloffset=+1]
 [bibliography]
 == Bibliographie 
 
-- [[[A,1]]] Fabian Loeser. Technische Universitaet Berlin. Green IT and Green IS: Definition of Constructs and Overview of Current Practices.
-Cité 67 fois researchgate.net 
-https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf[L'article]
+- [[[A,1]]] MUNASINGHE, M., CANZIANI, O., DAVIDSON, O., METZ, B., PARRY, M., et HARRISON, M. Integrating sustainable development and climate change in the IPCC fourth assessment report. IPCC [en ligne]. 2003, Disponible sur : https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[Le lien. Cité 10 fois.
 
-- [[[B,2]]] S Murugesan.  2008 - ieeexplore.ieee.org. Harnessing Green IT: Principles and Practices. Cité 1318 fois. 
-https://www.pitt.edu/~dtipper/2011/GreenPaper.pdf[L'article]
+- [[[B,2]]] ORGERIE, A-C. « L'informatique émet plus de gaz à effet de serre que l'aviation ». POUR LA SCIENCE [en ligne]. 2015, Disponible sur : https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php[Le lien].
 
-- [[[C,3]]] LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte (1). Article 99. legifrance.gouv.fr. 
-https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D07E4B7FF38C9264A5554513AB55B753.tplgfr22s_1?cidTexte=JORFTEXT000031044385&dateTexte=20200416[L'article]
+- [[[C,3]]] MAUREY, H., CHAIZE, P., CHEVROLLIER, G., et HOULLEGATTE, J-M. Rapprot d’Information fait au nom de la commission de l’aménagement du territoire et du développement durable (1) par la mission d’information sur l’empreinte environnementale du numérique (2). Sénat [en ligne]. 2020, Disponible sur : http://www.senat.fr/rap/r19-555/r19-5551.pdf[Le lien].
 
-- [[[D,4]]] Viktor C. Pavlu. 2003 – 2004. Thin-Client/Fat-Client Comparison. UNIVERSITY OF DERBY Derbyshire Business School. 
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.132.6689&rep=rep1&type=pdf[L'article]
+- [[[D,4]]] LOESER, F. Green IT and Green IS: Definition of Constructs and Overview of Current Practices. Conference paper: 19th Americas Conference on Information Systems (AMCIS), At Chicago, IL [en ligne]. 2013, Disponible sur : https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf[Le lien]. Cité 74 fois
 
-- [[[E,5]]] Luca FALVO. 2016. Haute École de Gestion de Genève (HEG-GE). Développements Natif, Xamarin, Hybride ou Web : Critères de choix et arbre de décision pour
-un développement mobile. 
-https://doc.rero.ch/record/278092/files/TDIG_Falvo_Luca.pdf[L'article]
+- [[[E,5]]] MURUGESAN, S. Harnessing Green IT: Principles and Practices. IEEE Xplore [en ligne]. 2008, Disponible sur : https://ieeexplore.ieee.org/document/4446673?arnumber=4446673.[Le lien]. Cité 1356 fois.
 
-- [[[F,6]]] Frédéric Bordage. GreenIT.fr. 2019. Empreinte environnementale du numérique mondial.
-https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf[L'article]
+- [[[F,6]]] GOUVERNEMENT FRANÇAIS. LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte. [en ligne]. Journal Officiel du 18 août 2015 , Disponible sur : https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D07E4B7FF38C9264A5554513AB55B753.tplgfr22s_1?cidTexte=JORFTEXT000031044385&dateTexte=20200416[Le lien].
 
-- [[[G,7]]] Christophe BOUILLON, Michel HAVARD. Rapport d'information déposé en application de l'article 145 du Règlement par la mission d'information
-sur la gestion durable des matières premières minérales. assemblee-nationale.fr
-http://www.assemblee-nationale.fr/13/rap-info/i3880.asp[L'article]
+- [[[G,7]]] BOUILLON, C et HAVARD, M. Rapport d'information déposé en application de l'article 145 du Règlement par la mission d'information sur la gestion durable des matières premières minérales. Assemblée Nationale [en ligne]. 2011, Disponible sur : http://www.assemblee-nationale.fr/13/rap-info/i3880.asp[Le lien].
 
-- [[[H,8]]] Shailendra Mudgal, Benoît Tinetti, Thibault Faninger, Sarah Lockwood, Gina Anderson. Étude sur la durée de vie des équipements éléctriques et
-éléctroniques. Juillet 2012. Agence de la transition écologique (ADEME). ademe.fr.
-https://www.ademe.fr/sites/default/files/assets/documents/84636_duree_de_vie_des_eee.pdf[L'article]
+- [[[H,8]]] MUDGAL, S., TINETTI, B., FANIGER, T., LOCKWOOD, S., et ANDERSON G. Étude sur la durée de vie des équipements éléctriques et
+éléctroniques. Agence de la transition écologique ADEME [en ligne]. 2012, Disponible sur : https://www.ademe.fr/sites/default/files/assets/documents/84636_duree_de_vie_des_eee.pdf[Le lien]. Cité 3 fois.
 
-- [[[I,9]]] Mohan MUNASINGHE, Osvaldo CANZIANI, Ogunlade DAVIDSON, Bert METZ, Martin PARRY, Mike Harrison. Integrating sustainable development and climate change in the IPCC fourth assessment report. 2003. 
-https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[L'article]
+- [[[I,9]]] APSYNET. « Programme / Logiciel ou Application », synonymes ou non ?. [en ligne]. (modifié le 1 juin 2018) Disponible sur : https://www.apsynet.fr/programme-logiciel-ou-application-synonymes-ou-non/[Le lien].
 
-- [[[J,10]]] L'informatique émet plus de gaz à effet de serre que l'aviation.  21 octobre 2015
-https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php[L'article]
+- [[[J,10]]] VIKTOR C, P. Thin-Client/Fat-Client Comparison. CiteSeerx [en ligne]. 2003, Disponible sur : https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.132.6689[Le lien].
 
-- [[[K,11]]] Didier Buchs,Cycle de vie du logiciel. University of Geneva, 20 May 2014
-https://www.researchgate.net/profile/Didier_Buchs/publication/37422534_Cycle_de_vie_du_logiciel/links/0fcfd5111030d47f2c000000.pdf[L'article]
+- [[[K,11]]] FALVO, L. Développements Natif, Xamarin, Hybride ou Web : Critères de choix et arbre de décision pour un développement mobile. Haute École de Gestion de Genève (HEG-GE) [en ligne]. 2016, Disponible sur : https://doc.rero.ch/record/278092/files/TDIG_Falvo_Luca.pdf[Le lien].
 
-- [[[L,12]]] L'informatique émet plus de gaz à effet de serre que l'aviation, 21 octobre 2015, 
-https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php[L'article]
+- [[[L,12]]] PAESSLER. IT Explained: Serveurs. [en ligne]. Disponible sur : https://www.fr.paessler.com/it-explained/server[Le lien].
 
-- [[[M,13]]] Quelle est l’empreinte carbone d’un ordinateur ?. site GreenIT.fr
-https://www.greenit.fr/2011/02/10/quelle-est-l-empreinte-carbone-d-un-ordinateur/[L'article]
+- [[[M,13]]] BORDAGE, F. Empreinte environnementale du numérique mondial. GreenIT [en ligne]. 2019, Disponible sur : https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf[Le lien]. Cité 1 fois
 
-- [[[N,14]]] Candy Pang and Abram Hindle, University of Alberta, Bram Adams, Polytechnique Montréal, Ahmed E. Hassan, Queen’s University. What Do Programmers Know about Software Energy Consumption? IEEE Software, 2015 - ieeexplore.ieee.org.  Cité 85 fois.
-https://ieeexplore.ieee.org/document/7155416[L'article]
+- [[[N,14]]] CHOI, B-C., SHIN, H-S., LEE, S-Y., et HUR, T. Life Cycle Assessment of a Personal Computer and its Effective Recycling Rate. The International Journal of Life Cycle Assessment [en ligne]. 2006, Disponible sur : https://www.researchgate.net/profile/Su_Yol_Lee/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp/links/554ff10908ae93634ec879ad.pdf[Le lien]. Cité 174 fois.
 
-- [[[O,15]]] Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee, Tak Hur. Life Cycle Assessment of a Personal Computer and its Effective Recycling Rate. 
-https://www.researchgate.net/profile/Su_Yol_Lee/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp/links/554ff10908ae93634ec879ad.pdf[L'article]
+- [[[O,15]]] BUCHS, D. Cycle de vie du logiciel. University of Geneva [en ligne]. 2000, Disponible sur : https://www.researchgate.net/profile/Didier_Buchs/publication/37422534_Cycle_de_vie_du_logiciel/links/0fcfd5111030d47f2c000000.pdf[Le lien]. Cité 11 fois.
 
-- [[[P,16]]] http://www.senat.fr/rap/r19-555/r19-5551.pdf. sénat
+- [[[P,16]]] PANG, C., HINDLE, A., ADAMS, B., et HASSAN, A. What Do Programmers Know about Software Energy Consumption?. IEEE Xplore [en ligne]. 2015, Disponible sur : https://ieeexplore.ieee.org/document/7155416[Le lien]. Cité 85 fois.
 
 
-
-* « Programme / Logiciel ou Application », synonymes ou non ?. Apsynet.fr. 
-https://www.apsynet.fr/programme-logiciel-ou-application-synonymes-ou-non/[L'article]
-
-* Différents types de logiciel d'application. Microordinateur.blogspot.com
-http://microordinateurr.blogspot.com/2012/11/differents-types-de-logiciel-d.html[L'article]
-
-* La norme CEI 62402 utilise le mot « obsolète » ???
-
-* IT Explained: Serveurs : https://www.fr.paessler.com/it-explained/server
-
-// mettre le lien pour le moteur de recherche l'impact facteur
