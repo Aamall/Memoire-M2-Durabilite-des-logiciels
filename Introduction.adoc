@@ -1,50 +1,29 @@
 <<<
 == Introduction
 
- 
 
 Les technologies s'accélèrent et progressent considérablement à notre époque pour répondre aux besoins sans cesse croissants de l'homme.
 
- 
 
 Comme nous le savons dorénavant, cette quête du progrès présente des effets néfastes pour l'environnement et donc pour l'humanité. L'un des impacts les plus menaçant est écologique.
 
- 
 
 Une grande majorité de scientifiques s'accordent sur la gravité du changement climatique <<I>> footnote:[Integrating sustainable development and climate change in the IPCC fourth assessment report. https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf]. Augmentation de la température moyenne à la surface du globe, appauvrissement de la fertilité des sols, ou encore fonte des glaces aux pôles sont autant d'effets qu'il faut limiter tant que possible et au plus tôt.
 
- 
 
 Il est clairement établi que les technologies de l'information contribuent à cet impact environnemental et au changement climatique <<J>> footnote:[L'informatique émet plus de gaz à effet de serre que l'aviation. https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php]. Il s'agit donc de gérer au mieux le cycle de vie des produits technologiques.
 
- 
 
 La stratégie ou la politique que les entreprises suivent pour réduire ces effets s'appelle le *Green IT*. Dans ce domaine, il est démontré que la fabrication des produits représente classiquement un facteur 100 au regard de leur utilisation. On s'intéressera dans ce mémoire à la question d'une utilisation durable des matériels grâce à une saine gestion de leurs logiciels.
 
- 
 
-Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie ne doivent pas provoquer le renouvellement prématuré des terminaux ?*
+Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie font-ils provoquer le renouvellement prémuté des terminaux ?*
 
- 
 
 L'objectif de cette thèse est donc de construire une matrice de durabilité logicielle qui expose et note les critères de la durabilité logicielle. Idéalement, cette matrice nous permettra de déterminer si un logiciel est durable ou non.
 
  
-
 Au préalable, nous nous pencherons sur les principes et définitions afin de clarifier certains concepts puis nous illustrerons le poids relatif des émissions de Gaz à Effet de Serre du logiciel par rapport à la construction d'un équipement (un matériel). Nous pourrons ensuite décrire l'importance du couplage entre le logiciel et le matériel informatique afin de pouvoir répondre à la question que pose ce mémoire. Enfin, nous évaluerons les critères de la matrice de durabilité des logiciels pour la famille logicielle des SmartPhone.
 
- 
 
 N.B. : il existe plusieurs familles de logiciels (cf. chapitre Principes et Définitions/La notion de la famille de logiciels). Ce travail de mémoire se concentre sur la famille logicielle des SmartPhones mais pourra être étendu aux autres familles logicielles si les travaux sont repris pour poursuivre ce premier travail de recherche..
-
- 
-
-
-
-
-
-
-
-
-
-
