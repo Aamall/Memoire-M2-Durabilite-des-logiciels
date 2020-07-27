@@ -23,7 +23,7 @@ La stratégie ou la politique que les entreprises suivent pour réduire ces effe
 
  
 
-Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement ?*
+Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie ne doivent pas provoquer le renouvellement prématuré des terminaux ?*
 
  
 
