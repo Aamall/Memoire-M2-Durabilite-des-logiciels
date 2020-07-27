@@ -14,7 +14,7 @@ include::Conclusion.adoc[leveloffset=+1]
 [bibliography]
 == Bibliographie 
 
-- [[[A,1]]] MUNASINGHE, M., CANZIANI, O., DAVIDSON, O., METZ, B., PARRY, M., et HARRISON, M. Integrating sustainable development and climate change in the IPCC fourth assessment report. IPCC [en ligne]. 2003, Disponible sur : https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[Le lien. Cité 10 fois.
+- [[[A,1]]] MUNASINGHE, M., CANZIANI, O., DAVIDSON, O., METZ, B., PARRY, M., et HARRISON, M. Integrating sustainable development and climate change in the IPCC fourth assessment report. IPCC [en ligne]. 2003, Disponible sur : https://archive.ipcc.ch/pdf/supporting-material/ipcc-4th-assessment-2003-03.pdf[Le lien]. Cité 10 fois.
 
 - [[[B,2]]] ORGERIE, A-C. « L'informatique émet plus de gaz à effet de serre que l'aviation ». POUR LA SCIENCE [en ligne]. 2015, Disponible sur : https://www.pourlascience.fr/sd/informatique/linformatique-emet-plus-de-gaz-a-effet-de-serre-que-laviation-8741.php[Le lien].
 
@@ -22,7 +22,7 @@ include::Conclusion.adoc[leveloffset=+1]
 
 - [[[D,4]]] LOESER, F. Green IT and Green IS: Definition of Constructs and Overview of Current Practices. Conference paper: 19th Americas Conference on Information Systems (AMCIS), At Chicago, IL [en ligne]. 2013, Disponible sur : https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf[Le lien]. Cité 74 fois
 
-- [[[E,5]]] MURUGESAN, S. Harnessing Green IT: Principles and Practices. IEEE Xplore [en ligne]. 2008, Disponible sur : https://ieeexplore.ieee.org/document/4446673?arnumber=4446673.[Le lien]. Cité 1356 fois.
+- [[[E,5]]] MURUGESAN, S. Harnessing Green IT: Principles and Practices. IEEE Xplore [en ligne]. 2008, Disponible sur : https://ieeexplore.ieee.org/document/4446673?arnumber=4446673[Le lien]. Cité 1356 fois.
 
 - [[[F,6]]] GOUVERNEMENT FRANÇAIS. LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte. [en ligne]. Journal Officiel du 18 août 2015 , Disponible sur : https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D07E4B7FF38C9264A5554513AB55B753.tplgfr22s_1?cidTexte=JORFTEXT000031044385&dateTexte=20200416[Le lien].
 
