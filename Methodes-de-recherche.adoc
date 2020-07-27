@@ -7,7 +7,7 @@ Afin d'aborder la problématique et de confirmer ou infirmer les hypothèses ci-
 
 === Les hypothèses
 
-_Hypothèse 1_ : pass:[<u>Le Hardware a un impact plus important que le Software sur l'environnement</u>]
+==== _Hypothèse 1_ : pass:[<u>Le Hardware a un impact plus important que le Software sur l'environnement</u>]
  
   "La plupart des chiffres disponibles aujourd’hui établissent que le numérique serait à l’origine de 3,7 % des émissions totales de gaz à effet de serre (GES) dans le monde en 2018 et de 4,2 % de la consommation mondiale d’énergie primaire. Au niveau mondial, 44 % de cette empreinte serait due à la fabrication des terminaux, des centres informatiques et des réseaux et 56 % à leur utilisation. " <<P>> 
 
@@ -16,19 +16,19 @@ Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par l
 La phase de préfabrication a l'impact le plus élevé sur l'environnement car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<O>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<L\'importance du couplage entre Software et Hardware>>.
 
  
-_Hypothèse 2_ : pass:[<u>Le Software peut faire "vieillir" le Hardware</u>]
+====  _Hypothèse 2_ : pass:[<u>Le Software peut faire "vieillir" le Hardware</u>]
 
-Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer un vieillissement plus ou moins prématuré du matériel. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolence programmée (i.e. : de manière mercantile en l'occurrence).
+Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer le renouvellement prématuré des terminauxl. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolence programmée (i.e. : de manière mercantile en l'occurrence).
 
 En regard de cette hypothèse, je propose la matrice de durabilité présentée au chapitre <<Matrice>>. Elle présente les critères detérminants en termes de durabilité logicielle.
 
 
-_Hypothèse 3_ : pass:[<u>Le service numérique a un impact sur l'environnement</u>]
+====  _Hypothèse 3_ : pass:[<u>Le service numérique a un impact sur l'environnement</u>]
  
 Considérant une population moyenne d'un pays développé et son inconscient collectif, il est important de savoir que les logiciels, de part leur absence d'existence physique, n'auraient aucun impact direct sur l'environnement. Pour démontrer l'inverse, il suffit de rappeler que le matériel stocke de l'information (disque dur, clé USB), fait fonctionner et les logiciels qui opèrent des calculs pour rendre des services (processeurs, mémoire, etc.). Ces éléments ont, à chaque étape de leur cycle de vie, bel et bien un impact sur l'environnement. Par conséquent, pour accepter cette hypothèse ou la rejeter nous devons mesurer l'influence des logiciels afin déterminer leur impact sur les matériels sous jaccents et donc les impacts environnementaux.
 
 
-_Hypothèse 4_ : pass:[<u>On peut améliorer la durabilité des logiciels</u>]
+====  _Hypothèse 4_ : pass:[<u>On peut améliorer la durabilité des logiciels</u>]
 
 La durabilité logicielle, sans être définie, peut être lue de prime abord comme un oxymore. En effet, le turn over des technologies, des matériels, etc. est de nos jours tel qu'il peut sembler vain de vouloir rendre durable un logiciel. D'une part la définition faite au sein du chapitre <<Principes et Définitions >> porte plus sur l'impact environnemental que d'un objectif de faire durer un logiciel sur la longueur. D'autre part, le paragraphe illustration <<Enquête et interviews >> propose de démontrer par la pratique qu'il est possible de mal concevoir un logiciel, de mal le développer, de mal l'utiliser et de laisser une empreinte résiduelle forte à la suppression. Par opposition directe il est évidemment possible de bien faire  sur chaque étape du cycle de vie. La matrice de durabilité permet d'identifier les critères significatifs pour ce faire.
 
@@ -44,4 +44,4 @@ Dans un deuxième temps, j'ai publié un questionnaire réalisé avec l'outil Go
 
 === PHASE 3 construire la matrice de durabilité des logiciels
 
-Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant son taux de durabilité.
+Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant son score de durabilité.
