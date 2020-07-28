@@ -14,7 +14,7 @@ Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux effo
 
 Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement. 
 
-Ainsi, afin de mieux comprendre la *notion de durabilité*, nous commençons à distinguer les différents concepts de *Green IT* ou de *Gestion durable*, *Technologies de l'Information Green* et *Systèmes d'Information Green*.
+Ainsi, afin de mieux comprendre la *notion de durabilité*, je commence à distinguer les différents concepts de *Green IT* ou de *Gestion durable*, *Technologies de l'Information Green* et *Systèmes d'Information Green*.
 
 La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. <<D>>
 
@@ -265,9 +265,9 @@ Parfois, si la conception est mauvaise, cela nous conduit à un mauvais dévelop
 
 Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "est l'ensemble du matériel informatique, des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
 
-Dans ce paragraphe, nous parlerons du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+Dans ce paragraphe, je parlere du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-Pour montrer le cycle de vie d'un matériel informatique, nous avons choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions du cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
+Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions du cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
 D'un point de vue général, le cycle de vie d'un dispositif informatique peut être segmenté en cinq grandes phases : <<N>> 
 
