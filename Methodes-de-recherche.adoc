@@ -39,7 +39,7 @@ La durabilité logicielle, sans être définie, peut être lue de prime abord co
 
 === PHASE 1 l’état de l’art 
 
-La première concerne un état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Schoolar avec les mots clés suivants GreenIT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, durabilité, cycle de vie, matériel informatique, logiciel, impact environnemental, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
+La première concerne un état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Schoolar avec les mots clés suivants GreenIT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computing equipment, software, environment impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
 
 === PHASE 2 les études qualitatives et quantitatives 
 
@@ -49,4 +49,4 @@ Dans un deuxième temps, j'ai publié un questionnaire réalisé avec l'outil Go
 
 === PHASE 3 construire la matrice de durabilité des logiciels
 
-Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant son score de durabilité.
+Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant sa note de durabilité.
