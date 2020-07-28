@@ -21,7 +21,7 @@ Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par l
 La phase de préfabrication a l'impact le plus élevé sur l'environnement car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<N>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<L\'importance du couplage entre Software et Hardware>>.
 
  
-====  _Hypothèse 2_ : *Le Software peut faire "vieillir" le Hardware*
+====  _Hypothèse 2_ : *Le Software peut entraîner "renouvellement" le Hardware*
 
 Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolence programmée (i.e. : de manière mercantile en l'occurrence).
 
