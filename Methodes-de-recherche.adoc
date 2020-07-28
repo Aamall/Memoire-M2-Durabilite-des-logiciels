@@ -23,7 +23,7 @@ La phase de préfabrication a l'impact le plus élevé sur l'environnement car e
  
 ====  _Hypothèse 2_ : *Le Software peut faire "vieillir" le Hardware*
 
-Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer le renouvellement prématuré des terminauxl. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolence programmée (i.e. : de manière mercantile en l'occurrence).
+Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolence programmée (i.e. : de manière mercantile en l'occurrence).
 
 En regard de cette hypothèse, je propose la matrice de durabilité présentée au chapitre <<Matrice>>. Elle présente les critères detérminants en termes de durabilité logicielle.
 
