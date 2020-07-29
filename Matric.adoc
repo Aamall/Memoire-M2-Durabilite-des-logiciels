@@ -1,0 +1,53 @@
+== Les clés de la durabilité de logiciels (Matrice) /// rest à faire///
+
+[cols="5"]
+|===
+
+| LIBELLE| KPI_TYPE| CATEGORIE| POIDS| NORMALIZER LES DONNEES
+
+| Mise à jour de sécurité jointes aux mises à jour fonctionnelles| TRILEAN| Conception| 30 |
+
+| Lazy Loading|TRILEAN|Conception|15 |
+
+| Programmation Objet vs Programmation Fonctionnelle| BOOLEAN| Conception| 10 |
+
+| Cloud sync| BOOLEAN| Conception| 9 |
+
+| Fichier vs BDD| TRILEAN| Conception| 9 |
+
+| Stockage réseau VS Local| TRILEAN| Conception| 9 |
+
+| Appel réseau| BOOLEAN| Conception| 5 | 
+
+| Compilé VS Intrepreté| BOOLEAN| Conception| 5 |
+
+|Travaille en arrière plan| TRILEAN| Conception| 4 |
+
+| Lancer automatiquement au démarrage par défaut| BOOLEAN| Conception| 4 |
+
+| Mode nuit / jour| TRILEAN| Conception| 2 |
+
+| Usage intensif du CPU| BOOLEAN| Développement| 40 |
+
+|Optimiser l'algorithmie(action humaine)| BOOLEAN| Développement| 15 |
+
+|Optimiser les instructions de code( action compilateur)| TRILEAN| Développement| 10 |
+
+| Taux I/O RAM VS DD| POURCENTAGE| Développement| 10 |
+
+| Usage intensif du Mémoire| BOOLEAN| Développement| 8 |
+
+| Binaire qui prend de l’espace| BOOLEAN| Développement| 5 |
+
+| Pourcentage d'utilisation d'Open source| TRILEAN| Développement| 4 |
+
+| Bugs| TRILEAN| Développement| 4 |
+
+| La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections)| BOOLEAN| Développement| 4 |
+
+|===
+
+
+Impact fort sur l'utilisation de la batterie;TRILEAN;Utilisation; --> travail futur
+
+Empriente résiduelle;POURCENTAGE;Intégration;  --> travail futur
