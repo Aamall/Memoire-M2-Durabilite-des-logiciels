@@ -237,6 +237,8 @@ image::Criteria-that-make-applications-for-smartphones-for-sustainable.jpg[Crit�
 image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les smartphones]
 
 
+
+
 == Illustrations pratiques 
 
 === Cas d'un calcul de Fibonacci
@@ -247,7 +249,7 @@ Soit un logiciel permettant de calculer et afficher la valeur de la position une
 
 Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
 
-Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page]
+Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page] ///reste à faire///
 
 ==== Etape de développement
 
