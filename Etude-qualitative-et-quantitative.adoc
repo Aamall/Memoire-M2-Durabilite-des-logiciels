@@ -30,12 +30,12 @@ Les questions du questionnaire en Français :
 
 | *Question* | *Réponses* |*Type de question* 
 
-| Combien d’années d’expérience en matière de programmation avez-vous ? a | * 1 – 3 ans
+| Combien d’années d’expérience en matière de programmation avez-vous ?  a| * 1 – 3 ans
 * 3 – 5 ans
 * 5 – 10 ans
 * Plus de 10 ans |Choix multiple
 
-| Dans quel langage de programmation êtes-vous le plus compétent ? a | * Java
+| Dans quel langage de programmation êtes-vous le plus compétent ? a| * Java
 * C++
 * Python
 * Objective C
@@ -48,7 +48,7 @@ Les questions du questionnaire en Français :
 * Ruby
 * JavaScript | cases à cocher
 
-| Développez-vous des logiciels /applications pour Smartphones ? a |*  Oui
+| Développez-vous des logiciels /applications pour Smartphones ? a|*  Oui
 * Non | Choix multiple
 
 |=== 
@@ -64,12 +64,12 @@ Les questions du questionnaire en Anglais :
 
 | *Question* | *Réponses* | *Type de question*
 
-| How many years of programming experience de you have ? a |* 1 – 3 years
+| How many years of programming experience de you have ? a| * 1 – 3 years
 * 3 – 5 years
 * 5 – 10 years
 * More than 10 years |Choix multiple
 
-| In which programming langage are you proficient ? a |* Java
+| In which programming langage are you proficient ? a| * Java
 * C++
 * Python
 * Objective C
@@ -82,7 +82,7 @@ Les questions du questionnaire en Anglais :
 * Ruby
 * JavaScript| cases à cocher
 
-|Do you develop software/application for Smartphones ? a | * Yes
+|Do you develop software/application for Smartphones ? a| * Yes
 * No | Choix multiple
 
 |=== 
@@ -292,19 +292,19 @@ image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les sma
 
 
 
-== Illustrations pratiques 
+=== Illustrations pratiques 
 
-=== Cas d'un calcul de Fibonacci
+==== Cas d'un calcul de Fibonacci
 
 Soit un logiciel permettant de calculer et afficher la valeur de la position une suite de Fibonacci. 
 
-==== Etape de conception
+===== Etape de conception
 
 Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
 
 Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page] ///reste à faire///
 
-==== Etape de développement
+===== Etape de développement
 
 Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
 
