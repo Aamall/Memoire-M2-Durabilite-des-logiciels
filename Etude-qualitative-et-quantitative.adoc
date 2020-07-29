@@ -30,11 +30,26 @@ Les questions du questionnaire en Français :
 
 | *Question* | *Réponses* |*Type de question* 
 
-| Combien d’années d’expérience en matière de programmation avez-vous ? | 1 – 3 ans/ 3 – 5 ans/ 5 – 10 ans/Plus de 10 ans |Choix multiple
+| Combien d’années d’expérience en matière de programmation avez-vous ? a | * 1 – 3 ans
+* 3 – 5 ans
+* 5 – 10 ans
+* Plus de 10 ans |Choix multiple
 
-| Dans quel langage de programmation êtes-vous le plus compétent ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl / PHP/ Ruby/ JavaScript | cases à cocher
+| Dans quel langage de programmation êtes-vous le plus compétent ? a | * Java
+* C++
+* Python
+* Objective C
+* Swift
+* KotLin
+* C 
+* C#
+* Perl 
+* PHP
+* Ruby
+* JavaScript | cases à cocher
 
-| Développez-vous des logiciels /applications pour Smartphones ? | Oui / Non | Choix multiple
+| Développez-vous des logiciels /applications pour Smartphones ? a |*  Oui
+* Non | Choix multiple
 
 |=== 
 
@@ -49,11 +64,26 @@ Les questions du questionnaire en Anglais :
 
 | *Question* | *Réponses* | *Type de question*
 
-| How many years of programming experience de you have ? | 1 – 3 years/ 3 – 5 years/ 5 – 10 years/ More than 10 years |Choix multiple
+| How many years of programming experience de you have ? a |* 1 – 3 years
+* 3 – 5 years
+* 5 – 10 years
+* More than 10 years |Choix multiple
 
-| In which programming langage are you proficient ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl / PHP/ Ruby/ JavaScript| cases à cocher
+| In which programming langage are you proficient ? a |* Java
+* C++
+* Python
+* Objective C
+* Swift
+* KotLin
+* C 
+* C#
+* Perl 
+* PHP
+* Ruby
+* JavaScript| cases à cocher
 
-|Do you develop software/application for Smartphones ? | Yes / No | Choix multiple
+|Do you develop software/application for Smartphones ? a | * Yes
+* No | Choix multiple
 
 |=== 
 
@@ -95,7 +125,7 @@ Les questions du questionnaire en Français :
 * Développement Open source
 * Mode nuit / jour
 * Lazy Loading
-*Inactif en tâche de fond
+* Inactif en tâche de fond
 * Je ne développe pas d’appli pour smartphone
 * Minimaliser les dépendances extérieures surtout open source, utiliser les derniers SDK de developpement ( dernier iOS, derniere version d'android studio) cela donne une durée de vie moyenne de 3 ans
 * Moins de «gadgets» , se concentrer sur les fonctionnalités réellement attendues |cases à cocher
@@ -109,7 +139,7 @@ Les questions du questionnaire en Français :
 * Lancer automatiquement au démarrage par défaut
 * La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections)
 * progrès des devices, et obsolescence programmée : Une application qui a été developpée il y 3 ans, et n'a pas été modifiée depuis, ne peut pas être installée sur les iPhone 11. Presque même problème sur android
-*Impossibilité d’installer sur la carte SD plutôt que sur le stockage interne du téléphone (généralement limité) |cases à cocher
+* Impossibilité d’installer sur la carte SD plutôt que sur le stockage interne du téléphone (généralement limité) |cases à cocher
 
 | Identifiez-vous des moyens pour évaluer la durabilité des logiciels pour Smartphones (voire en dehors de cette seule plateforme) ? a| * Les statistiques des installations de maj
 * Non
