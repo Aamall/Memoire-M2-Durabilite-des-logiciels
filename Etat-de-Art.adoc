@@ -44,7 +44,7 @@ A partir de ce concept, les caractéristiques de l'IS green : <<D>>
 ** Innovations en matière de technologies environnementales dans les produits et services destinés aux utilisateurs finaux.
 ** Surveillance de la demande en ressources et des émissions des produits et services (analyses du cycle de vie)
 
-==== La notion du Green IT
+==== La notion de Green IT
 
 Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueux de l'environnement.
 
@@ -87,7 +87,7 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 * Atténuation des risques liés à l'environnement.
 * Utilisation de sources d'énergie renouvelables et éco-labellisation des produits informatiques.
 
-==== La notion de l'Obsolescence Programmée
+==== La notion d'Obsolescence Programmée
 
 L'article "`Art. L. 213-4-1.-I.`" définit l'obsolescence programmée comme :
 
