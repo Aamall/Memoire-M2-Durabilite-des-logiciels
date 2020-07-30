@@ -97,6 +97,8 @@ Cette section me permettra uniquement de fournir des statistiques sur les profil
 _Section 2_ : *Recueillir les critères*
 
 
+Afin de proposer des questions pour collecter les critères de la matrice, et pour savoir si les développeurs sont conscients de la consommation d'énergie, les questions suivantes ont été posées : 
+
 Les questions du questionnaire en Français :
 
 
@@ -165,8 +167,6 @@ Les questions du questionnaire en Français :
 |===
 
 
-
-
 Les questions du questionnaire en Français :
 
 
@@ -209,10 +209,7 @@ Les questions du questionnaire en Français :
 |===
 
 
-
-
-La section 2 me permet d'énumérer les critères par ordre décroissant. ///reste à faire///
-
+La section 2 me permet de savoir l'importance de critères selon les répondeurs. 
 
 
 ==== Résultats du questionnaire
