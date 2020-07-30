@@ -255,6 +255,11 @@ image::Software-application-for-smartphones.jpg[Développer logiciels / applicat
 
 
 
+Le panel a différents niveaux d'expérience avec une représentation de plus de 10 ans d'expérience (34.8%) et de 3 à 5 ans plus élevée (30.4%). Cela implique que les participants n'ont pas la même expérience de la manière dont le logiciel consomme les ressources de la machine et, par conséquent, la conscience de la consommation d'énergie.
+
+
+
+
 =====  Recueillir les critères
 
 
@@ -289,7 +294,7 @@ image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les sma
 
 
 
-=== Illustrations pratiques 
+=== Illustrations pratiques ///reste à faire///
 
 ==== Cas d'un calcul de Fibonacci
 
