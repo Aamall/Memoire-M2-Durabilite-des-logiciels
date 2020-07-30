@@ -8,7 +8,7 @@
 
 Les choses à savoir sur les conceptions :
  
-tu as plus d'impact si tu fais sur le front que sur le back.
+Tu as plus d'impact si tu fais sur le front que sur le back.
 Je m'explique: les vrais postes de dépenses en énergie c’est essayer de limiter la consommation d'énergie et d’eau, en fait, optimiser les process algorithmiques.
 Cela veut dire que la plupart des règles d'éco-conception ça reviennent à des bonnes pratiques de codes ça, aller simplification, aller au plus rapide avec moins
 de ressources.
@@ -19,36 +19,37 @@ Mises à part quelques exceptions, globalement, c'est des choses qui sont pratiq
 pour insister sur le fait que non seulement un code mal écrit, ce n’est pas seulement compréhensible et surtout il gaspille de l'énergie. Donc, étendre de
 développement durable à tous phases va bien.
 
-Par contre, c’est pour ça que RTE fait avec les sous-traitants  qui se chargent du front, des IHM, des applications web, tu n'as pas trop de règles de conceptions pour des codes back.
+Par contre, c’est pour ça que RTE fait avec les sous-traitants qui se chargent du front, des IHM, des applications web, tu n'as pas trop de règles de conceptions pour des codes back.
  
 Autre point de l'éco-conception: identifier là où tu peux gagner le plus. Il y a des tas de façons de faire, de règles.
 Pour éviter de se disperser sur l'état de choses , tu vas essayer de trouver des postes de dépenses prioritaires plutôt que de faire un code qui soit parfait.
 Tu gagnes plus sur le web et sur les IHM que sur le code java en derrière.
 
-Il y a le livre «Éco-conception web» qui te montre les bonnes pratiques pour construire un site web. Les formations sur green IT est plus générale (les imprimantes, les data-center et la partie logiciel), toi ce qui t'intéressera c’est la partie logiciel.
+Il y a le livre «Éco-conception web» qui te montre les bonnes pratiques pour construire un site web. Les formations sur Green IT est plus générale (les imprimantes, les data-center et la partie logiciel), toi ce qui t'intéressera c’est la partie logiciel.
 
 Il y pas forcément du JAVA, c’est axé sur le développement web. Il est plus efficace de se focaliser sur la partie web car c’est là que tu feras du gain, que sur la partie back.
 
 Deuxième chose:
  
-Il y a beaucoup d'entreprises qui font du green wasching, c’est très à la mode ( de dire j'ai fait concevoir un éco-logiciel sans savoir ce qu'ils font).
+Il y a beaucoup d'entreprises qui font du Greenwashing, c’est très à la mode ( de dire j'ai fait concevoir un éco-logiciel sans savoir ce qu'ils font).
 La plupart du temps, les gens ne savent pas de quoi ils parlent, ils vendent leurs services très chers à des grosses entreprises qui se donnent une image verte.
 
 *Le green IT comment ça marche si je veux l'appliquer ? quel est le critère pour faire un logiciel  plus durable ?* 
 
 Les critères :
 
-pour avoir un logiciel totalement éco-conçu, tu dois penser en cycle de développement.
+Pour avoir un logiciel totalement éco-conçu, tu dois penser en cycle de développement.
 Tu dois penser du début à la fin comment tu vas réduire au minimum les ressources nécessaires.
 
 Avant tout ça veux dire: bien penser ton site web: il n'y a pas forcément de critère tout à fait objectif sur comment le construire mais il y a un principe de sobriété générale: aller au plus simple.
 
 Par exemple, on a deux site :
+
 le 1er: ça c'est un site web, tu as des grosses images, des boutons dans tous les sens.
 le 2e: ça c'est l'idéal, faire simple, avec le moins d'images possible. 
 
 Tu dois trouver un juste milieu. Un truc simplifier idéalement, le mois images possible.
-Il faut faire un bon cahier des charges, tu dois discuter avec le métier pour voir quels sont leurs besoins précis, savoir les freiner...
+Il faut faire un bon cahier des charges, tu dois discuter avec le métier pour voir quels sont leurs besoins précis, savoir les freiner.
 
 Donc éco-conception c'est identifier les besoins bruts et virer le superflu.
 
@@ -57,6 +58,7 @@ C'est au fur et à mesure du projet que tu peux mesurer ta performance environne
 *Est-ce qu’il y a des outils pour mesurer la performance de site web ?*
 
 Eco-index: pour mesurer la performance. Ensuite, tu compares avec d'autres pages.
+
 c'est une formule qui est calculée à partir du nombre de requête, la taille de la page, de la mémoire et ça te renvoie le CO2, l'eau... pour te donner une note globale. C’est un outil pour la page web. Pour Java, il n'y a pas forcement des outils  pour le tester, encore une fois, la démarche est focalisée plutôt sur le web,  sur les IHM que le java. 
 
 Pour mettre en place une démarche comme ça, cela suppose de préparer énormément, il faut avoir beaucoup d'éléments (avoir déjà une historique, avoir déjà une détaille de projet)  pour comparer les performances, comparer entre ce que tu as fait, l'impact  de ton éco-conception (comment c'était avant et ce que tu as fait les choses nécessaires).
@@ -75,7 +77,7 @@ Tu estimes avec la taille de la mémoire, le poids de la page et le nombre de re
 *C'est quoi la relation entre le site web et l’impact environnementale ?*
 
 C'est par la consommation en électricité.
-Le green it c’est vraiment la démarche en global, il prend tout, de la conception du poste (quand tu construis un ordinateur, tu as besoin de consommation d’énergie, de l’eau pour les matières) en suite, lors de la phase d’utilisation du poste (ça consomme l’électricité et de l’eau). Et en suite, à la fin, pour le recyclage, tu as aussi pareil pour la consommation de l’électricité et de l’eau. Par conséquent, l'essentiel de la démarche green it qu'elle s'agit d'une  démarche globale. Effectivement,  tu ne peux pas focaliser sur une seule phase. Donc, la démarche green it c'est vraiment éco-concevoir un logiciel, tu dois aussi prendre le matériel…
+Le Green IT c’est vraiment la démarche en global, il prend tout, de la conception du poste (quand tu construis un ordinateur, tu as besoin de consommation d’énergie, de l’eau pour les matières) en suite, lors de la phase d’utilisation du poste (ça consomme l’électricité et de l’eau). Et en suite, à la fin, pour le recyclage, tu as aussi pareil pour la consommation de l’électricité et de l’eau. Par conséquent, l'essentiel de la démarche green it qu'elle s'agit d'une  démarche globale. Effectivement,  tu ne peux pas focaliser sur une seule phase. Donc, la démarche green it c'est vraiment éco-concevoir un logiciel, tu dois aussi prendre le matériel…
 
 Un site web qui est mal conçu, il est plus lourd, donc il fait plus de requêtes, il est trop gros, donc, il va utiliser pour le même résultat  plus d'énergie et le matériel va s'user plus vite... c'est toute une chaîne.
 
@@ -89,6 +91,12 @@ Par exemple, entre les terminaux (ordinateur), le réseau (web) et la date-cente
 
 Voilà, dans la manière générale, faire des pages simples est bénéfique pour l'utilisateur, ça devient plus lisible.
 
-*Le green IT est un sujet très intéressant mais compliqué à appliquer. Est-ce-qu le logiciel fait viellir le matériel ?*
+*Le Green IT est un sujet très intéressant mais compliqué à appliquer. Est-ce-qu le logiciel fait vieillir le matériel ?*
 
-Le logiciel a un impact sur le matériel. Un site mal conçu demande plus de ressources en énergie. c’est le logiciel qui a un impact.
+C’est plutôt le logiciel qui fait vieillir le matériel. Le logiciel a un impact sur le matériel. Un site mal conçu demande plus de ressources, donc, plus de dépense d’énergie, plus d’énergie nécessaire pour un gros site, va donc avoir un impact fait vieillir prématurément l’écran, le hardware, etc. Donc, c’est le logiciel qui a un impact sur le matériel.
+
+*Qu'entendons-nous par "logiciel obèse" ? *
+
+ En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. 
+
+Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
