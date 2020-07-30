@@ -95,8 +95,8 @@ Voilà, dans la manière générale, faire des pages simples est bénéfique pou
 
 C’est plutôt le logiciel qui fait vieillir le matériel. Le logiciel a un impact sur le matériel. Un site mal conçu demande plus de ressources, donc, plus de dépense d’énergie, plus d’énergie nécessaire pour un gros site, va donc avoir un impact fait vieillir prématurément l’écran, le hardware, etc. Donc, c’est le logiciel qui a un impact sur le matériel.
 
-*Qu'entendons-nous par "logiciel obèse" ? *
+*Qu'entendons-nous par "logiciel obèse" ?*
 
- En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. 
+En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. 
 
 Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
