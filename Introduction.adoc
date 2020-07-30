@@ -17,7 +17,7 @@ Il est clairement établi que les technologies de l'information contribuent à c
 La stratégie ou la politique que les entreprises suivent pour réduire ces effets s'appelle le *Green IT*. Dans ce domaine, il est démontré que la fabrication des produits représente classiquement un facteur 100 au regard de leur utilisation. On s'intéressera dans ce mémoire à la question d'une utilisation durable des matériels grâce à une saine gestion de leurs logiciels.
 
 
-Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie font-ils provoquer le renouvellement prémuté des terminaux ?*
+Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie font-ils provoquer le renouvellement prématuré des terminaux ?*
 
 
 L'objectif de cette thèse est donc de construire une matrice de durabilité logicielle qui expose et note les critères de la durabilité logicielle. Idéalement, cette matrice nous permettra de déterminer si un logiciel est durable ou non.
