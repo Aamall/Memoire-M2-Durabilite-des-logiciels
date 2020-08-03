@@ -30,30 +30,13 @@ Les questions du questionnaire en Français :
 
 | *Question* | *Réponses* |*Type de question* 
 
-| Combien d’années d’expérience en matière de programmation avez-vous ?  a| * 1 – 3 ans
-* 3 – 5 ans
-* 5 – 10 ans
-* Plus de 10 ans |Choix multiple
+| Combien d’années d’expérience en matière de programmation avez-vous ? | 1 – 3 ans/ 3 – 5 ans/ 5 – 10 ans/Plus de 10 ans |Un seul choix
 
-| Dans quel langage de programmation êtes-vous le plus compétent ? a| * Java
-* C++
-* Python
-* Objective C
-* Swift
-* KotLin
-* C 
-* C#
-* Perl 
-* PHP
-* Ruby
-* JavaScript | cases à cocher
+| Dans quel langage de programmation êtes-vous le plus compétent ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl/ PHP/ Ruby/ JavaScript | cases à cocher
 
-| Développez-vous des logiciels /applications pour Smartphones ? a|*  Oui
-* Non | Choix multiple
+| Développez-vous des logiciels /applications pour Smartphones ? | Oui/ Non |Un seul choix
 
 |=== 
-
-
 
 
 Les questions du questionnaire en Anglais :
@@ -64,30 +47,13 @@ Les questions du questionnaire en Anglais :
 
 | *Question* | *Réponses* | *Type de question*
 
-| How many years of programming experience de you have ? a| * 1 – 3 years
-* 3 – 5 years
-* 5 – 10 years
-* More than 10 years |Choix multiple
+| How many years of programming experience de you have ? | 1 – 3 years/ 3 – 5 years/ 5 – 10 years/ More than 10 years |Un seul choix
 
-| In which programming langage are you proficient ? a| * Java
-* C++
-* Python
-* Objective C
-* Swift
-* KotLin
-* C 
-* C#
-* Perl 
-* PHP
-* Ruby
-* JavaScript| cases à cocher
+| In which programming langage are you proficient ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl / PHP/ Ruby/ JavaScript| cases à cocher
 
-|Do you develop software/application for Smartphones ? a| * Yes
-* No | Choix multiple
+|Do you develop software/application for Smartphones ? | Yes/ No | Un seul choix
 
 |=== 
-
-
 
 
 Cette section me permettra uniquement de fournir des statistiques sur les profils qui ont répondu au questionnaire. Elle ne me permet pas de collecter des critères.
@@ -107,11 +73,7 @@ Les questions du questionnaire en Français :
 
 | *Question* | *Réponses* | *Type de question*
 
-| Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? a|* Non
-* Non
-* Non
-* Non malheureusement
-* Bon
+| Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? a|* Non malheureusement
 * Pas vraiment
 * Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex (le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement …)
 * Outils: Des applications d'analyse de consomation de la batterie par application et les outils officiels proposé par chaque constructeur : Android studio profiler, et Instruments pour iOs
@@ -120,7 +82,6 @@ Les questions du questionnaire en Français :
 * Pour l’instant, uniquement au niveau de l’architecture pour ne pas être trop gourmands en ressources (nombre de microservices, usage de la RAM par exemple)
 * J'essaie de faire du low code
 * La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie
-* ?
 * pas vraiment | Texte libre
 
 | Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ? a| * Mise à jour de sécurité jointes aux mises à jour fonctionnelles
@@ -150,7 +111,6 @@ Les questions du questionnaire en Français :
 * Je n'en connais pas
 * Peut être pourrait on suivre la différence de consommation de batterie et d'usage de CPU pour un usage identique de l'application entre deux release?
 * Bonne gestion du mode offline / cache et synchronisation Compatibilité des OS Complexité fonctionnelles applicative
-* ?
 * Qu'un logiciel puisse fonctionner pendant au moins plusieurs années (plus que 2 ans) sur le même appareil sans que les mises à jour rendent le smartphone obsolète
 * Je n’en connais pas | Texte libre
 
@@ -161,7 +121,6 @@ Les questions du questionnaire en Français :
 * Pas de connaissance de méthode mais voir https://www.greenit.fr/2016/03/08/decryptage-l-eco-conception-des-logiciels/
 * Pas vraiment une méthodologie, mais l'optimisation des traitements (algorithme, nombre de requêtes en BD, ne remonter que les données nécessaires, ...) limitent la consommation
 * Pas vraiment une méthodologie, mais l'optimisation des traitements (algorithme, nombre de requêtes en BD, ne remonter que les données nécessaires, ...) limitent la consommation
-* ?
 * Les bonnes pratiques de développement visant à avoir un logiciel facilement maintenable favorisent aussi la durabilité je pense. Par contre si on veut mettre la durabilité comme objectif principal je pense que cela peut obliger à certains renoncements sur certaines fonctionnalités qui n’apportent pas un gain suffisant pour justifier leur fort coût en ressources par exemple |  Texte libre
 
 |===
@@ -178,9 +137,7 @@ Les questions du questionnaire en Français :
 | Do you take energy consumption into account when developing software? If so, how do you account for energy consumption? a| * No
 * NO
 * Of course, that's important
-* No Just avoiding unuseful elaborations
-* Non
-* Non | Texte libre
+* No Just avoiding unuseful elaborations| Texte libre
 
 | What do you think are the criteria that make applications/software for Smartphones more sustainable ? a| * Security update attached to functional updates
 * Open source development
@@ -288,75 +245,3 @@ image::Criteria-that-make-applications-for-smartphones-for-sustainable.jpg[Crit�
 .Critères qui font veillir les smartphones
 [caption="Figure 1: "]
 image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les smartphones]
-
-
-
-
-
-
-=== Illustrations pratiques ///reste à faire///
-
-==== Cas d'un calcul de Fibonacci
-
-Soit un logiciel permettant de calculer et afficher la valeur de la position une suite de Fibonacci. 
-
-===== Etape de conception
-
-Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
-
-Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page] ///reste à faire///
-
-===== Etape de développement
-
-Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
-
-fibonacci.py
-----
-     1	#!/bin/python3
-     2	
-     3	def fibonacci(value):
-     4	    if value == 0:
-     5	        return 0
-     6	    elif value == 1:
-     7	        return 1
-     8	    else:
-     9	        return fibonacci(value - 1) + fibonacci(value - 2)
-    10	
-    11	def fibonacci(withCache, cache, value):
-    12	    # Get the result from cache if present
-    13	    if withCache and value in cache.keys():
-    14	        return cache[value]
-    15	
-    16	    if value == 0:
-    17	        result = 0
-    18	    elif value == 1:
-    19	        result = 1
-    20	    else:
-    21	        result = fibonacci(withCache, cache, value - 1) + fibonacci(withCache, cache, value - 2)
-    22	    
-    23	    # Update the cache
-    24	    if withCache:
-    25	        cache[value] = result 
-    26	
-    27	    return result
-    28	
-    29	if __name__ == '__main__':
-    30	    withCache = True
-    31	    cache = dict()
-    32	        
-    33	    i = 0
-    34	    while True:
-    35	        result = fibonacci(withCache, cache, i)
-    36	        print(f"F({i}) = {result}")
-    37	        i = i + 1
-    38	
-    39	
-----
-
-==== Etape d'utilisation
-
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
-
-==== Etape de suppression
-
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
