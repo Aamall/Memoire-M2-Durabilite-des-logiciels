@@ -193,10 +193,9 @@ Le serveur est un dispositif qui met des ressources, des données, des services 
 [caption="Figure 8: "]
 image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]
 
-=== L'importance du couplage entre Software et Hardware
+=== De l'importance du couplage entre le Software et le Hardware
 
-L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. 
-Car l’empreinte écologique dépend de la durabilité du matériel !
+Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considiration la durabilité des matériels sur lesquels ils sont instanciés. En effet,l’empreinte écologique dépend de la durabilité du matériel. 
 
 ==== L'empreinte environnementale de matériels informatiques
 
@@ -236,8 +235,6 @@ Ces résultats nous encouragent donc à réduire autant que possible ces impacts
 En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<M>> ) .
 
 ==== Démonstration de l'importance du couplage entre Software et Hardware
-
-L'objectif essentiel de la durabilité des logiciels qu'elle s'agit de travailler sur la durabilité des matériels. Sans l'existence de la durabilité des matériels, il y n'a pas de sens de la durabilité des logiciels. Car l’empreinte écologique dépend de la durabilité du matériel !
 
 Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<B>>", que TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un consensus autour de 4-5 %. En comparaison, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
 
