@@ -1,0 +1,68 @@
+<<<
+
+== Illustrations pratiques ///reste à faire///
+
+=== Cas d'un calcul de Fibonacci
+
+Soit un logiciel permettant de calculer et afficher la valeur de la position une suite de Fibonacci. 
+
+==== Etape de conception
+
+Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
+
+Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page] ///reste à faire///
+
+==== Etape de développement
+
+Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
+
+fibonacci.py
+----
+     1	#!/bin/python3
+     2	
+     3	def fibonacci(value):
+     4	    if value == 0:
+     5	        return 0
+     6	    elif value == 1:
+     7	        return 1
+     8	    else:
+     9	        return fibonacci(value - 1) + fibonacci(value - 2)
+    10	
+    11	def fibonacci(withCache, cache, value):
+    12	    # Get the result from cache if present
+    13	    if withCache and value in cache.keys():
+    14	        return cache[value]
+    15	
+    16	    if value == 0:
+    17	        result = 0
+    18	    elif value == 1:
+    19	        result = 1
+    20	    else:
+    21	        result = fibonacci(withCache, cache, value - 1) + fibonacci(withCache, cache, value - 2)
+    22	    
+    23	    # Update the cache
+    24	    if withCache:
+    25	        cache[value] = result 
+    26	
+    27	    return result
+    28	
+    29	if __name__ == '__main__':
+    30	    withCache = True
+    31	    cache = dict()
+    32	        
+    33	    i = 0
+    34	    while True:
+    35	        result = fibonacci(withCache, cache, i)
+    36	        print(f"F({i}) = {result}")
+    37	        i = i + 1
+    38	
+    39	
+----
+
+=== Etape d'utilisation
+
+Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+
+=== Etape de suppression
+
+Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
