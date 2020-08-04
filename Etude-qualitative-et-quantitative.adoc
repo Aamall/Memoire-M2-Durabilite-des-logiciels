@@ -11,11 +11,24 @@ Le choix des profils à interviewer a été basé sur des personnes qui travaill
 
 === Etude quantitative : Présentation du questionnaire
 
-Un questionnaire a été réalisé afin de recueillir les critères qui rendent les logiciels plus durables ou non.
+Comme ce travail est chargé de construire la matrice de durabilité, un questionnaire a été réalisé afin de recueillir les critères qui rendent les logiciels plus durables ou non selon les développeurs.
 
-Deux questionnaires ont été menés, l'un en français et l'autre en anglais.
+Deux questionnaires ont été menés, l’un en français et l’autre en anglais. Ce dernier comprend deux sections principales. La première fournit des informations sur les années d’expérience des répondants et les langages de programmation. Elle permet également de savoir si les répondants sont des développeurs d’applications pour smartphones ou non. Car ce questionnaire s’adressait d’abord aux développeurs de smartphones, et ensuite à tous les développeurs.
 
-Ce dernier comprend deux sections principales. La première fournit des informations sur les années d'expérience des répondants et les langages de programmation. Elle permet également de savoir si les répondants sont des développeurs d'applications pour smartphones ou non. Car ce questionnaire s'adressait d'abord aux développeurs de smartphones, et ensuite à tous les développeurs.
+La deuxième me permet de savoir si les développeurs tiennent compte de la consommation d'énergie, et de recueillir les critères qui me permettent de construire la matrice de durabilité. En outre, cette partie comprend deux questions ouvertes destinées aux développeurs pour leur permettre de suggérer des moyens d'évaluer la durabilité des logiciels et des méthodes de conception technique.
 
-La deuxième me permet de savoir si les développeurs prennent en compte la consommation d'énergie, et de recueillir les critères qui me permettent de construire la matrice de durabilité. Cette partie comprenait deux questions ouvertes pour que les développeurs puissent proposer des moyens d'évaluer la durabilité des logiciels et les méthodologies de conception technique.
+Les résultats ont montré que les développeurs avaient différents niveaux d'expérience avec une représentation plus élevée de plus de 10 ans et de 3 à 5 ans d'expérience. En outre, les langages de programmation les plus utilisés sont : Java, C++ et Python, avec une représentation plus faible de : Objective C, Swift et KotLin.
 
+La différence de niveau d'expérience des développeurs me permet d'observer que les participants n'ont pas la même expérience de la manière dont le logiciel consomme les ressources de la machine et, par conséquent, la conscience de la consommation d'énergie. Ceci est également confirmé par les résultats de la quatrième question.  
+
+La plupart des réponses à la quatrième question étaient : 
+
+- "Non, malheureusement"
+
+- "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie"
+
+- "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
+
+- "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
+
+Par conséquent, les développeurs ne prennent presque jamais en compte la consommation d'énergie, sauf si celle-ci est perceptible. Cela implique que les développeurs ne sont pas conscients de la consommation d'énergie des logiciels. Ceci est également confirmé, dans l'article <<P>> que j'ai détaillé dans le chapitre "État de l'art".
