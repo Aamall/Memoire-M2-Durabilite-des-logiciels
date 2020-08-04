@@ -67,3 +67,5 @@ En outre, les développeurs ont proposé des critères tels que :
 * " Publicité ." 
 
 Je détaille ces critères de la matrice séparément dans le chapitre <<Les clés de la durabilité de logiciels>>.
+
+Pour le questionnaire et ses réponses, voir l'annexe 5.
