@@ -100,3 +100,149 @@ C’est plutôt le logiciel qui fait vieillir le matériel. Le logiciel a un imp
 En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. 
 
 Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
+
+
+=== Annexe 5
+
+_Section 1_ : *Le profil général du répondant*
+
+[cols="3"]
+|=== 
+
+| *Question* | *Réponses* |*Type de question* 
+
+| Combien d’années d’expérience en matière de programmation avez-vous ?/ How many years of programming experience de you have ?  | 1 – 3 ans/ 3 – 5 ans/ 5 – 10 ans/Plus de 10 ans |Un seul choix
+
+| Dans quel langage de programmation êtes-vous le plus compétent ?/ In which programming langage are you proficient ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl/ PHP/ Ruby/ JavaScript | cases à cocher
+
+| Développez-vous des logiciels /applications pour Smartphones ?/ Do you develop software/application for Smartphones ? | Oui/ Non |Un seul choix
+
+|=== 
+
+_Section 2_ : *Recueillir les critères*
+
+
+[cols="3"]
+|===
+
+| *Question* | *Réponses* | *Type de question*
+
+| Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? /Do you take energy consumption into account when developing software? If so, how do you account for energy consumption? a|* Non malheureusement
+* Pas vraiment
+* Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex (le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement …)
+* Outils: Des applications d'analyse de consomation de la batterie par application et les outils officiels proposé par chaque constructeur : Android studio profiler, et Instruments pour iOs
+* Pas du tout
+* Pas particulièrement, mais j'essaie de limiter les traitements/variables inutiles (optimisation de code)
+* Pour l’instant, uniquement au niveau de l’architecture pour ne pas être trop gourmands en ressources (nombre de microservices, usage de la RAM par exemple)
+* J'essaie de faire du low code
+* La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie
+* pas vraiment | Texte libre
+
+| Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ?  / What do you think are the criteria that make applications/software for Smartphones more sustainable ? a| * Mise à jour de sécurité jointes aux mises à jour fonctionnelles
+* Développement Open source
+* Mode nuit / jour
+* Lazy Loading
+* Inactif en tâche de fond
+* Je ne développe pas d’appli pour smartphone
+* Minimaliser les dépendances extérieures surtout open source, utiliser les derniers SDK de developpement ( dernier iOS, derniere version d'android studio) cela donne une durée de vie moyenne de 3 ans
+* Moins de «gadgets» , se concentrer sur les fonctionnalités réellement attendues |cases à cocher
+
+| Selon vous quels sont les critères qui font-vieillir les Smartphones ?/  In your opinion, what are the criteria that make Smartphones old ? a| * Usage intensif du CPU
+* Usage intensif du Mémoire
+* Impact fort sur l'utilisation de la batterie
+* Bugs
+* Travaille en arrière plan
+* Binaire qui prend de l’espace
+* Lancer automatiquement au démarrage par défaut
+* La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections)
+* progrès des devices, et obsolescence programmée : Une application qui a été developpée il y 3 ans, et n'a pas été modifiée depuis, ne peut pas être installée sur les iPhone 11. Presque même problème sur android
+* Impossibilité d’installer sur la carte SD plutôt que sur le stockage interne du téléphone (généralement limité) |cases à cocher
+
+| Identifiez-vous des moyens pour évaluer la durabilité des logiciels pour Smartphones (voire en dehors de cette seule plateforme) ?/ Do you identify ways to assess the sustainability of software for Smartphones (or even outside this single platform)? a| * Les statistiques des installations de maj
+* Non
+* L'age du logiciel, les intervalles entre les maintenances/évolutions, l'évolution de son utilisation dans le temps (est-ce que le logiciel continue d'être utilisé après 2, 5, 10 ans..)
+* Capacité du logiciel a fonctionner sur des anciens modèles de smartphone
+* Je n'en connais pas
+* Peut être pourrait on suivre la différence de consommation de batterie et d'usage de CPU pour un usage identique de l'application entre deux release?
+* Bonne gestion du mode offline / cache et synchronisation Compatibilité des OS Complexité fonctionnelles applicative
+* Qu'un logiciel puisse fonctionner pendant au moins plusieurs années (plus que 2 ans) sur le même appareil sans que les mises à jour rendent le smartphone obsolète
+* Je n’en connais pas | Texte libre
+
+| Selon vous y-a-t-il des méthodologies de projet, de conception technique qui favorisent la durabilité des logiciels?/ In your opinion, are there project and engineering design methodologies that promote software sustainability? a| * Agilité
+* Utiliser patron de conception, respect des bonnes pratiques
+* Il en existe certainement mais elles ne sont pas mises en avant au sein de mon entreprise et il n’y a aucune mention de la durabilité du logiciel dans le cahier des charges
+* Le low code, prendre des technos actuelles et stables, essayer de faire du code réutilisable dans d'autres fonctionnalités/projets
+* Pas de connaissance de méthode mais voir https://www.greenit.fr/2016/03/08/decryptage-l-eco-conception-des-logiciels/
+* Pas vraiment une méthodologie, mais l'optimisation des traitements (algorithme, nombre de requêtes en BD, ne remonter que les données nécessaires, ...) limitent la consommation
+* Pas vraiment une méthodologie, mais l'optimisation des traitements (algorithme, nombre de requêtes en BD, ne remonter que les données nécessaires, ...) limitent la consommation
+* Les bonnes pratiques de développement visant à avoir un logiciel facilement maintenable favorisent aussi la durabilité je pense. Par contre si on veut mettre la durabilité comme objectif principal je pense que cela peut obliger à certains renoncements sur certaines fonctionnalités qui n’apportent pas un gain suffisant pour justifier leur fort coût en ressources par exemple |  Texte libre
+
+|===
+
+==== Résultats du questionnaire
+
+===== Profils généraux des répondants
+
+Les résultats en français : 
+
+.Annees-d-experience-en-materes-de-programmation
+[caption="Figure 1: "]
+image::Annees-d-experience-en-materes-de-programmation.jpg[Années d'experience en materes de programmation]
+
+
+.Langage de programmaion le plus competent
+[caption="Figure 1: "]
+image::Langage-de-programmaion-le-plus-competent.jpg[.Langage de programmaion le plus competent]
+
+
+.Développer logiciels / applications pour smartphones
+[caption="Figure 1: "]
+image::Logiciels-applications-pour-smartphones.jpg[Développer logiciels / applications pour smartphones]
+
+
+Les résultats en anglais : 
+
+.Annees-d-experience-en-materes-de-programmation
+[caption="Figure 1: "]
+image::Years-of-programming-experience.jpg[Annees-d-experience-en-materes-de-programmation]
+
+
+.Langage de programmaion le plus competent
+[caption="Figure 1: "]
+image::Programming-language-most-proficient.jpg[Langage de programmaion le plus competent]
+
+
+.Développer logiciels / applications pour smartphones
+[caption="Figure 1: "]
+image::Software-application-for-smartphones.jpg[Développer logiciels / applications pour smartphones]
+
+
+=====  Recueillir les critères
+
+
+Les résultats en français :
+
+
+.critères qui rendent les logiciels de smartphones plus durables
+[caption="Figure 1: "]
+image::criteres-qui-rendent-les-logiciels-de-smartphones-plus-durables.jpg[critères qui rendent les logiciels de smartphones plus durables]
+
+
+.Critères qui font veillir les smartphones
+[caption="Figure 1: "]
+image::Criteres-qui-font-veillir-les-smartphones.jpg[Critères qui font veillir les smartphones]
+
+
+Les résultats en anglais : 
+
+
+.Critères qui font veillir les smartphones
+[caption="Figure 1: "]
+image::Criteria-that-make-applications-for-smartphones-for-sustainable.jpg[Critères qui font veillir les smartphones]
+
+
+
+.Critères qui font veillir les smartphones
+[caption="Figure 1: "]
+image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les smartphones]
+
