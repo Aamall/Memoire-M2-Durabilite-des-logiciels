@@ -19,7 +19,7 @@ La deuxième me permet de savoir si les développeurs tiennent compte de la cons
 
 Les résultats ont montré que les développeurs avaient différents niveaux d'expérience avec une représentation plus élevée de plus de 10 ans et de 3 à 5 ans d'expérience. En outre, les langages de programmation les plus utilisés sont : Java, C++ et Python, avec une représentation plus faible de : Objective C, Swift et KotLin.
 
-La différence de niveau d'expérience des développeurs me permet d'observer que les participants n'ont pas la même expérience de la manière dont le logiciel consomme les ressources de la machine et, par conséquent, la conscience de la consommation d'énergie. Ceci est également confirmé par les résultats de la quatrième question " Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? ".  
+La différence de niveau d'expérience des développeurs me permet d'observer que les participants n'ont pas la même expérience de la manière dont le logiciel consomme les ressources de la machine et, par conséquent, la conscience de la consommation d'énergie. Ceci est également confirmé par les résultats de la quatrième question : *Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ?*.  
 
 La plupart des réponses à la quatrième question étaient : 
 
