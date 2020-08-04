@@ -23,12 +23,9 @@ La différence de niveau d'expérience des développeurs me permet d'observer qu
 
 La plupart des réponses à la quatrième question étaient : 
 
-- "Non, malheureusement"
-
-- "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie"
-
-- "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
-
-- "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
+* "Non, malheureusement"
+* "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie"
+* "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
+* "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
 
 Par conséquent, les développeurs ne prennent presque jamais en compte la consommation d'énergie, sauf si celle-ci est perceptible. Cela implique que les développeurs ne sont pas conscients de la consommation d'énergie des logiciels. Ceci est également confirmé, dans l'article <<P>> que j'ai détaillé dans le chapitre "État de l'art".
