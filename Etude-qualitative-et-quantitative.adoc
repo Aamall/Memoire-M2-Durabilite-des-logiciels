@@ -29,3 +29,41 @@ La plupart des réponses à la quatrième question étaient :
 * "Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
 
 Par conséquent, les développeurs ne prennent presque jamais en compte la consommation d'énergie, sauf si celle-ci est perceptible. Cela implique que les développeurs ne sont pas conscients de la consommation d'énergie des logiciels. Ceci est également confirmé, dans l'article <<P>> que j'ai détaillé dans le chapitre "État de l'art".
+
+J'ai pu recueillir les critères de la matrice et les trier par importance en posant les deux questions suivantes :
+
+* *Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ?*
+* *Selon vous quels sont les critères qui font-vieillir les Smartphones ?*
+
+En ce qui concerne les critères qui rendent les logiciels plus durables, les critères suivants sont de la plus haute importance :
+
+* " Mise à jour de sécurité jointes aux mises à jour fonctionnelles. "
+* " Lazy Loading. "
+* " Développement Open source. "
+* " Mode nuit / jour. "
+
+
+En outre, les développeurs ont proposé des critères tels que :
+
+* " Minimaliser les dépendances extérieures surtout open source, utiliser les derniers SDK de developpement ( dernier iOS, derniere version d'android studio) cela donne une durée de vie moyenne de 3 ans. "
+* " Moins de « gadgets » , se concentrer sur les fonctionnalités réellement attendues. "
+* " Ensemble minimal de fonctionnalités. Performances sur des appareils lents. " 
+
+D'autre part, les critères suivants sont de la plus haute importance pour provoquer le renouvellement des terminaux : 
+
+* " Impact fort sur l'utilisation de la batterie. "
+* " Usage intensif du CPU. "
+* " Usage intensif du Mémoire. "
+
+Avec une représentation variable des critères suivants : 
+
+* " Travaille en arrière plan. "
+* " Lancer automatiquement au démarrage par défaut. "
+* " Binaire qui prend de l’espace. "
+
+En outre, les développeurs ont proposé des critères tels que :
+
+* " Progrès des devices, et obsolescence programmée : Une application qui a été developpée il y 3 ans, et n'a pas été modifiée depuis, ne peut pas être installée sur les iPhone 11. Presque même problème sur android. "
+* " Publicité ." 
+
+Je détaille ces critères de la matrice séparément dans le chapitre <<Les clés de la durabilité de logiciels>>.
