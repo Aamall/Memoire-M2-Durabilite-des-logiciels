@@ -242,14 +242,9 @@ Des études montrent que les deux phases de fabrication et de recyclage sont res
 
 La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
 
-==== Conditions préalables pour des matériels durables
+==== Conditions préalables pour des matériels durables ///reste à faire///
 
-Une bonne utilisation de l'équipement permettra de le faire fonctionner le plus longtemps possible.
-Voici les conditions de maintenir de l'équipement : 
 
-* Ne mettez pas l'équipement à la chaleur ou à l'humidité. 
-* Évitez de charger les ordinateurs portables et les smartphones pendant leur utilisation.
-* Évitez de télécharger des applications et des logiciels qui ne sont pas nécessaires, car ils prennent de l'espace mémoire et s'ils fonctionnent toujours en arrière-plan, cela entraîne une consommation d'énergie plus élevée et donc un cycle de vie des battaries plus court.
 
 ==== Le logiciel peut aussi endommager le matériel  /// reste à faire ///
 
