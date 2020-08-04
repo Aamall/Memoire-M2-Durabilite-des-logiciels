@@ -3,7 +3,7 @@
 
 Afin d'aborder la problématique et de confirmer ou infirmer les hypothèses ci-dessous, cette étude se compose de trois phases.
 
-*_Le logiciel et son cycle de vie font-ils provoquer le renouvellement prématuré des terminaux ?_*
+*_Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?_*
 
 === Les hypothèses
 
