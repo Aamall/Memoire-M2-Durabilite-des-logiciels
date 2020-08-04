@@ -2,7 +2,7 @@
 
 == Annexes 
 
-=== Annexe 2 Retranscription interview M. Baptiste LETELLIER
+=== Annexe 2 *Retranscription interview M. Baptiste LETELLIER*
 
 *Qu'entendons-nous par "éco-conception" ?*
 
@@ -102,7 +102,7 @@ En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sau
 Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
 
 
-=== Annexe 5
+=== Annexe 5 *Le questionnaire*
 
 _Section 1_ : *Le profil général du répondant*
 
@@ -111,11 +111,11 @@ _Section 1_ : *Le profil général du répondant*
 
 | *Question* | *Réponses* |*Type de question* 
 
-| Combien d’années d’expérience en matière de programmation avez-vous ?/ How many years of programming experience de you have ?  | 1 – 3 ans/ 3 – 5 ans/ 5 – 10 ans/Plus de 10 ans |Un seul choix
+| Combien d’années d’expérience en matière de programmation avez-vous ? / How many years of programming experience de you have ?  | 1 – 3 ans/ 3 – 5 ans/ 5 – 10 ans/Plus de 10 ans |Un seul choix
 
-| Dans quel langage de programmation êtes-vous le plus compétent ?/ In which programming langage are you proficient ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl/ PHP/ Ruby/ JavaScript | cases à cocher
+| Dans quel langage de programmation êtes-vous le plus compétent ? / In which programming langage are you proficient ? | Java/ C++/ Python/ Objective C/ Swift/ KotLin/ C / C#/ Perl/ PHP/ Ruby/ JavaScript | cases à cocher
 
-| Développez-vous des logiciels /applications pour Smartphones ?/ Do you develop software/application for Smartphones ? | Oui/ Non |Un seul choix
+| Développez-vous des logiciels /applications pour Smartphones ? / Do you develop software/application for Smartphones ? | Oui/ Non |Un seul choix
 
 |=== 
 
@@ -127,7 +127,7 @@ _Section 2_ : *Recueillir les critères*
 
 | *Question* | *Réponses* | *Type de question*
 
-| Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? /Do you take energy consumption into account when developing software? If so, how do you account for energy consumption? a|* Non malheureusement
+| Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ? / Do you take energy consumption into account when developing software? If so, how do you account for energy consumption? a|* Non malheureusement
 * Pas vraiment
 * Parfois, quand on s'apperçoit qu'il y a un consommation anormale visible à l'utilisation de l'application ex (le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement …)
 * Outils: Des applications d'analyse de consomation de la batterie par application et les outils officiels proposé par chaque constructeur : Android studio profiler, et Instruments pour iOs
@@ -138,7 +138,7 @@ _Section 2_ : *Recueillir les critères*
 * La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie
 * pas vraiment | Texte libre
 
-| Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ?  / What do you think are the criteria that make applications/software for Smartphones more sustainable ? a| * Mise à jour de sécurité jointes aux mises à jour fonctionnelles
+| Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ? / What do you think are the criteria that make applications/software for Smartphones more sustainable ? a| * Mise à jour de sécurité jointes aux mises à jour fonctionnelles
 * Développement Open source
 * Mode nuit / jour
 * Lazy Loading
@@ -147,7 +147,7 @@ _Section 2_ : *Recueillir les critères*
 * Minimaliser les dépendances extérieures surtout open source, utiliser les derniers SDK de developpement ( dernier iOS, derniere version d'android studio) cela donne une durée de vie moyenne de 3 ans
 * Moins de «gadgets» , se concentrer sur les fonctionnalités réellement attendues |cases à cocher
 
-| Selon vous quels sont les critères qui font-vieillir les Smartphones ?/  In your opinion, what are the criteria that make Smartphones old ? a| * Usage intensif du CPU
+| Selon vous quels sont les critères qui font-vieillir les Smartphones ? / In your opinion, what are the criteria that make Smartphones old ? a| * Usage intensif du CPU
 * Usage intensif du Mémoire
 * Impact fort sur l'utilisation de la batterie
 * Bugs
@@ -158,7 +158,7 @@ _Section 2_ : *Recueillir les critères*
 * progrès des devices, et obsolescence programmée : Une application qui a été developpée il y 3 ans, et n'a pas été modifiée depuis, ne peut pas être installée sur les iPhone 11. Presque même problème sur android
 * Impossibilité d’installer sur la carte SD plutôt que sur le stockage interne du téléphone (généralement limité) |cases à cocher
 
-| Identifiez-vous des moyens pour évaluer la durabilité des logiciels pour Smartphones (voire en dehors de cette seule plateforme) ?/ Do you identify ways to assess the sustainability of software for Smartphones (or even outside this single platform)? a| * Les statistiques des installations de maj
+| Identifiez-vous des moyens pour évaluer la durabilité des logiciels pour Smartphones (voire en dehors de cette seule plateforme) ? / Do you identify ways to assess the sustainability of software for Smartphones (or even outside this single platform)? a| * Les statistiques des installations de maj
 * Non
 * L'age du logiciel, les intervalles entre les maintenances/évolutions, l'évolution de son utilisation dans le temps (est-ce que le logiciel continue d'être utilisé après 2, 5, 10 ans..)
 * Capacité du logiciel a fonctionner sur des anciens modèles de smartphone
@@ -168,7 +168,7 @@ _Section 2_ : *Recueillir les critères*
 * Qu'un logiciel puisse fonctionner pendant au moins plusieurs années (plus que 2 ans) sur le même appareil sans que les mises à jour rendent le smartphone obsolète
 * Je n’en connais pas | Texte libre
 
-| Selon vous y-a-t-il des méthodologies de projet, de conception technique qui favorisent la durabilité des logiciels?/ In your opinion, are there project and engineering design methodologies that promote software sustainability? a| * Agilité
+| Selon vous y-a-t-il des méthodologies de projet, de conception technique qui favorisent la durabilité des logiciels? / In your opinion, are there project and engineering design methodologies that promote software sustainability? a| * Agilité
 * Utiliser patron de conception, respect des bonnes pratiques
 * Il en existe certainement mais elles ne sont pas mises en avant au sein de mon entreprise et il n’y a aucune mention de la durabilité du logiciel dans le cahier des charges
 * Le low code, prendre des technos actuelles et stables, essayer de faire du code réutilisable dans d'autres fonctionnalités/projets
