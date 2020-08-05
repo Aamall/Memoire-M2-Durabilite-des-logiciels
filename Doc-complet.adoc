@@ -9,6 +9,7 @@ include::Matrice.adoc[leveloffset=+1]
 include::Preconisation.adoc[leveloffset=+1]
 include::Analyse-critique-et-travaux-ulterieur.adoc[leveloffset=+1]
 include::Conclusion.adoc[leveloffset=+1]
+include::Annexes.adoc[leveloffset=+1]
 
 
 <<<
