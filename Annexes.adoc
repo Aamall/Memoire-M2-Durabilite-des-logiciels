@@ -1,6 +1,79 @@
 <<<
 
 == Annexes 
+
+=== Annexe 1 *Retranscription interview M. Marc VILLEMON*
+
+*Vous pouvez m'expliquer le concept de Green IT ?*
+
+Je suis responsable de Green IT, c'est un sujet que je ne connaissais pas forcement il y a quelques années. Pour monter à compétences pendant 2 ans, je faisait partie d'un club Green IT qui rassemble des dizaines de sociétés souvent très grosses (SNCF, La Poste…) et qui est animé par Frédérique Bordage.
+
+Ce que j'ai à ma disposition aujourd'hui, c'est un support qui donne le panorama complet du Green IT pas seulement sur l'éco-conception logiciel.
+ 
+Ce qu'on a fait dans le cadre de ce club c'est qu'on a fait un Benchmark qui a deux volets: 
+
+Le 1er: on a tous communiqué des informations de quantités en termes de quantité de matériel que l'on avait déployé pour nos utilisateurs ou nos infrastructures dans nos société. Cela a fait l'objet d'un traitement par Frédérique qui nous a renvoyé une photo de l'équivalent de kg Watter, Co2, eau...
+consommés par un utilisateur chez nous.
+
+Ensuite un volet maturité. En fait, selon un référentiel élaboré par le club, il y avait une soixantaine de bonnes pratiques où chaque entreprise s'auto-évaluait sur une échelle de 1 à 5 (est-ce-que j'ai des photocopieurs multi-fonctions dans ma société, est-ce-que je prends du papier recyclé pour mes impressions?).
+
+Cela a permis d'identifier l'emprunte pour un salarié et également, de pointer de bonnes pratiques pour progresser.
+A partir de ces éléments là, sur les 2 premières années, on a construit une feuille de route permettant de faire des progrès rapides, et progressivement en facile mettre un œuvre corrigé à rendre quelque chose plus compliquée. L’éco-conception logiciel a encore beaucoup des choses à faire, on le connais, mais la façon d'aborder l'éco-conception est compliquée. Il y deux ans de ça, le département développement logiciel n'existait pas chez nous. On donnait des directives à des sous-traitants.
+
+
+
+Là j'ai support complet pour les adhérents du club où j'ai fait former une dizaine de personnes à la DSIT (Département Système Information et Technologie).
+
+
+Sur l'échelle du temps, depuis l'arrivée de l'homme sur Terre, etc.. finalement, on parle de Green IT sur ces quelques dernières années, c’est une notion qui n’existe pas de tout avant dans l’informatique.
+
+C'est à dire que si on ramène ça sur une journée on parle de Green IT sur la dernière seconde de l’échelle de l’arrivée de notion sur la terre, etc... Donc c'est très récent.
+
+
+C'est liée à la croissance démographique qui est exponentielle. C'est à corréler à la croissance de la consommation d'énergie et c'est à corréler aussi à la production de déchets de toute nature. C'est lié à notre mode de vie actuel. On consomme beaucoup et on produit beaucoup des déchets.
+
+
+Dans tout ça, le numérique commence à se positionner, à peser dans les émissions de CO2. On a tendance à dire que la production de déchets est équivalente à l'aviation mondiale.
+Pour produire une puce électronique d'1gr, c'est 16 000gr de matière… L'électronique consomme énormément de ressources. 
+
+C'est un domaine qui a tendance à se règlementer parce que le 1ers ordinateurs étaient produits avec des matériaux toxiques (plombs, mercure).Cela fait quelques années que ce n'est plus le cas.
+
+Cela c'est l'analyse du cycle de vie d'une carte électronique d'unité centrale. On voit que la majorité des impacts sont sur la construction de matière, la constitution des composants, l'assemblage, la distribution, l'usage (essentiellement la consommation d’électrique, CO2), le recyclage. L'impact le plus fort porte sur la fabrication. 
+
+A partir de ça, vous mettez un petit groupe d'enfants d'école primaire et ils vont dire:"si on veut réduire l'impact il faut moins fabriquer".
+Cela veut dire, faire durer la durée de vie de ce que l'on a, que ce que l'on produit doit être bien produit, c'est-à-dire de l'éco-concevoir, que ce que l'on doit acheter, on l'achète éco-conçu, labellisé, que ce que l'on utilise de façon raisonnée (si je n'utilise pas j'éteins), quand j'en ai plus usage dans mon entreprise, avant de le mettre à la décharge, je le remet dans un circuit secondaire pour d'autres usages. Quand il n'est plus réparable, on le met dans une filière qui va le gérer proprement.
+
+
+Ensuite, il y a des sujets que l'on dit émergents car l'éco-conception est encore un sujet émergent.
+Je ne pense pas qu'il y ait beaucoup de sociétés d'édition de logiciels qui soient complètement dedans.
+
+*Pourquoi on parle d'éco-conception de logiciels?*
+
+on constate que le renouvellement des équipements informatiques, n'est pas lié au fait qu'il tombe en panne, mais au fait qu'il soit ralentit, freiné par le poids des mises à jour des logiciels, par le marketing des sociétés par leur business modèle qui pousse vraiment l’utilisateur à renouvellement son matériel.
+
+C'est lié au fait que les systèmes d'exploitation, les applications deviennent énormes et donc le matériel n'est plus adapté pour faire tourner des logiciels. on parle de logiciels obèses.
+
+La solution pour éviter ça, c'est d'éco-concevoir le logiciel. On fait en sorte d'utiliser plus longtemps le matériel.
+C'est dans ce cycle là que se positionne l'éco-conception logiciel.
+
+Vous avez vu qu'il y avait un guide qui existe, ce qui existe aussi, c'est de l'outillage pour pouvoir mesurer le poids d'une application web, quelles sont ses défauts, les améliorations que l'ont peut apporter sur un site ?
+
+Il y a des sociétés comme Green Spector qui est focalisée sur des Apps, sur leurs consommations pour faire en sorte
+qu'elles soient compatibles avec la batterie et l'usage de l'application. En dehors de cela, il n'existe pas grand chose.
+C'est une difficulté pour mettre en œuvre facilement des règles d'éco-conception.
+
+Ce que l'on nous apprend également dans l'éco-conception de logiciel, c'est une démarche de frugalité au sens où 60% des gains qui peuvent être faits dans le développement applicatifs sont sur le besoin (ai-je vraiment besoin de toute cette application, peut-on dissocier le besoin principal, secondaire.., et puis éliminer? ) c’est facile à dire, mais difficile à mettre en œuvre.
+
+Après, il y a des gains sur la façon dont l'on va construire, architecturer le système d'informations, la virtualisation, la centralisation, le partage des ressources informatiques entre les applications informatiques. Cela représente 20 %.
+Ensuite, les gains liés à la façon dont le développeur va réaliser l'application. Donc, faut pas imaginer que tout est dans les mains du développeur. Il y a déjà le besoin  stricto sensu, c'est pas tout ce qu'on peut y mettre autour la façon dont tu organisé Architecture et le système d'information, ensuite ce qui relève des gestes de développement.
+
+*Pour le RTE, quel est le point de vue sur le Green IT ?*
+
+Nous essayons d'agir sur tous les leviers nous permettant d'avoir un système d'information le plus sobre, le plus durable.
+
+On m'a missionné depuis 3-4 ans. On a rejoint le club Green IT pour augmenter mes compétences. On a identifié où été nos gisements, où est-ce-qu'on pouvait être plus respectueux de l'environnement, on a établit un plan d'action. On a mit des actions sur place.
+
+
 <<<
 === Annexe 2 *Retranscription interview M. Baptiste LETELLIER*
 
