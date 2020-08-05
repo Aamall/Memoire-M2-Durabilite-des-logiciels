@@ -191,34 +191,34 @@ a|* Selon vous y-a-t-il des méthodologies de projet, de conception technique qu
 Les résultats en français : 
 
 .Annees-d-experience-en-materes-de-programmation
-[caption="Figure 1: "]
+[caption="Figure 5: "]
 image::Annees-d-experience-en-materes-de-programmation.jpg[Années d'experience en materes de programmation]
 
 
 .Langage de programmaion le plus competent
-[caption="Figure 1: "]
+[caption="Figure 6: "]
 image::Langage-de-programmaion-le-plus-competent.jpg[.Langage de programmaion le plus competent]
 
 
 .Développer logiciels / applications pour smartphones
-[caption="Figure 1: "]
+[caption="Figure 7: "]
 image::Logiciels-applications-pour-smartphones.jpg[Développer logiciels / applications pour smartphones]
 
 
 Les résultats en anglais : 
 
 .Annees-d-experience-en-materes-de-programmation
-[caption="Figure 1: "]
+[caption="Figure 8: "]
 image::Years-of-programming-experience.jpg[Annees-d-experience-en-materes-de-programmation]
 
 
 .Langage de programmaion le plus competent
-[caption="Figure 1: "]
+[caption="Figure 9: "]
 image::Programming-language-most-proficient.jpg[Langage de programmaion le plus competent]
 
 
 .Développer logiciels / applications pour smartphones
-[caption="Figure 1: "]
+[caption="Figure 10: "]
 image::Software-application-for-smartphones.jpg[Développer logiciels / applications pour smartphones]
 
 
@@ -229,12 +229,12 @@ Les résultats en français :
 
 
 .critères qui rendent les logiciels de smartphones plus durables
-[caption="Figure 1: "]
+[caption="Figure 11: "]
 image::criteres-qui-rendent-les-logiciels-de-smartphones-plus-durables.jpg[critères qui rendent les logiciels de smartphones plus durables]
 
 
 .Critères qui font veillir les smartphones
-[caption="Figure 1: "]
+[caption="Figure 12: "]
 image::Criteres-qui-font-veillir-les-smartphones.jpg[Critères qui font veillir les smartphones]
 
 
@@ -242,12 +242,12 @@ Les résultats en anglais :
 
 
 .Critères qui font veillir les smartphones
-[caption="Figure 1: "]
+[caption="Figure 13: "]
 image::Criteria-that-make-applications-for-smartphones-for-sustainable.jpg[Critères qui font veillir les smartphones]
 
 
 
 .Critères qui font veillir les smartphones
-[caption="Figure 1: "]
+[caption="Figure 14: "]
 image::Criteria-that-make-smartphones-old.jpg[Critères qui font veillir les smartphones]
 
