@@ -1,9 +1,22 @@
 <<<
 == Méthodologie de recherche
 
-Afin d'aborder la problématique et de confirmer ou infirmer les hypothèses ci-dessous, cette étude se compose de trois phases.
+Afin d'aborder la problématique de ce mémoire, et de confirmer ou d'infirmer les hypothèses ci-dessous, cette étude est composée de trois phases (l'état de l'art, les études qualitatives et quantitatives, la construction de la matrice de durabilité du logiciel) que je détaillerai plus tard.
 
-*_Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?_*
+Chaque phase du cycle de vie des terminaux, depuis leur fabrication jusqu'à leur destruction ou leur recyclage, a un impact sur l'environnement. C'est pourquoi Green IT est chargé d'étudier chaque phase séparément et de trouver des solutions plus durables.
+
+Pour aboutir à une problématique je me suis posée les questions qui suivent:
+
+1. Les terminaux ont-ils plus d'impact sur l'environnement que les logiciels, ou le contraire ? 
+2. Le logiciel entraîne-t-il le renouvellement des terminaux ?
+3. Les logiciels ont-ils un impact direct sur l'environnement ? 
+4. Les logiciels peuvent-ils être rendus plus durables ?
+
+J'essayerai de répondre à ces questions avec les hypothèses suivantes.
+
+Et comme expliqué dans l'hypothèse 3, les logiciels n'ont pas d'impact direct sur l'environnement, mais leurs impacts sont sur les terminaux. J'ai donc décidé de faire une étude sur le cycle de vie des logiciels et sur la manière dont les logiciels entraînent le renouvellement prématuré des terminaux. Comme je l'ai mentionné dans l'introduction, il existe plusieurs familles de logiciels, j'ai donc choisi la famille des logiciels pour smartphones. 
+
+*Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?*
 
 === Les hypothèses
 
