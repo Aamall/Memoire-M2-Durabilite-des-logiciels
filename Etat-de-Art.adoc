@@ -190,7 +190,7 @@ Il existe plusieurs types de développement pour mettre au point une application
 Le serveur est un dispositif qui met des ressources, des données, des services ou des logiciels à la disposition des clients et qui est connecté au réseau. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
 .Différents types de serveurs et leurs logiciels
-[caption="Figure 8: "]
+[caption="Figure 2: "]
 image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]
 
 === De l'importance du couplage entre le Software et le Hardware
@@ -331,7 +331,7 @@ Nous définissons le cycle de vie des logiciels : est la période de temps s'ét
 Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du logiciel* (en anglais *Software process*). Ce processus est composé de plusieurs sous-processus qui échangent et communiquent entre eux. Pour chaque processus, il y a des conditions à déclencher, des caractéristiques uniques, des activités déployées, certaines ressources utilisées et les produits qui en résultent et ses critères de fin. Les activités qui font partie d'un processus sont à leur tour divisées en sous-activités et en tâches plus détaillées. <<O>> 
 
 .Architecture du processus du logiciel (Software process architecture, ISO/JTC1/SC7/WG3) <<O>> 
-[caption="Figure 12: "]
+[caption="Figure 3: "]
 image::Architecture-du-processus-du-logiciel.jpg[Architecture du processus du logiciel]
 
 
@@ -354,7 +354,7 @@ Pour revenir au cycle de développement du logiciel <<O>>. Ce dernier se compose
 De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et le cycle de développement des logiciels, ce qui correspond au but de cette thèse (pour aller plus en détail <<O>>). 
 
 .Cycle de vie du logiciel <<O>> 
-[caption="Figure 13: "]
+[caption="Figure 4: "]
 image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
 
 ==== Que savent les programmeurs de la consommation d'énergie des logiciels ?
