@@ -49,4 +49,6 @@ include::Annexes.adoc[leveloffset=+1]
 
 - [[[P,16]]] PANG, C., HINDLE, A., ADAMS, B., et HASSAN, A. What Do Programmers Know about Software Energy Consumption?. IEEE Xplore [en ligne]. 2015, Disponible sur : https://ieeexplore.ieee.org/document/7155416[Le lien]. Cité 85 fois.
 
+- [[[Q,17]]] Organisation Négawatt. Pourquoi et comment faire durer son ordinateur ?. [en ligne]. 2018, disponible sur : https://negawatt.org/IMG/pdf/181112_faire-durer-son-ordinateur.pdf[Le lien].
+
 
