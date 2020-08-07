@@ -1,6 +1,6 @@
 == Les clés de la durabilité de logiciels (Matrice) /// rest à faire///
 
-[cols="5"]
+[cols="9"]
 |===
 
 | LIBELLE| KPI_TYPE| CATEGORIE| POIDS| 20% | 40% | 60% | 80% | 100%
