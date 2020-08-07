@@ -242,9 +242,22 @@ Des études montrent que les deux phases de fabrication et de recyclage sont res
 
 La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
 
-==== Conditions préalables pour des matériels durables ///reste à faire///
+==== Conditions préalables pour des matériels durables 
 
+Une bonne utilisation de l’appareil informatique permettra de le faire fonctionner le plus longtemps possible. Cette idée a été bien démontrée dans le guide de l’organisation Négawatt (mis en ligne en novembre 2018)<<Q>>, en présentant aussi des simples que des bonnes pratiques. Ce guide met l’accent aussi sur l’importance de prendre conscience du bilan carbone de la fabrication de cet appareil par rapport au bilan carbone de son utilisation, ce qui évoque l’intérêt de faire durer son appareil informatique.
 
+Les bonnes pratiques, pouvant aussi être appliquées à l’utilisation privée qu’à l’utilisation professionnelle, peuvent être résumées comme suivant :
+
+* Privilégier l’achat des ordinateurs avec des disques durs SSD, qui sont beaucoup plus robustes que des disques durs mécaniques.
+* Mette à jour le système d’exploitation et les logiciels, et effectuer les mises à jour de sécurité pour optimiser la performance et améliorer le traitement des logiciels (moins de bugs). Par contre, il est recommandé d’éviter les mises à jour fonctionnelles non essentielles à l’utilisateur ou à l’entreprise, qui surchargent les machines inutilement et contribuent à l’obsolescence programmée des ordinateurs.
+* Éviter le ralentissement des navigateurs internet évoqué par l’installation et l'utilisation d'extensions de ceux-ci.
+* Améliorer la performance des appareils informatiques en limitant le nombre des logiciels lancé automatiquement au démarrage de ces appareils.
+* Protéger les appareils informatiques, notamment durant leur transport, par les éteindre et les ranger dans des housses afin d’éviter les secousses. Aussi protéger les appareils informatiques de la chaleur élevée, des poussières ou d’une forte pression.
+* Supprimer régulièrement les fichiers inutiles et inutilisés pour nettoyer le contenu de son ordinateur. Ainsi, il est préférable, dans le cas du disque dur mécanique, d’effectuer une défragmentation d’une manière régulière. Il est appréciable aussi de nettoyer physiquement les appareils informatiques par enlever la poussière, notamment sur le ventilateur, ce qui diminue la consommation électrique.
+* Travailler dans un environnement adapté (dans un bureau bien refroidi et ventilé) afin d’éviter la surconsommation électrique due au refroidissement des appareils informatiques.
+* Remplacer le composant défectueux plutôt qu’acheter un ordinateur neuf, ce qui économise grandement l’énergie grise. Il est préférable aussi d’utiliser les anciens ordinateurs pour des tâches simples comme traitement de texte au lieu de les jeter.
+* En cas de chauffe démesurément, il faut enlever la batterie de l’ordinateur portable et la ranger dans un endroit sec et frais. Il faut aussi veiller à lui imposer mensuellement un cycle complet décharge/recharge.
+* Privilégier le reconditionnement des appareils informatiques en fin de vie.
 
 ==== Le logiciel peut aussi endommager le matériel  /// reste à faire ///
 
