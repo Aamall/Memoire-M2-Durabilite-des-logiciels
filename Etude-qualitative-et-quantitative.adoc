@@ -1,7 +1,7 @@
 :imagesdir: ./images 
 <<<
 
-== Etude qualitative et quantitative
+== 4.Etude qualitative et quantitative
 
 === Etude qualitative : Interviews ///reste à faire///
 
