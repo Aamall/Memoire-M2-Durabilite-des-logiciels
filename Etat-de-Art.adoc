@@ -1,7 +1,7 @@
 :imagesdir: ./images 
 
 <<<
-== Etat de l’art
+== 3.Etat de l’art
 
 === Principes et Définitions 
 
@@ -140,7 +140,7 @@ Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'ut
 
 Sur ces systèmes d'exploitation, des logiciels peuvent être installés. Ces logiciels sont variés en fonction de leur utilisation, tels que : *Logiciels d'Application*, *Logiciels d'Exploitation* et *Logiciels de programmation*. Ces logiciels peuvent être soit *Payants*, soit *Gratuits*, soit *Open-Source*.
 
-===== La famille de logiciels sur un SmartPhone
+==== La famille de logiciels sur un SmartPhone
 
 Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes les plus importants sont Android, iOS et Windows Phone. <<K>>
 
@@ -293,7 +293,7 @@ Le champ d'application de chaque phase sera défini, suivi des impacts environne
 * La formation de photo-oxydant.
 * L’eutrophisation.
 
-=====  Le cycle de vie d'un dispositif informatique : 
+==== Le cycle de vie d'un dispositif informatique : 
 
 * Préfabrication : 
 
