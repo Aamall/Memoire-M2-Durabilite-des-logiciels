@@ -134,7 +134,6 @@ Ces types de composants interagissent avec différents classes de Matériels.
  
 .Les Matériels impactés
 [caption="Figure 1: "]
-[.right.text-center]
 image::Materiels.png[Les Materiels]
 
 Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'utilisateur la possibilité d'interagir avec un lot d'applications pour ses besoins.  Les Systèmes d'Exploitation les plus connus : *Windows*, *Linux* et *Mac-OS*.
