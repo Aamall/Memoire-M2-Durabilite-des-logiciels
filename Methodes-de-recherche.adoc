@@ -53,16 +53,16 @@ La durabilité logicielle, sans être définie, peut être lue de prime abord co
 
 === 2.2.Les phases
 
-=== 2.2.1.PHASE 1 l’état de l’art 
+=== 2.2.1.PHASE 1 État de l’art 
 
 La première concerne un état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Schoolar avec les mots clés suivants GreenIT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computing equipment, software, environment impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
 
-=== 2.2.2.PHASE 2 les études qualitatives et quantitatives 
+=== 2.2.2.PHASE 2 Études qualitatives et quantitatives 
 
 La deuxième phase de cette étude consiste, dans un premier temps, en des entretiens avec sept personnes ayant des expériences différentes (chercheurs en R&D, experts GreenIt) dans l'entreprise où j'ai fait mon apprentissage. Ces entretiens ont été réalisés pour définir, selon les experts, la notion de durabilité des logiciels, mais aussi pour savoir quels sont les critères qui rendent les applications/logiciels plus durables.
 
 Dans un deuxième temps, j'ai publié un questionnaire réalisé avec l'outil Google Form et diffusé sur le réseau professionnel LinkedIn sous forme de post puis en le partageant avec mon entourage en France, en Allemagne et en Jordanie. La collecte des réponses a permis à cette étude de faire une analyse afin de construire la matrice de durabilité pour répondre à la problématique.
 
-=== 2.2.3.PHASE 3 construire la matrice de durabilité des logiciels
+=== 2.2.3.PHASE 3 Matrice de durabilité des logiciels
 
 Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant sa note de durabilité.
