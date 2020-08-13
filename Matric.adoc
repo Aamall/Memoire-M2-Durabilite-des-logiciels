@@ -1,4 +1,42 @@
+<<<
+
 == 5.Les clés de la durabilité de logiciels (Matrice) /// rest à faire///
+
+Après avoir recueilli les critères, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
+Ces notes : 
+* 1 --> 20% le logiciel est mauvais. 
+* 2 --> 
+
+Voici les critères retenus pour la matrice : 
+
+* Mise à jour de sécurité jointes aux mises à jour fonctionnelles : 
+
+* Lazy loading : 
+
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. 
+
+Lazy loading :  est un modèle de conception couramment utilisé en programmation informatique pour différer l'initialisation d'un objet jusqu'au moment où il est nécessaire. Il peut contribuer à l'efficacité du fonctionnement du programme s'il est utilisé correctement et convenablement. Il est donc idéal dans les cas d'utilisation où le contenu du réseau est accessible et où les temps d'initialisation doivent être réduits au minimum, comme dans le cas des pages web. L'inverse de lazy loading is eager loading. <<R>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 [cols="9"]
 |===
