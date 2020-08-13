@@ -3,6 +3,7 @@
 == 5.Les clés de la durabilité de logiciels (Matrice) /// rest à faire///
 
 Après avoir recueilli les critères, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
+
 Ces notes : 
 
 * *1* -> 20% -> le logiciel est *Mauvais*. 
@@ -10,6 +11,11 @@ Ces notes :
 * *3* -> 60% -> le logiciel est *Bien*.
 * *4* -> 80% -> le logiciel est *Très bien*. 
 * *5* -> 100% -> le logiciel est *Excellent*.
+
+Pour réaliser cette matrice, je l'ai divisée en deux parties.  La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
+La deuxième, à droite, à remplir par *le client*,  ???*le chef de projet*.
+
+
 
 Voici les critères retenus pour la matrice : 
 
