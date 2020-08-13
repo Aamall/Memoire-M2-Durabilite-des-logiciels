@@ -7,11 +7,11 @@ Après avoir recueilli les critères, j'ai dû les organiser en une matrice. Cet
 
 Ces notes : 
 
-* *1* -> 20% -> le logiciel est *Mauvais*. 
-* *2* -> 40% -> le logiciel est *Moyen*.
-* *3* -> 60% -> le logiciel est *Bien*.
-* *4* -> 80% -> le logiciel est *Très bien*. 
-* *5* -> 100% -> le logiciel est *Excellent*.
+* *1* -> 0 - 20% -> le logiciel est *Mauvais*. 
+* *2* -> 20 - 40% -> le logiciel est *Moyen*.
+* *3* -> 40 - 60% -> le logiciel est *Bien*.
+* *4* -> 60 - 80% -> le logiciel est *Très bien*. 
+* *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
 Pour réaliser cette matrice, je l'ai divisée en deux parties.  La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
 La deuxième, à droite, à remplir par *le client*,  ???*le chef de projet*.
