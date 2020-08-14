@@ -44,7 +44,7 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 Le cloud se définit par la mise en disposition des ressources informatiques utilisables depuis toutes les types terminales via l'internet. 
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j’ai menée à la question *Est-ce que le cloud est green ?* . 
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j’ai menée à la question *Est-ce que le cloud est green ?*
 
 
 Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Sachant que les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *l'obésité*.
