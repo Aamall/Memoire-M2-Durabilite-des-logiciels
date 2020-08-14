@@ -51,7 +51,7 @@ Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nou
 
 Toutefois, il existe sans aucun doute une utilisation éclairée du cloud !
 
-Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre que le Cloud n’est pas la panacée à la problématique environnementale du stockage et l’utilisation de données numériques. Disponible sur : https://www.dailymotion.com   video/x2hntue
+Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre que le Cloud n’est pas la panacée à la problématique environnementale du stockage et l’utilisation de données numériques. Disponible sur : https://www.dailymotion.com/video/x2hntue
 
 * Fichier VS Base De Données : 
 
