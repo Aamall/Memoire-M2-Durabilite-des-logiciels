@@ -22,7 +22,9 @@ Voici les critères retenus pour la matrice :
 
 * Mise à jour de sécurité jointes aux mises à jour fonctionnelles : 
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en annonçant au client le type de mise à jour auquel chaque mise à jour est destinée (mise à jour corrective, mise à jour évolutive). Car les mises à jour correctives sont indispensables et souvent légères. Au contraire, les mises à jour évolutives ne sont pas indispensables et lourdes.
+
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
 
 * Lazy loading : 
 
