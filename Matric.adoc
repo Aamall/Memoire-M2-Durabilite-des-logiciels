@@ -20,19 +20,19 @@ La deuxième, à droite, à remplir par *le client*,  ???*le chef de projet*.
 
 Voici les critères retenus pour la matrice : 
 
-* Mise à jour de sécurité jointes aux mises à jour fonctionnelles : 
+* *Mise à jour de sécurité jointes aux mises à jour fonctionnelles :* 
 
 Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en annonçant au client le type de mise à jour auquel chaque mise à jour est destinée (mise à jour corrective, mise à jour évolutive). Car les mises à jour correctives sont indispensables et souvent légères. Au contraire, les mises à jour évolutives ne sont pas indispensables et lourdes.
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
 
-* Lazy loading : 
+* *Lazy loading :*
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
 
 *Lazy loading* :  est un modèle de conception couramment utilisé en programmation informatique pour différer l'initialisation d'un objet jusqu'au moment où il est nécessaire. Il peut contribuer à l'efficacité du fonctionnement du programme s'il est utilisé correctement et convenablement. Il est donc idéal dans les cas d'utilisation où le contenu du réseau est accessible et où les temps d'initialisation doivent être réduits au minimum, comme dans le cas des pages web. L'inverse de lazy loading is eager loading. <<R>>
 
-* Programmation Objet vs Programmation Fonctionnelle : 
+* *Programmation Objet vs Programmation Fonctionnelle :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
@@ -53,67 +53,67 @@ Toutefois, il existe sans aucun doute une utilisation éclairée du cloud !
 
 Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre que le Cloud n’est pas la panacée à la problématique environnementale du stockage et l’utilisation de données numériques. Disponible sur : https://www.dailymotion.com/video/x2hntue
 
-* Fichier VS Base De Données : 
+* *Fichier VS Base De Données :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Stockage Réseau VS Local : 
+* *Stockage Réseau VS Local :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Appel Réseau : 
+* *Appel Réseau :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Compilé VS Interpreté : 
+* *Compilé VS Interpreté :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Travaille en arrière paln : 
+* *Travaille en arrière paln :* 
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
 
-* Lancer automatiquement au démarrage par défaut :
+* *Lancer automatiquement au démarrage par défaut :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Mode Nuit / Jour : 
+* *Mode Nuit / Jour :*
 
 Ce critère a été défini par le questionnaire.
 
-* Optimiser l'utilisation du CPU (Usage intensif du CPU) : 
+* *Optimiser l'utilisation du CPU (Usage intensif du CPU) :*
 
 Ce critère a été défini par le questionnaire.
 
-* Optimiser l'algorithmie ( Action humaine ) : 
+* *Optimiser l'algorithmie ( Action humaine ) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Optimiser les instructions de code ( Action compilateur) : 
+* *Optimiser les instructions de code ( Action compilateur) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Taux I/O RAM VS DD : 
+* *Taux I/O RAM VS DD :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Optimiser l'utilisation du Mémoire ( Usage intensif du Mémoire) : 
+* *Optimiser l'utilisation du Mémoire ( Usage intensif du Mémoire) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* Binaire qui prend de l'espace : -> site greenit
+* *Binaire qui prend de l'espace :* -> site greenit
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
 
-* Pourcentage d'utilisation d'Open Source : 
+* *Pourcentage d'utilisation d'Open Source :*
 
 Ce critère a été défini par le questionnaire.
 
-* Bugs : 
+* *Bugs :*
 
 Ce critère a été défini par le questionnaire.
 
-* La mauvaise lisibilité du code pour mieux l'appréhendre ( Évolution correction) : 
+* *La mauvaise lisibilité du code pour mieux l'appréhendre ( Évolution correction) :*
 
 Ce critère a été défini par le questionnaire.
 
