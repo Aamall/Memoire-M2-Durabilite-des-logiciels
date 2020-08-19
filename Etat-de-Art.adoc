@@ -16,37 +16,37 @@ Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, q
 
 Ainsi, afin de mieux comprendre la *notion de durabilité*, je commence à distinguer les différents concepts de *Green IT* ou de *Gestion durable*, *Technologies de l'Information Green* et *Systèmes d'Information Green*.
 
-La *Gestion durable* : est un processus de longue durée visant à optimiser les performances économiques, environnementales et sociales en tirant parti des ressources naturelles. Ce processus permet de poursuivre les activités de l'entreprise sans faire appel aux nouvelles générations. <<D>>
+La *Gestion durable* : représente le processus de longue durée dont le but est d'optimiser, d'une manière simultanée, les performances environnementales, économiques et sociales tout en tenant compte des restrictions des ressources naturelles, ce qui permet de poursuivre les activités commerciales sans compromettre les besoins des générations futures. <<D>>
 
-Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence au matériel informatique, aux logiciels et aux équipements périphériques d'information. *Le Système d'Information* est un concept large qui couvre les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<D>>
+Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence à tous ce qui est matériel informatique, logiciels ou bien équipements périphériques d'information. *Le Système d'Information*, par contre, est un concept plus large qui couvre à la fois les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<D>>
 
 Le concept de SI couvre différents aspects : <<D>>
 
-** Elle comprend les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés. (tels que les bases de données ou le stockage).
+** Les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés. (tels que les bases de données ou le stockage).
 ** Les applications commerciales (telles que les systèmes ERP).
 ** Les ressources humaines en TI (telles que les compétences et les connaissances).
 ** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. 
 
-Les *Technologies de l'Information Green* sont des mesures et des initiatives qui réduisent l'impact négatif de la fabrication sur l'environnement, l'exploitation et l'élimination des équipements et des infrastructures informatiques. <<D>>
+Les *Technologies de l'Information Green* font référence aux mesures et aux initiatives qui ont pour but de diminuer l'impact environnemental négatif issu de la fabrication, de l'exploitation et de l'élimination des équipements et des infrastructures informatiques. <<D>>
 
 De ce concept, le Green IT pratique : <<D>>
 
-** Prise en compte de critères environnementaux lors de l'achat de matériel et de services informatiques.
-** Exploitation informatique économe en énergie dans les centres de données et les environnements de bureau.
-** Pratiques respectueuses de l'environnement en ce qui concerne l'élimination des équipements informatiques. 
+** Lors de l'achat des matériels ou d'effectuer des services informatiques, les critères environnementaux sont totalement pris en considération.
+** Appliquer d'économie d'énergie lors d'effectuer des opérations informatiques faites aux sein des centres des données et les environnements de bureau.
+** Réaliser les opérations d'élimination des équipements informatiques d'une manière respectueuse de l'environnement.
 
-Les *Systèmes d'Information Green* sont les pratiques qui déterminent l'investissement, le déploiement, l'utilisation et la gestion des systèmes d'information (SI) afin de minimiser les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. <<D>>
+Les *Systèmes d'Information Green* font référence aux pratiques qui ont pour objectif de réduire les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI, et cela en déterminant la façon dont on utilise pour investir, déployer, utiliser et gérer les systèmes d'information SI.  <<D>>
 
-A partir de ce concept, les caractéristiques de l'IS green : <<D>>
+A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 
 ** Réingénierie des processus d'entreprise et de production.
 ** Mise en œuvre de systèmes de gestion de l'environnement (SGE) basés sur les SI.
 ** Innovations en matière de technologies environnementales dans les produits et services destinés aux utilisateurs finaux.
-** Surveillance de la demande en ressources et des émissions des produits et services (analyses du cycle de vie)
+** Surveillance de la demande en ressources et en émissions des produits et services (analyses du cycle de vie)
 
 ==== La notion de Green IT
 
-Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueux de l'environnement.
+Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueuses de l'environnement.
 
 L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. <<E>>
 
