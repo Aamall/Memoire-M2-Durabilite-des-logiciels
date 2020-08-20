@@ -56,14 +56,12 @@ de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de
 
 Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde les problèmes de quatre manières complémentaires : <<E>>
 
-* Green utilisation : réduire la consommation d'énergie des ordinateurs et autres systèmes d'information et les utiliser de manière écologique.
-* Le Green élimination : remettre à neuf et réutiliser les vieux ordinateurs et recycler correctement les ordinateurs et autres équipements électroniques non désirés.
-* Green conception : concevoir des composants, des ordinateurs, des serveurs et des équipements de refroidissement efficaces sur le plan énergétique et
-respectueux de l'environnement.
-* Green fabrication : fabriquer des composants électroniques, des ordinateurs et d'autres sous-systèmes associés avec un impact minimal ou nul sur l'environnement.
+* Green utilisation : qui indique à utiliser les ordinateurs et les autres systèmes d'information en manière écologique afin de réduire leur consommation d'énergie.
+* Le Green élimination :  qui indique à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
+* Green conception :  qui indique à préserver l'environnement via de concevoir, en façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
+* Green fabrication : qui indique de fabriquer, dans un but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
 
-Un objectif Green IT essentiel dans l'utilisation des systèmes informatiques et des centres de données opérationnels est de réduire leur consommation 
-d'énergie, minimisant ainsi les émissions de gaz à effet de serre. Il existe quelques pratiques : <<E>>
+Minimiser les émissions de gaz à effet de serre, en réduisant la consommation d'énergie des systèmes informatiques et des centres de données opérationnels, forme un objectif essentiel de Green IT, pour cela il existe plusieurs pratiques : <<E>>
 
 * Réduire la consommation d'énergie des PC.
 * Activation des fonctions de gestion de l'énergie.
@@ -97,8 +95,8 @@ Pour bien expliquer la notion d'obsolescence programmée, voici la différenciat
 
 * *L’obsolescence indirecte* : est représentée s'il y a un défaut du produit et qu'il n'est pas possible de le réparer. Par exemple, la perte d'un chargeur de téléphone.
 * *L'obsolescence d'incompatibilité* : cela signifie que s'il y a une mise à jour d'un système d'exploitation ou d'une application, il y aura un logiciel qui ne fonctionnera plus avec cette mise à jour.
-* *L’obsolescence esthétique* : se fait remarquer par les nouveaux produits régulièrement mis sur le marché avec une esthétique nouvelle, voire améliorée, qui rend obsolètes les versions précédentes de ces produits.
-* *L’obsolescence de fonctionnement* : c'est-à-dire la cessation de l'exploitation d'un produit à partir d'une certaine date, ou sa mauvaise qualité qui le rend impropre à la consommation. Par exemple, certaines imprimantes étaient équipées d'une puce de comptage qui bloquait l'impression au-delà d'un certain nombre de feuilles.
+* *L’obsolescence esthétique* : représente le cas où les nouveaux produits, qui sont bien améliorés avec une esthétique nouvelle à la mode, et qui sont régulièrement mis sur le marché, rendent les anciens produits obsolètes.
+* *L’obsolescence de fonctionnement* : représente le cas où le produit devient obsolète, après une certaine date, à cause de pratiques ou d'une mauvaise qualité qui engendrent la cessation de l'exploitation de ce produit, par exemple, certaines imprimantes étaient équipées d’une puce de comptage qui bloquait l’impression au-delà d’un certain nombre de feuilles.
 * *L'obsolescence de service après-vente* : est trouvée s'il est nécessaire de réparer ou d'entretenir un produit, cela coûtera plus cher que d'acheter un nouveau produit. Ou s'il est nécessaire de changer une pièce d'équipement qui est détachée du produit, il n'y aura pas souvent la possibilité de la vendre séparément, ce qui conduit à l'obligation d'acheter un tout nouvel appareil.
 
 Il existe un accord sur l'existence d'une  obsolescence conjoncturelle des produits. Il se peut que ce soit le cas : <<H>>
