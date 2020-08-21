@@ -101,9 +101,12 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* *Binaire qui prend de l'espace :* -> site greenit
+* *Binaire qui prend de l'espace :* 
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
+Ce critère à été identifié dans l'état de l'art (page à ajouter). 
+
+Si la conception ne se concentre pas uniquement sur les besoins, le logiciel sera obèse. Le dernier prendra donc beaucoup de place.
+Comme le montre l'état de l'art, plus un logiciel devient obèse, plus il sera obsolète.
 
 * *Pourcentage d'utilisation d'Open Source :*
 
