@@ -40,7 +40,7 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 *Programmation Fonctionnelle* :  est un paradigme de programmation de type déclaratif qui considère le calcul en tant qu'évaluation de fonctions mathématiques. <<T>>
 
-* Cloud Synchronisation : 
+* *Cloud Synchronisation :* 
 
 Le cloud se définit par la mise en disposition des ressources informatiques utilisables depuis toutes les types terminales via l'internet. 
 
