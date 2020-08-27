@@ -48,7 +48,7 @@ A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 
 Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueuses de l'environnement.
 
-L'impact le plus important sur l'environnement est l'électricité. En effet, le charbon ou le pétrole qui contribue à la production d'électricité libère également du dioxyde de carbone, des polluants et du soufre dans l'atmosphère. La réduction de la consommation d'énergie électrique est essentielle pour diminuer les émissions de dioxyde de carbone et leur impact sur notre environnement et le réchauffement climatique. <<E>>
+L'impact le plus important sur l'environnement est l'électricité. En effet, en produisant de l'électricité, les deux plus importants contributeurs, le charbon et le pétrole, génèrent du dioxyde de carbone, des polluants et du soufre qu'ils rejettent dans l'atmosphère. La réduction de la consommation d'électricité aboutit à la lutte contre les impacts des émissions de dioxyde de carbone sur notre environnement et sur le réchauffement climatique. <<E>>
 
 Comme indiqué ci-dessus, nous nous intéressons aux technologies de l'information. En effet, la technologie de l'information affectent notre environnement 
 de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de sa production à son élimination, en passant par son utilisation, pose des problèmes environnementaux. Chaque PC utilisé génère environ une tonne de dioxyde de carbone chaque année. <<E>>
@@ -59,7 +59,7 @@ Elle nous conduit donc à appliquer une approche globale pour réduire les impac
 * Green utilisation : qui indique à utiliser les ordinateurs et les autres systèmes d'information en manière écologique afin de réduire leur consommation d'énergie.
 * Le Green élimination :  qui indique à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
 * Green conception :  qui indique à préserver l'environnement via de concevoir, en façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
-* Green fabrication : qui indique de fabriquer, dans un but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
+* Green fabrication : qui indique à fabriquer, dans un but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
 
 Minimiser les émissions de gaz à effet de serre, en réduisant la consommation d'énergie des systèmes informatiques et des centres de données opérationnels, forme un objectif essentiel de Green IT, pour cela il existe plusieurs pratiques : <<E>>
 
@@ -68,6 +68,7 @@ Minimiser les émissions de gaz à effet de serre, en réduisant la consommation
 * Éteindre le système lorsqu'il n'est pas utilisé.
 * Utiliser des économiseurs d'écran.
 * Utilisation d'ordinateurs clients légers.
+* Écologisation des centres de données.
 * Conservation de l'énergie.
 * Conception écologique. 
 * Virtualisation.
@@ -77,7 +78,7 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 * Conception pour un environnement durable.
 * L'informatique économe en énergie.
 * Gestion de l'énergie.
-* Disposition et emplacement des centres de données.
+* Conception, disposition et emplacement des centres de données.
 * Virtualisation des serveurs.
 * Élimination et recyclage responsables.
 * Conformité à la réglementation.
@@ -93,31 +94,32 @@ L'article "`Art. L. 213-4-1.-I.`" <<F>> définit l'obsolescence programmée comm
 
 Pour bien expliquer la notion d'obsolescence programmée, voici la différenciation de ses différents types : <<G>>
 
-* *L’obsolescence indirecte* : est représentée s'il y a un défaut du produit et qu'il n'est pas possible de le réparer. Par exemple, la perte d'un chargeur de téléphone.
+* *L’obsolescence indirecte* :  représente le cas où le produit devient obsolète faute de pouvoir trouver un remplacement d'un auxiliaire, ou faute de trouver des pièces détachées adéquates, ce qui oblige le consommateur à acheter un nouveau produit alors que l'ancien est bien en état de marche.
 * *L'obsolescence d'incompatibilité* : cela signifie que s'il y a une mise à jour d'un système d'exploitation ou d'une application, il y aura un logiciel qui ne fonctionnera plus avec cette mise à jour.
-* *L’obsolescence esthétique* : représente le cas où les nouveaux produits, qui sont bien améliorés avec une esthétique nouvelle à la mode, et qui sont régulièrement mis sur le marché, rendent les anciens produits obsolètes.
+* *L’obsolescence esthétique* :  représente le cas où les nouveaux produits, qui sont bien améliorés avec une esthétique nouvelle à la mode, et qui sont régulièrement mis sur le marché, rendent les anciens produits obsolètes.
 * *L’obsolescence de fonctionnement* : représente le cas où le produit devient obsolète, après une certaine date, à cause de pratiques ou d'une mauvaise qualité qui engendrent la cessation de l'exploitation de ce produit, par exemple, certaines imprimantes étaient équipées d’une puce de comptage qui bloquait l’impression au-delà d’un certain nombre de feuilles.
-* *L'obsolescence de service après-vente* : est trouvée s'il est nécessaire de réparer ou d'entretenir un produit, cela coûtera plus cher que d'acheter un nouveau produit. Ou s'il est nécessaire de changer une pièce d'équipement qui est détachée du produit, il n'y aura pas souvent la possibilité de la vendre séparément, ce qui conduit à l'obligation d'acheter un tout nouvel appareil.
+* *L'obsolescence de service après-vente* : représente le cas où les services après-vente, jugés incapables de satisfaire leurs clients dans un délai et à un prix raisonnables, leur proposent d'acheter un nouveau produit au lieu de remplacer la pièce défectueuse, en prétendant qu'il coûtera moins cher.
 
-Il existe un accord sur l'existence d'une  obsolescence conjoncturelle des produits. Il se peut que ce soit le cas : <<H>>
+
+Il existe un accord sur l'existence d'une  obsolescence conjoncturelle des produits. Il se peut que ce soit le cas de : <<H>>
 
 * *Raisons techniques* : par exemple, les sauts technologiques ou l'apparition d'incompatibilités entre les équipements.
 * *Raisons économiques* : par exemple, les questions de coûts de stockage des pièces de rechange.
 * *Raisons réglementaires* : par exemple, l'évolution des technologies ou des règles de sécurité (par exemple, l'interdiction ou la restriction de certaines substances dangereuses).
 * *Les choix des consommateurs* à la lumière d'une évolution naturelle de la gamme des produits disponibles sur le marché, en fonction de la maturité de la technologie en question, des innovations et de la concurrence. L'apparition de fonctionnalités améliorées stimule le lancement de nouveaux produits, avec un déclin des produits les moins efficaces (par exemple, performance énergétique, apparition de la 3D pour les téléviseurs).
 
-Le rapport a approuvé les définitions suivantes de l'obsolescence : <<H>>
+Ademe a approuvé les définitions suivantes de l'obsolescence : <<H>>
 
-* *L’obsolescence fonctionnelle* : correspond au fait qu’un produit ne réponde plus aux nouveaux usages attendus, pour des raisons techniques (exemple incompatibilité avec de nouveaux équipements), règlementaires et/ou économiques.
-* *L’obsolescence d’évolution* :correspond au fait qu’un produit ne réponde plus aux envies des utilisateurs qui souhaitent acquérir un nouveau modèle du fait d’une évolution de fonctionnalité ou de design.
+* *L’obsolescence fonctionnelle* : qui caractérise l'état d'un produit, qui est devenu obsolète, parce qu'il ne réponde plus aux nouveaux usages attendus. Cela est dû aux diverses raisons : techniques (à cause de l'incompatibilité avec des nouveaux équipements par exemple), réglementaires ou économiques. 
+* *L’obsolescence d’évolution* : qui caractérise l'état d'un produit, qui est devenu obsolète, à cause de changement des envies des utilisateurs, qui souhaitent posséder un nouveau produit avec des nouvelles fonctionnalités ou design.
 
 ==== La notion de la famille de logiciels
 
 Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur). 
 
-Avant de commencer à présenter les types de logiciels, notons la différence entre *Logiciel*, *Program*, *Application* (en *Client Léger* et/ou en *Client Lourd*). 
+Avant de commencer à présenter les types de logiciels, notons la différence entre *Logiciel*, *Programme*, *Application* (en *Client Léger* et/ou en *Client Lourd*). 
 
-Le *Logiciel* : applique une ou plusieurs opérations pour transformer les données d'un état A à un état B. Un logiciel traite donc les données par une ou plusieurs séquences d'opérations. <<I>>
+Le *Logiciel* : transforme les données d'un état A à un état B en appliquant une ou plusieurs opérations, donc il utilise une ou plusieurs séquences d'opérations pour traiter ces données. <<I>>
 
 Le *Programme* : est une séquence d'opérations. <<I>>
 A partir de cette définition, on remarque qu'un *logiciel* est la compilation d'un ensemble de *programmes*.
@@ -140,52 +142,52 @@ Sur ces systèmes d'exploitation, des logiciels peuvent être installés. Ces lo
 
 ==== La famille de logiciels sur un SmartPhone
 
-Système d’exploitation mobile est conçu pour fonctionner sur un smartphone, une tablette ou tout autre dispositif mobile. Aujourd’hui, les trois systèmes les plus importants sont Android, iOS et Windows Phone. <<K>>
+Le système d'exploitation mobile a été développé et conçu afin d'être opérable sur tout dispositif mobile tels que les smartphones et les tablettes. Les systèmes Android, iOS et Windows Phone représentent les systèmes d'exploitation mobiles les plus dominant du marché. <<K>>
 
 * Le système d'exploitation *Android* : <<K>>
 
-Le système d’exploitation d’Android fonctionne sur plusieurs appareils tels que les smartphones, tablettes, montres, téléviseurs et voitures.
+Plusieurs appareils, tels que les smartphones, tablettes, montres, téléviseurs, et voitures, peuvent être exploités par le système Android.
 
-L’architecture d’Android est composée de plusieurs couches : <<K>>
+L’architecture d’Android consiste de plusieurs couches : <<K>>
 
-* *Linux Kernel* : le kernel est basé sur Linux. Il permet de faire le lien entre la partie hardware et le logiciel. Il contient les différents drivers de la partie matérielle.
-* *Libraries* : la couche suivante contient plusieurs librairies telles que SQLite, SSL,OpenGL...
-* *Android Runtime* : la couche Android Runtime contient des librairies qui permettent aux développeurs d’utiliser un sous-ensemble des libraires Java ainsi qu’une machine virtuelle.
-* *Applications Framework* : les applications Android interagissent avec la couche application Framework. Cette couche permet d’accéder au travers d’API aux fonctionnalités du dispositif.
-* *Application* : toutes les applications installées se trouvent dans cette couche.
+* *Linux Kernel* : basé sur Linux, le Kernel contient les différents pilotes (ou drivers en anglais) de la partie matérielle, permettant de faire le lien entre le logiciel et la partie hardware.
+* *Librairies* : plusieurs librairies telles que SQLite, SSL, OpenGL se trouvent dans cette couche.
+* *Android Runtime* : les développeurs peuvent utiliser un sous-ensemble des librairies Java ainsi qu'une machine virtuelle grâce aux librairies contenants dans cette couche.
+* *Applications Framework* : cette couche interagit avec les applications Android, et permet d'accéder aux fonctionnalités du dispositif au travers d'API.
+* *Application* : cette couche contient toutes les applications installées.
 
-Les applications écrites en Java sont exécutées dans une machine virtuelle. Cependant, au lieu d’utiliser une JVM, Android utilise sa propre machine virtuelle (Dalvik Machine, ART).
+Android utilise sa prope machine virtuelle (Dalvik Machine, ART) à la place d'utiliser une JVM, et cela pour exécuter les applications écrites en Java.
 
 * Le système d'exploitation *IOS* : <<K>>
 
-iOS est le système d’exploitation mobile développé par Apple et fonctionnant uniquement sur du matériel Apple.
+ce système d'exploitation mobile, qui est développé par Apple, ne fonctionne que sur des matériels Apple.
 
 L’architecture d’iOS est composée de 4 couches différentes : <<K>>
 
-* *Core OS* : cette couche est responsable du système d’exploitation. Elle est en charge de la gestion de la mémoire ainsi que l’accès au matériel du dispositif.
-* *Core Services* : elle contient les API qui permettent aux applications d’accéder à différents services tels que le réseau, les contacts, la base de données.
-* *Media* : la couche média permet d’implémenter des fonctionnalités audio, vidéo et graphiques.
-* *Cocoa Touch* : cette couche définit les bases de l’application. Elle contient de nombreuses fonctionnalités comme la gestion des vues, la reconnaissance des gestes, le multitâche, les notifications.
+* *Core OS* : cette couche, qui gère la mémoire et l'accès au matériel du dispositif, est considérée comme la couche responsable du système d'exploitation mobile.
+* *Core Services* : les services tels que le réseau, les contacts, la base de données, peuvent être accédés par les applications grâce aux API se trouvant dans cette couche.
+* *Media* : cette couche est utilisée afin d'implémenter des fonctionnalités audio, vidéo, et graphiques.
+* *Cocoa Touch* :  cette couche, qui contient plusieurs fonctionnalités comme la reconnaissance des gestes, le multitâche, la gestion des vues, et les notification, sert à définir les bases de l'application.
 
 * Le système d'exploitation *Windows* : <<K>>
 
-L’architecture d’une application Windows est composée de 4 couches : <<K>>
+L’architecture d’une application Windows consiste de 4 couches : <<K>>
 
-* *Core* : la couche la plus basse dans la hiérarchie, c’est le kernel qui permet de gérer le matériel du dispositif.
-* *System Services* : au-dessus, la couche contient les API qui permettent d’accéder aux fonctionnalités des appareils.
-* *Model Controller* : la couche suivante contient le code qui sera exécuté.
+* *Core* : cette couche, formant le kernel permettant de gérer le matériel du dispositif, représente la couche la plus basse dans la hiérarchie.
+* *System Services* : les fonctionnalités des appareils peuvent être accédées grâce aux API qui se trouvent dans cette couche.
+* *Model Controller* : le code, qui sera exécuté, se situe dans cette couche.
 * *View* : la dernière couche contient les vues avec lesquelles les utilisateurs vont interagir.
 
 
 Il existe plusieurs types de développement pour mettre au point une application mobile. Ces développements comprennent : <<K>>
 
-* Le *Développement Native* : est spécialement développée pour un système d'exploitation. Ainsi, Android, iOS et Windows Phone, nous avons besoin de trois versions de logiciels. Sachant que chaque système d'exploitation possède ses propres outils, langages et spécificités. Ces applications nécessitent d'installer sur l'appareil.
-* Le *Développement Web* : sont conçues pour fonctionner dans un navigateur web et sont généralement adaptées pour qu’elles puissent s’exécuter dans un navigateur mobile. Elles n'ont besoin que d'un navigateur mobile pour les utiliser.
-* Le *Développement Multiplatforme* : Leur objectif est de développer une application qui fonctionne sur tous les systèmes d'exploitation.
+* Le *Développement Native* : une application native est spécialement développée pour un système d'exploitation donné, ce qui veut dire que nous avons besoin de trois versions différentes de cette application pour la faire fonctionner sur Android, iOS et Windows Phone, sachant que chaque système d'exploitation possède ses propres outils, langages et spécificités.
+* Le *Développement Web* : les applications sont conçues pour fonctionner dans un navigateur web et sont généralement adaptées pour qu’elles puissent s’exécuter dans un navigateur mobile. Elles n'ont besoin que d'un navigateur mobile pour les utiliser.
+* Le *Développement Multiplatforme* : l'objectif est de développer une application qui fonctionne sur tous les systèmes d'exploitation.
 
 ==== La famille de logiciels sur un serveur 
 
-Le serveur est un dispositif qui met des ressources, des données, des services ou des logiciels à la disposition des clients et qui est connecté au réseau. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
+Le serveur est un dispositif, qui est connecté au réseau, met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
 .Différents types de serveurs et leurs logiciels
 [caption="Figure 2: "]
@@ -199,7 +201,7 @@ Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considirat
 
 Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
 
-Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<J>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
+Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<M>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
 
 Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. Elle est basée sur une méthodologie d'analyse du cycle de vie (ACV), et s'appuie sur trois modèles de quantification des impacts environnementaux (utilisateurs, réseaux, centres informatiques) agrégés par un méta-modèle.
 
