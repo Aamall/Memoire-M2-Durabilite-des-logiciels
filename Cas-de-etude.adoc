@@ -1,3 +1,5 @@
+:imagesdir: ./images 
+
 <<<
 
 == Illustrations pratiques ///reste à faire///
@@ -66,3 +68,203 @@ Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au 
 === Etape de suppression
 
 Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+
+
+=== Cas d'un test de sites web : 
+
+Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrant si le logiciel est vert ou non sur la base de plusieurs critères.
+
+À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test pour quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
+
+==== Site Google : 
+
+Le test de trois logiciels pour le site web de Google montre que le site a obtenu de bons résultats dans l'évaluation du Green.
+
+Google est classé "A", selon les critères du logiciel "ÉcoIndex" et son test. 
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 5: "]
+image::Google-ecoIndex-1.png[Test de Google sur ÉcoIndex]
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 6: "]
+image::Google-ecoIndex-2.png[Test de Google sur ÉcoIndex]
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 7: "]
+image::Google-ecoIndex-3.png[Test de Google sur ÉcoIndex]
+
+
+Google a acquis 11 des 15 meilleures pratiques testées, selon les critères du logiciel "ÉcoMeter" et son test. 
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 8: "]
+image::Google-ecometer-1.png[Test de Google sur ÉcoMeter]
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 9: "]
+image::Google-ecometer-2.png[Test de Google sur ÉcoMeter]
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 10: "]
+image::Google-ecometer-3.png[Test de Google sur ÉcoMeter]
+
+Selon les critères du logiciel "GTmetrix" et de son test, le score de performance de Google est "A" (95%).
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Google sur GTmetrix
+[caption="Figure 11: "]
+image::Google-GTmatrix-1.png[Test de Google sur GTmetrix]
+
+.Test de Google sur GTmetrix
+[caption="Figure 12: "]
+image::Google-GTmatrix-2.png[Test de Google sur GTmetrix]
+
+==== Site SNCF : 
+
+Le test de trois logiciels pour le site de la SNCF montre que le site a obtenu une mauvaise note dans l'évaluation de Green.
+
+La performance environnementale de la SNCF est classée dans la catégorie "E".
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 13: "]
+image::Sncf-ecoIndex-1.png[Test de SNCF sur ÉcoIndex]
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 14: "]
+image::Sncf-ecoIndex-2.png[Test de SNCF sur ÉcoIndex]
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 15: "]
+image::Sncf-ecoIndex-3.png[Test de SNCF sur ÉcoIndex]
+
+Après le test "EcoMeter", la SNCF a acquis 4 des 15 meilleures pratiques testées.
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 16: "]
+image::Sncf-ecometer-1.png[Test de SNCF sur ÉcoMeter]
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 17: "]
+image::Sncf-ecometer-2.png[Test de SNCF sur ÉcoMeter]
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 18: "]
+image::Sncf-ecometer-3.png[Test de SNCF sur ÉcoMeter]
+
+Le score de performance de la SNCF sur "GTmetrix" est "D" (64%).
+
+Les résultats de test "GTmetrix" : 
+
+.Test de SNCF sur GTmetrix
+[caption="Figure 19: "]
+image::Sncf-GTmetrix-1.png[Test de SNCF sur GTmetrix]
+
+.Test de SNCF sur GTmetrix
+[caption="Figure 20: "]
+image::Sncf-GTmetrix-2.png[Test de SNCF sur GTmetrix]
+
+==== Site Discovery Land Company : 
+
+Le test de trois logiciels pour le site de la Discovery Land Company montre que le site a obtenu une mauvaise note dans l'évaluation de Green.
+
+Sa performance environnementale sur "EcoIndex" est "E".
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 21: "]
+image::discoverylandco-ecoIndex-1.png[Test de Discovery Land Company sur ÉcoIndex]
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 22: "]
+image::discoverylandco-ecoIndex-2.png[Test de Discovery Land Company sur ÉcoIndex]
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 23: "]
+image::discoverylandco-ecoIndex-3.png[Test de Discovery Land Company sur ÉcoIndex]
+
+Pour "EcoMeter", la Discovery Land Company a acquis 4 des 15 meilleures pratiques testées.
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 24: "]
+image::discoverylandco-ecometer-1.png[Test de Discovery Land Company sur ÉcoMeter]
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 25: "]
+image::discoverylandco-ecometer-2.png[Test de Discovery Land Company sur ÉcoMeter]
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 26: "]
+image::discoverylandco-ecometer-3.png[Test de Discovery Land Company sur ÉcoMeter]
+
+Le score de performance de la Discovery Land Company sur "GTmetrix" est "C" (75%).
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Discovery Land Company sur GTmetrix
+[caption="Figure 27: "]
+image::discoverylandco-GTmatrix-1.png[Test de Discovery Land Company sur GTmetrix]
+
+.Test de Discovery Land Company sur GTmetrix
+[caption="Figure 28: "]
+image::discoverylandco-GTmatrix-2.png[Test de Discovery Land Company sur GTmetrix]
+
+==== Site Wickret : 
+
+Le test de trois logiciels pour le site Wickret montre que le site a obtenu un score moyen dans l'évaluation de Green.
+
+Wickret est classé "B", selon les critères du logiciel "ÉcoIndex" et son test. 
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 29: "]
+image::Wickret-ecoIndex-1.png[Test de Wickret sur ÉcoIndex]
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 30: "]
+image::Wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 31: "]
+image::Wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
+
+Les résultats sur Ecometer donnent 7 des 15 meilleures pratiques testées à Wickret.
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 32: "]
+image::wickret-ecometer-1.png[Test de Wickret sur ÉcoMeter]
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 33: "]
+image::wickret-ecometer-2.png[Test de Wickret sur ÉcoMeter]
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 34: "]
+image::wickret-ecometer-3.png[Test de Wickret sur ÉcoMeter]
+
+Le score de performance de la wickret sur "GTmetrix" est "A" (97%).
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Wickrety sur GTmetrix
+[caption="Figure 35: "]
+image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
+
+.Test de Wickrety sur GTmetrix
+[caption="Figure 36: "]
+image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
