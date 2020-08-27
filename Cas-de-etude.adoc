@@ -231,15 +231,15 @@ Les résultats de test "ÉcoIndex" :
 
 .Test de Wickret sur ÉcoIndex
 [caption="Figure 29: "]
-image::Wickret-ecoIndex-1.png[Test de Wickret sur ÉcoIndex]
+image::wickret-ecoIndex-1.png[Test de Wickret sur ÉcoIndex]
 
 .Test de Wickret sur ÉcoIndex
 [caption="Figure 30: "]
-image::Wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
+image::wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
 
 .Test de Wickret sur ÉcoIndex
 [caption="Figure 31: "]
-image::Wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
+image::wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
 
 Les résultats sur "Écometer" donnent 7 des 15 meilleures pratiques testées à Wickret.
 
@@ -261,17 +261,18 @@ Le score de performance de la wickret sur "GTmetrix" est "A" (97%).
 
 Les résultats de test "GTmetrix" : 
 
-.Test de Wickrety sur GTmetrix
+.Test de Wickret sur GTmetrix
 [caption="Figure 35: "]
-image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
+image::wickret-GTmetrix-1.png[Test de Wickret sur GTmetrix]
 
-.Test de Wickrety sur GTmetrix
+.Test de Wickret sur GTmetrix
 [caption="Figure 36: "]
-image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
+image::wickret-GTmetrix-2.png[Test de Wickret sur GTmetrix]
 
 Grâce à ces résultats, nous pouvons constater que plus le site est simple et moins il contient d'images, plus il sera vert. Cela est confirmé par les entretiens que j'ai menés et par les réactions des responsables du projet après avoir testé ma matrice.
 
 N.B. : 
+
 * Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
 * Wickret : est un logiciel dédié aux services bancaires dont les objectifs principaux sont d'avoir ces services sans frais mensuels avec une gestion de payment simplifiée. Le lien de site : https://wickret.cuberto.com/
 * Pour plus d'informations sur les trois logiciels de test et leur fonctionnement, voici leurs liens : 
