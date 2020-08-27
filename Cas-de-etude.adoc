@@ -275,6 +275,6 @@ N.B. :
 * Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
 * Wickret : est un logiciel dédié aux services bancaires dont les objectifs principaux sont d'avoir ces services sans frais mensuels avec une gestion de payment simplifiée. Le lien de site : https://wickret.cuberto.com/
 * Pour plus d'informations sur les trois logiciels de test et leur fonctionnement, voici leurs liens : 
-     * ÉcoIndex : http://www.ecoindex.fr/
-     * Écometer : http://www.ecometer.org/
-     * GTmetrix : https://gtmetrix.com/
+** ÉcoIndex : http://www.ecoindex.fr/
+** Écometer : http://www.ecometer.org/
+** GTmetrix : https://gtmetrix.com/
