@@ -129,7 +129,7 @@ image::Google-GTmatrix-2.png[Test de Google sur GTmetrix]
 
 Le test de trois logiciels pour le site de la SNCF montre que le site a obtenu une mauvaise note dans l'évaluation de Green.
 
-La performance environnementale de la SNCF est classée dans la catégorie "E".
+La performance environnementale de la SNCF est classée dans la catégorie "E" sur "ÉcoIndex.
 
 Les résultats de test "ÉcoIndex" : 
 
@@ -145,7 +145,7 @@ image::Sncf-ecoIndex-2.png[Test de SNCF sur ÉcoIndex]
 [caption="Figure 15: "]
 image::Sncf-ecoIndex-3.png[Test de SNCF sur ÉcoIndex]
 
-Après le test "EcoMeter", la SNCF a acquis 4 des 15 meilleures pratiques testées.
+Après le test "ÉcoMeter", la SNCF a acquis 4 des 15 meilleures pratiques testées.
 
 Les résultats de test "ÉcoMeter" : 
 
@@ -177,7 +177,7 @@ image::Sncf-GTmetrix-2.png[Test de SNCF sur GTmetrix]
 
 Le test de trois logiciels pour le site de la Discovery Land Company montre que le site a obtenu une mauvaise note dans l'évaluation de Green.
 
-Sa performance environnementale sur "EcoIndex" est "E".
+Sa performance environnementale sur "ÉcoIndex" est "E".
 
 Les résultats de test "ÉcoIndex" : 
 
@@ -193,7 +193,7 @@ image::discoverylandco-ecoIndex-2.png[Test de Discovery Land Company sur ÉcoInd
 [caption="Figure 23: "]
 image::discoverylandco-ecoIndex-3.png[Test de Discovery Land Company sur ÉcoIndex]
 
-Pour "EcoMeter", la Discovery Land Company a acquis 4 des 15 meilleures pratiques testées.
+Pour "ÉcoMeter", la Discovery Land Company a acquis 4 des 15 meilleures pratiques testées.
 
 Les résultats de test "ÉcoMeter" : 
 
@@ -241,7 +241,7 @@ image::Wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
 [caption="Figure 31: "]
 image::Wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
 
-Les résultats sur Ecometer donnent 7 des 15 meilleures pratiques testées à Wickret.
+Les résultats sur "Écometer" donnent 7 des 15 meilleures pratiques testées à Wickret.
 
 Les résultats de test "ÉcoMeter" : 
 
@@ -268,3 +268,13 @@ image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
 .Test de Wickrety sur GTmetrix
 [caption="Figure 36: "]
 image::wickrety-GTmetrix-1.png[Test de Wickrety sur GTmetrix]
+
+Grâce à ces résultats, nous pouvons constater que plus le site est simple et moins il contient d'images, plus il sera vert. Cela est confirmé par les entretiens que j'ai menés et par les réactions des responsables du projet après avoir testé ma matrice.
+
+N.B. : 
+* Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
+* Wickret : est un logiciel dédié aux services bancaires dont les objectifs principaux sont d'avoir ces services sans frais mensuels avec une gestion de payment simplifiée. Le lien de site : https://wickret.cuberto.com/
+* Pour plus d'informations sur les trois logiciels de test et leur fonctionnement, voici leurs liens : 
+     * ÉcoIndex : http://www.ecoindex.fr/
+     * Écometer : http://www.ecometer.org/
+     * GTmetrix : https://gtmetrix.com/
