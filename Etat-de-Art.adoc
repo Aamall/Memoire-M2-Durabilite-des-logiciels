@@ -203,21 +203,22 @@ Il existe de nombreux types de matériel informatique, tels que : ordinateurs, s
 
 Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<M>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
 
-Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. Elle est basée sur une méthodologie d'analyse du cycle de vie (ACV), et s'appuie sur trois modèles de quantification des impacts environnementaux (utilisateurs, réseaux, centres informatiques) agrégés par un méta-modèle.
+Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. La méthodologie suivie repose sur l'analyse de cycle de vie (ACV), et a quantifié les impacts environnementaux en s'appuyant sur trois catégories (utilisateurs, réseaux, centres informatiques) qui sont agrégés par un méta-modèle.
 
 Les quatre indicateurs qui ont été pris en compte dans cette étude : <<M>> 
 
-* Épuisement des ressources abiotiques (ADP) : cet indicateur, qui évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
+* Épuisement des ressources abiotiques (ADP) : cet indicateur évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
 * Réchauffement global (GES) : cet indicateur reflète le changement climatique.
-* Bilan énergétique (EP) : L'eau douce est considérée comme la deuxième ressource physiologique de base la plus importante pour l'homme et des millions d'autres formes de vie. Par conséquent, l'eau bleue est plus accessible aux êtres humains que l'eau verte, qui n'est accessible qu'aux plantes. Cela signifie que si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.
-* Tension sur l’eau douce (Eau) : L'énergie primaire est l'énergie nécessaire pour produire l'énergie finale. Ainsi, en numérique, selon l'étape du cycle de vie d'un équipement, il y aura différentes énergies primaires pour produire différentes énergies finales. 
+* Bilan énergétique (EP) : L'énergie dite "primaire" est celle nécessaire pour produire l'énergie finale. Ainsi, en numérique comme en toute autre industrie, afin de fabriquer l'équipement et selon l'étape de son cycle de vie, il y aura différents types d'énergie primaire pour produire l'énergie finale nécessaire à réaliser cette étape.
+* Tension sur l’eau douce (Eau) : après l'air respirable, l'eau douce est classée comme la deuxième ressource physiologique de base la plus importante aussi pour l'être humain que pour d'autres formes de vie.
+Il est à notifier que uniquement l'eau bleu est accessible aux êtres humains en revanche de l'eau verte, qui est uniquement accessible aux plantes. Par conséquent, si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donnée.  
 
-Le mot *Numérique* n'est pas abstrait. Il est donc traduit par équipement et câbles. Pour cela, l'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. <<M>> 
+Le mot *Numérique* n'est pas abstrait, il est traduit par des milliers des équipement et câbles. L'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. <<M>> 
 
 Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de GreenIT.fr a étudié l'ensemble des impacts environnementaux pour chaque tiers du numérique. Nous présentons quelques résultats de l'étude : <<M>> 
 
  "L'empreinte environnementale du numérique mondial est de l'ordre de :
- * 6 800 TWh d’énergie primaire (EP).
+ * 6 800 TWh d'énergie primaire (EP).
  * 1 400 millions de tonnes de gaz à effet de serre (GES).
  * 7,8 millions de m3 d’eau douce (Eau).
  * 22 millions de tonnes d’antimoine (ADP)."  
@@ -230,15 +231,15 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
 
     "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)." 
 
-Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
+Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
 
 En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<M>> ) .
 
 ==== Démonstration de l'importance du couplage entre Software et Hardware
 
-Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<B>>", que TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un consensus autour de 4-5 %. En comparaison, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
+Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<B>>", les TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un accord autour de 4-5 %. Par contre, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
 
-Des études montrent que les deux phases de fabrication et de recyclage sont responsables de la plus forte proportion d'émissions de dioxyde de carbone. D'où l'importance du couplage entre le matériel et les logiciels pour développer des logiciels durables afin de rendre le matériel plus durable avec la plus longue période d'utilisation possible.
+Des études montrent que les deux phases de la fabrication et de recyclage sont responsables de la plus forte proportion d'émissions de dioxyde de carbone. D'où l'importance du couplage entre le matériel et les logiciels pour développer des logiciels durables afin de rendre le matériel plus durable avec la plus longue période d'utilisation possible.
 
 La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
 
@@ -268,19 +269,15 @@ Parfois, si la conception est mauvaise, cela nous conduit à un mauvais dévelop
 
 ==== Cycle de vie d'un matériel informatique 
 
-Comme il le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "est l'ensemble du matériel informatique, des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et des logiciels. 
+Comme elle le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "la Technologie de l'Information représente l'ensemble des matériels informatiques, ainsi que des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et celui des logiciels. 
 
 Dans ce paragraphe, je parlere du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions du cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
+Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
-D'un point de vue général, le cycle de vie d'un dispositif informatique peut être segmenté en cinq grandes phases : <<N>> 
+D'un point de vue général, le cycle de vie d'un matériel informatique peut être segmenté en cinq grandes phases : <<N>> 
 
-* Préfabrication.
-* Fabrication.
-* Distribution et Transportation.
-* Usage.
-* Disposition.
+Préfabrication, Fabrication, Distribution et Transportation, Usage, La fin de vie :.
 
 Le champ d'application de chaque phase sera défini, suivi des impacts environnementaux résultant de cette phase, les catégories adoptées pour classer les impacts environnementaux étant : <<N>>
 
@@ -292,8 +289,6 @@ Le champ d'application de chaque phase sera défini, suivi des impacts environne
 * L’appauvrissement de la zone stratosphérique.
 * La formation de photo-oxydant.
 * L’eutrophisation.
-
-==== Le cycle de vie d'un dispositif informatique : 
 
 * Préfabrication : 
 
@@ -307,7 +302,7 @@ Cette phase s'est avérée être celle qui contribue le plus à toutes les caté
 Cette phase comprend généralement deux processus : l'assemblage des composants électriques et électroniques, et l'emballage du matériel informatique.
 Pour étudier cette phase, les quatre chercheurs ont utilisé les données sur la production d'électricité disponibles dans la base de données nationale, ainsi que les données fournies par deux grandes entreprises coréennes : Samsung Electronics Co. et TriGem Computer Co. <<N>>
 
-Les activités de cette phase nécessitent peu d'électricité et émettent peu de polluants dans l'air, les eaux usées ou les déchets solides. <<N>>
+Les activités de cette phase nécessitent peu d'électricité et émettent peu de polluants dans l'air, des eaux usées ou des déchets solides. <<N>>
 
 * Distribution et Transportation : 
 
@@ -326,7 +321,7 @@ Cela peut se comprendre étant donné que la consommation d'énergie provenant d
 
 * la fin de vie :
 
-Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comportant quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
+Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comporte quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
 Les quatre chercheurs ont utilisé la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, ainsi que les données fournies par Korea Computer Recycling Inc, pour déterminer le taux de recyclage d'un appareil informatique en Corée du Sud.
 Ce taux est fixé à 46%, ce qui signifie que 54% du matériel informatique se retrouve à la décharge. <<N>>
 
@@ -337,9 +332,9 @@ Le recyclage du matériel informatique a une influence à la fois positive et n�
 
 ==== Cycle de vie d'un logiciel
 
-Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique. Pour renforcer le caractère intellectuel dulogiciel, l'ISO précise en plus que le logiciel existe indépendemment des supports utilisés pour le transporter, ce qui sous-entend qu'il ne faut pas confondre le logiciel avec son support. <<O>>
+Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme "une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique." <<O>>. L'ISO a précisé, afin d'accentuer la nature intellectuelle du logiciel, que ce dernier existe à part des supports par lesquels il est transporté, ce qu'il requière la distinction entre le logiciel et son support. <<O>>
 
-Nous définissons le cycle de vie des logiciels : est la période de temps s'étalant du début à la fin du processus du logiciel. Il commence donc avec la proposition ou la décision de développer un logiciel et se termine avec sa mise hors service. <<O>>
+Nous définissons le cycle de vie des logiciels : comme la durée du temps commençant par proposer ou décider de développer un logiciel, et se terminant par mettre ce dernier hors service. <<O>>
 
 Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du logiciel* (en anglais *Software process*). Ce processus est composé de plusieurs sous-processus qui échangent et communiquent entre eux. Pour chaque processus, il y a des conditions à déclencher, des caractéristiques uniques, des activités déployées, certaines ressources utilisées et les produits qui en résultent et ses critères de fin. Les activités qui font partie d'un processus sont à leur tour divisées en sous-activités et en tâches plus détaillées. <<O>> 
 
@@ -348,15 +343,15 @@ Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du 
 image::Architecture-du-processus-du-logiciel.jpg[Architecture du processus du logiciel]
 
 
-En partant de la définition du cycle de vie des logiciels, nous découvrons que le cycle de vie des logiciels se compose de quatre phases <<O>>  qui se succèdent les unes aux autres : 
+En partant de la définition du cycle de vie des logiciels, nous découvrons que le cycle de vie des logiciels se compose en quatre phases <<O>>  qui se succèdent les unes aux autres : 
 
-* *Avant-projet/ Etude préalable* : c'est la phase préparatoire qui a des tâches telles que répondre à des questions comme la clarification de l'objectif du logiciel et de son importance. Il s'agit notamment de clarifier les aspects techniques et de gestion, les phases de ce logiciel et les besoins des utilisateurs. Pour chacune de ces phases, il existe plusieurs petites tâches détaillées. Les résultats de cette phase sont documentés dans un document appelé *Cahier de charge/Spécification du projet* (en anglais projet specification).
-* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence avec la décision de développer un logiciel et se termine avec la livraison du logiciel et son installation. Nous en parlons en détail par la suite.
-* *Exploitation et Maintenance* : après l'achèvement de la phase précédente et avant d'entrer dans la phase d'exploitation, le logiciel passe au stade de *installation*. Cette étape est prise en charge soit par l'équipe de développement pour les logiciels en développement interne, soit par l'utilisateur qui effectue l'installation dans le cas de logiciels largement distribués, et est soutenue par l'assistance du distributeur (service après-vente). Après cette étape vient la phase d'exploitation et de maintenance, qui comprend l'exploitation du logiciel dans son environnement d'exploitation, sa surveillance et sa modification si nécessaire.
-N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajouter de nouvelles fonctionnalités, à l'adopter avec un nouvel environnement, etc. On distingue donc plusieurs types de maintenance : la maintenance corrective, la maintenance perfective et la maintenance adaptative. Souvent, la maintenance d'un logiciel nécessite de revenir à la phase de développement pour le réappliquer. Après chaque maintenance d'un logiciel, il faut bien sûr le distribuer. En outre, il faut fournir une assistance technique et un soutien en matière de conseil.
-* *Retrait* : la dernière phase que nous pouvons également appeler *Mettre le logiciel hors de service*. Cette phase comprend : avertir les utilisateurs,effectuer une exploitation en parallèle du logiciel à retirer, arrêter le support du logiciel.
+* *Avant-projet/ Etude préalable* : c'est la phase préparatoire qui a pour objectif de répondre à des questions comme la clarification de l'objectif du logiciel et de son importance. Il s'agit notamment de clarifier les aspects techniques et de gestion, les phases de ce logiciel et les besoins des utilisateurs. Pour chacune de ces phases, il existe plusieurs petites tâches détaillées. Les résultats de cette phase sont documentés dans un document appelé *Cahier de charge/Spécification du projet* (en anglais projet specification).
+* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence par décider de développer le logiciel, et se termine par le livrer et l'installer. Nous en parlons en détail par la suite.
+* *Exploitation et Maintenance* : après l'achèvement de la phase précédente et avant d'entrer dans la phase de l'exploitation, le logiciel passe au stade de *l'installation*. Cette étape est prise en charge soit par l'équipe de développement pour les logiciels en développement interne, soit par l'utilisateur qui effectue l'installation dans le cas de logiciels largement distribués, et qui est soutenu par l'assistance du distributeur (service après-vente). Après cette étape vient la phase d'exploitation et de maintenance, qui comprend l'exploitation du logiciel dans son environnement d'exploitation, sa surveillance et sa modification si nécessaire.
+N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajouter de nouvelles fonctionnalités, à l'adopter avec un nouvel environnement, etc. On distingue donc plusieurs types de maintenance : la maintenance perfective, la maintenance adaptative et la maintenance corrective. Souvent, la maintenance d'un logiciel nécessite de revenir à la phase de développement pour le réappliquer. Après chaque maintenance d'un logiciel, il faut bien sûr le distribuer. En outre, il faut fournir une assistance technique et un soutien en matière de conseil.
+* *Retrait* : la dernière phase que nous pouvons également appeler *Mettre le logiciel hors de service*. Cette phase comprend : alerter les utilisateurs, opérer une exploitation parallèlement au logiciel à retirer, cesser le support du logiciel.
 
-Pour revenir au cycle de développement du logiciel <<O>>. Ce dernier se compose de plusieurs phases qui sont les suivantes :
+En revenant au cycle de développement du logiciel <<O>>. Ce dernier se compose de plusieurs phases qui sont les suivantes :
 
 * *La gestion du projet*.
 * *La vérification et validation*.
@@ -372,10 +367,10 @@ image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
 
 ==== Que savent les programmeurs de la consommation d'énergie des logiciels ?
 
-Les chercheurs ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
+Les chercheurs ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment de l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
 
 L'enquête menée par ces chercheurs était anonyme en ligne et comportait 13 questions en quatre étapes.
-Les résultats mettent en évidence le besoin de formation sur la consommation d'énergie et l'efficacité énergétique des logiciels, montrant que le sujet de l'efficacité énergétique est rarement abordé par les programmeurs, et qu'il y a peu de demande de la part des utilisateurs, qui s'intéressent à la fois à la vitesse de développement et aux performances raisonnables des logiciels, ce qui signifie que le manque d'attention à la consommation d'énergie des logiciels est une priorité. Cela signifie également que les programmeurs ne s'intéresseront probablement pas à l'efficacité énergétique des logiciels si les clients ne le demandent pas. Il est donc nécessaire d'éduquer le public de manière appropriée afin que les clients et les programmeurs soient conscients de la consommation énergétique des logiciels. Les résultats de l'enquête montrent également que les programmeurs ne savent pas comment mesurer avec précision la consommation énergétique de leurs logiciels, puisque les méthodes de mesure (par compteur électrique, batterie, alimentation électrique, mesure des ressources, outils logiciels et temps CPU), mesurent la consommation énergétique globale du matériel, et non la consommation énergétique des logiciels. <<P>>
+Les résultats mettent en évidence le besoin de formation sur la consommation d'énergie et l'efficacité énergétique des logiciels, et montrent que le sujet de l'efficacité énergétique est rarement abordé par les programmeurs, et qu'il y a peu de demande de la part des utilisateurs, qui s'intéressent à la fois à la vitesse de développement et aux performances raisonnables des logiciels, ce qui signifie que le manque d'attention à la consommation d'énergie des logiciels est une question de priorité. Cela signifie également que les programmeurs ne s'intéresseront probablement pas à l'efficacité énergétique des logiciels si les clients ne le demandent pas. Il est donc nécessaire d'éduquer le public de manière appropriée afin que les clients et les programmeurs soient conscients de la consommation énergétique des logiciels. Les résultats de l'enquête montrent également que les programmeurs ne savent pas comment mesurer avec précision la consommation énergétique de leurs logiciels, puisque les méthodes de mesure (par compteur électrique, batterie, alimentation électrique, mesure des ressources, outils logiciels et temps CPU), mesurent la consommation énergétique globale du matériel, et non la consommation énergétique des logiciels. <<P>>
 
 Les chercheurs indiquent que pour analyser correctement les raisons sous-jacentes de la consommation d'énergie des logiciels, les programmeurs doivent comprendre les interactions entre les composants de haut niveau et de bas niveau. En outre, et sur la base des résultats de l'enquête montrant que les opinions des personnes interrogées varient largement sur la meilleure façon de réduire la consommation d'énergie des logiciels, les chercheurs indiquent que les cours universitaires n'enseignent généralement pas le lien entre de meilleurs algorithmes et la consommation d'énergie. <<P>>
 
