@@ -1,7 +1,7 @@
 :imagesdir: ./images
 <<<
 
-== 5.Les clés de la durabilité de logiciels (Matrice) /// rest à faire///
+== 5.Les clés de la durabilité de logiciels (Matrice) /// rest à faire, vérifier le numéro d'annexe///
 
 Après avoir recueilli les critères, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
 
@@ -14,7 +14,7 @@ Ces notes :
 * *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
 Pour réaliser cette matrice, je l'ai divisée en deux parties.  La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
-La deuxième, à droite, à remplir par *le client*,  ???*le chef de projet*.
+La deuxième, à droite, à remplir par *le chef de projet*.
 
 
 
@@ -28,7 +28,8 @@ Ce critère a été ajouté selon ma propre expérience, suite à la réflexion 
 
 * *Lazy loading :*
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
+Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin.
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
 
 *Lazy loading* :  est un modèle de conception couramment utilisé en programmation informatique pour différer l'initialisation d'un objet jusqu'au moment où il est nécessaire. Il peut contribuer à l'efficacité du fonctionnement du programme s'il est utilisé correctement et convenablement. Il est donc idéal dans les cas d'utilisation où le contenu du réseau est accessible et où les temps d'initialisation doivent être réduits au minimum, comme dans le cas des pages web. L'inverse de lazy loading is eager loading. <<R>>
 
@@ -55,7 +56,8 @@ Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre
 
 * *Fichier VS Base De Données :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe?>>.
+
 
 * *Stockage Réseau VS Local :*
 
