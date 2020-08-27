@@ -4,6 +4,10 @@
 
 == Illustrations pratiques ///reste à faire///
 
+L'optimisation du code est une composante clé de la conception et du développement. C'est donc une clé pour répondre à la problématique mal conçus et mal développés.
+
+Dans ce paragraphe, je présente trois codes qui calculent la séquence de Fibonacci, en montrant le "code éco-conçu", le "code non optimisé" et le "code du pire cas".
+
 === Cas d'un calcul de Fibonacci
 
 Soit un logiciel permettant de calculer et afficher la valeur de la position une suite de Fibonacci. 
@@ -57,8 +61,6 @@ fibonacci.py
     35	        result = fibonacci(withCache, cache, i)
     36	        print(f"F({i}) = {result}")
     37	        i = i + 1
-    38	
-    39	
 ----
 
 === Etape d'utilisation
