@@ -29,33 +29,33 @@ Imapcts Hardware <<C>>
   
 
 
-Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par la préfabrication et se terminent par la fin de vie <<N>> Chaque étape a son propre impact sur l'environnement.
+Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par la préfabrication et se terminent par la fin de vie de l'équipement <<N>>. Chaque étape a son propre impact sur l'environnement.
 
-La phase de préfabrication a l'impact le plus élevé sur l'environnement car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<N>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<De l\'importance du couplage entre Software et Hardware>>.
+La phase de préfabrication a l'impact le plus élevé sur l'environnement, car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<N>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<De l\'importance du couplage entre Software et Hardware>>.
 
  
 ====  2.1.2._Hypothèse 2_ : *Le Software peut entraîner le "renouvellement" du Hardware*
 
-Je considère à l'issue de ce travail de recherche que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolescence programmée (i.e. : de manière mercantile en l'occurrence).
+Je considère, à l'issue de ce travail de recherche, que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolescence programmée (i.e. : de manière mercantile en l'occurrence).
 
 En regard de cette hypothèse, je propose la matrice de durabilité présentée au chapitre <<Matrice>>. Elle présente les critères detérminants en termes de durabilité logicielle.
 
 
 ====  2.1.3._Hypothèse 3_ : *Le service numérique a un impact sur l'environnement*
  
-Considérant une population moyenne d'un pays développé et son inconscient collectif, il est important de savoir que les logiciels, de part leur absence d'existence physique, n'auraient aucun impact direct sur l'environnement. Pour démontrer l'inverse, il suffit de rappeler que le matériel stocke de l'information (disque dur, clé USB), fait fonctionner et les logiciels qui opèrent des calculs pour rendre des services (processeurs, mémoire, etc.). Ces éléments ont, à chaque étape de leur cycle de vie, bel et bien un impact sur l'environnement. Par conséquent, pour accepter cette hypothèse ou la rejeter nous devons mesurer l'influence des logiciels afin déterminer leur impact sur les matériels sous jaccents et donc les impacts environnementaux.
+Considérant une population moyenne d'un pays développé et son inconscient collectif, il est important de savoir que les logiciels, de part leur absence d'existence physique, n'auraient aucun impact direct sur l'environnement. Pour démontrer l'inverse, il suffit de rappeler que le matériel stocke de l'information (disque dur, clé USB), fait fonctionner et les logiciels qui opèrent des calculs pour rendre des services (processeurs, mémoire, etc.). Ces éléments ont, à chaque étape de leur cycle de vie, bel et bien un impact sur l'environnement. Par conséquent, pour accepter cette hypothèse ou la rejeter, nous devons mesurer l'influence des logiciels afin déterminer leur impact sur les matériels sous jaccents et donc les impacts environnementaux.
 
 
 ====  2.1.4._Hypothèse 4_ : *On peut améliorer la durabilité des logiciels*
 
-La durabilité logicielle, sans être définie, peut être lue de prime abord comme un oxymore. En effet, le turn over des technologies, des matériels, etc. est de nos jours tel qu'il peut sembler vain de vouloir rendre durable un logiciel. D'une part la définition faite au sein du chapitre <<Principes et Définitions >> porte plus sur l'impact environnemental que d'un objectif de faire durer un logiciel sur la longueur. D'autre part, le paragraphe illustration <<Enquête et interviews >> propose de démontrer par la pratique qu'il est possible de mal concevoir un logiciel, de mal le développer, de mal l'utiliser et de laisser une empreinte résiduelle forte à la suppression. Par opposition directe il est évidemment possible de bien faire  sur chaque étape du cycle de vie. La matrice de durabilité permet d'identifier les critères significatifs pour ce faire.
+La durabilité logicielle, sans être définie, peut être lue de prime abord comme un oxymore. En effet, le turn over des technologies, des matériels, etc... est de nos jours tel qu'il peut sembler vain de vouloir rendre durable un logiciel. D'une part la définition faite au sein du chapitre <<Principes et Définitions>> porte plus sur l'impact environnemental que d'un objectif de faire durer un logiciel sur la longueur. D'autre part, le paragraphe illustration <<Illustrations pratiques>> propose de démontrer par la pratique qu'il est possible de mal concevoir un logiciel, de mal le développer, de mal l'utiliser et de laisser une empreinte résiduelle forte à la suppression. Par opposition directe, il est évidemment possible de bien faire  sur chaque étape du cycle de vie. La matrice de durabilité permet d'identifier les critères significatifs pour ce faire.
 
 
 === 2.2.Les phases
 
 === 2.2.1.PHASE 1 État de l’art 
 
-La première concerne un état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Scholar avec les mots clés suivants GreenIT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computing equipment, software, environment impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
+La première phase concerne l'état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Scholar avec les mots clés suivants Green-IT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computer devices, software, environmental impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
 
 === 2.2.2.PHASE 2 Études qualitatives et quantitatives 
 
@@ -65,4 +65,4 @@ Dans un deuxième temps, j'ai publié un questionnaire réalisé avec l'outil Go
 
 === 2.2.3.PHASE 3 Matrice de durabilité des logiciels
 
-Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant sa note de durabilité.
+Enfin, la dernière phase correspond à l'analyse des réponses aux questionnaires et aux entretiens afin de trouver les critères de durabilité des logiciels. L'objectif de cette analyse est de construire une matrice qui donne un score à un logiciel en indiquant sa note de durabilité.
