@@ -10,7 +10,7 @@
 
 L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
 
-Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que cette soit appliquée dans plusieurs domaines tels que l'immobilier et l'électroménager. 
+Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que ce concept a été appliqué dans plusieurs domaines tels que l'immobilier et l'électroménager. 
 
 Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement. 
 
@@ -35,7 +35,7 @@ De ce concept, le Green IT pratique : <<D>>
 ** Appliquer d'économie d'énergie lors d'effectuer des opérations informatiques faites aux sein des centres des données et les environnements de bureau.
 ** Réaliser les opérations d'élimination des équipements informatiques d'une manière respectueuse de l'environnement.
 
-Les *Systèmes d'Information Green* font référence aux pratiques qui ont pour objectif de réduire les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI, et cela en déterminant la façon dont on utilise pour investir, déployer, utiliser et gérer les systèmes d'information SI.  <<D>>
+Les *Systèmes d'Information Green* font référence aux pratiques qui ont pour objectif de réduire les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI, et cela en déterminant la façon dont on utilise pour investir, déployer, utiliser et gérer les systèmes d'information SI. <<D>>
 
 A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 
