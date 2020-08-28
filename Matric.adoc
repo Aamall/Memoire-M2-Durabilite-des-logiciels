@@ -61,67 +61,101 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 * *Stockage Réseau VS Local :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe?>>.
+
+Ce critère signifie quel type de stockage est utilisé. 
+Le stockage en réseau nécessite un réseau pour stocker les données, alors que le stockage local stocke les données directement en mémoire. 
 
 * *Appel Réseau :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* *Compilé VS Interpreté :*
+Ce critère signifie le nombre de demandes que le logiciel a présentées. Plus le nombre de demandes est élevé, plus l'impact du logiciel sur l'environnement à travers le matériel et le réseau est important.
+
+* *Compilé VS Interprété :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
+
+Ce critère indique le langage de programmation utilisé Compilé ou interprété. 
+
+À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète.
 
 * *Travaille en arrière paln :* 
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
 
+Ce critère indique si le logiciel contient des composants qui fonctionnent en arrière paln, c'est-à-dire si le logiciel fonctionne lorsqu'il n'est pas utilisé par l'utilisateur. En effet, un tel logiciel consomme de l'énergie, même s'il est dans un cas inactif.
+
 * *Lancer automatiquement au démarrage par défaut :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* *Mode Nuit / Jour :*
+Ce critère signifie que si le logiciel a des dépendances qui fonctionnent directement sur le démarrage par défaut. Car ce logiciel consomme l'énergie et les composants matériels du matériel, bien qu'ils ne soient pas utilisés.
+
+* *Mode Nuit / Jour :* ///reste à faire///
 
 Ce critère a été défini par le questionnaire.
+
+Ce critère signifie si le logiciel a le mode jour/ nuit. 
 
 * *Optimiser l'utilisation du CPU (Usage intensif du CPU) :*
 
-Ce critère a été défini par le questionnaire.
+Ce critère a été défini par le questionnaire sous le thème "Utilisation intensive du CPU". Je l'ai modifié pour mettre tous les critères en cas positif dans ma matrice.
+
+Ce critère signifie le nombre d'accès au CPU. Plus le nombre d'accès est faible, moins la consommation électrique est importante, plus la consommation de l'unité centrale est faible.
 
 * *Optimiser l'algorithmie ( Action humaine ) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
+Ce critère signifie que si les développeurs ont amélioré des algorithmes déjà existants pour améliorer leurs performances.
+
 * *Optimiser les instructions de code ( Action compilateur) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* *Taux I/O RAM VS DD :*
+Ce critère signifie que le compilateur a amélioré l'algorithme sans l'intervention des développeurs.
+
+* *Taux I/O RAM VS Disque Dur :* /// reste à faire///
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
+
+Ce critère signifie le nombre d'accès à la mémoire vive et au disque dur.
 
 * *Optimiser l'utilisation du Mémoire ( Usage intensif du Mémoire) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-* *Binaire qui prend de l'espace :* 
+Ce critère a été défini par le questionnaire sous le thème "Utilisation intensive du Mémoire". Je l'ai modifié pour mettre tous les critères en cas positif dans ma matrice.
+
+Ce critère signifie le nombre d'accès à la mémoire. Plus le nombre d'accès est faible, moins la consommation électrique est importante, plus la consommation de la mémoire est faible.
+
+* *Binaire qui prend de l'espace :* /// reste à faire ///
 
 Ce critère à été identifié dans l'état de l'art (page à ajouter). 
 
 Si la conception ne se concentre pas uniquement sur les besoins, le logiciel sera obèse. Le dernier prendra donc beaucoup de place.
 Comme le montre l'état de l'art, plus un logiciel devient obèse, plus il sera obsolète.
 
-* *Pourcentage d'utilisation d'Open Source :*
+* *Pourcentage d'utilisation d'Open Source :* /// reste à faire ///
 
 Ce critère a été défini par le questionnaire.
+
+Ce critère signifie que si le logiciel est développé en Open-source. Car dans le développement en Open-source, l'utilisateur peut accéder au code pour le modifier, l'améliorer, en ce qui correspond à ses besoins. 
+
+L'Open-source est utile dans le cas où l'éditeur ne prend plus en charge le logiciel. Parce que l'utilisateur peut faire la maintenance en cas de bogues de sécurité. 
 
 * *Bugs :*
 
 Ce critère a été défini par le questionnaire.
 
+Ce critère signifie que si le logiciel comporte beaucoup de bogues. Et s'il nécessite une maintenance régulière. Car dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. C'est ce que signifie le premier critère.
+
 * *La mauvaise lisibilité du code pour mieux l'appréhendre ( Évolution correction) :*
 
 Ce critère a été défini par le questionnaire.
 
+Ce critère signifie que le logiciel est bien développé, et que le code est bien écrit de manière claire pour être lu et compris afin d'en faciliter l'évolution.
 
 .Matrice 
 [caption="Figure 3: "]
