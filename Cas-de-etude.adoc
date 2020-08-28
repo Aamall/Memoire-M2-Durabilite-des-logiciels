@@ -72,6 +72,52 @@ Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au 
 Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
 
+----
+     1	#!/bin/python3
+     2	
+     3	def fibonacci(value):
+     4	    if value == 0:
+     5	        return 0
+     6	    elif value == 1:
+     7	        return 1
+     8	    else:
+     9	        return fibonacci(value - 1) + fibonacci(value - 2)
+    10	
+    11	def fibonacci(withCache, cache, value):
+    12	    # Get the result from cache if present
+    13	    if withCache and value in cache.keys():
+    14	        return cache[value]
+    15	
+    16	    if value == 0:
+    17	        result = 0
+    18	    elif value == 1:
+    19	        result = 1
+    20	    else:
+    21	        result = fibonacci(withCache, cache, value - 1) + fibonacci(withCache, cache, value - 2)
+    22	    
+    23	    # Update the cache
+    24	    if withCache:
+    25	        cache[value] = result 
+    26	
+    27	    return result
+    28	
+    29	if __name__ == '__main__':
+    30	    withCache = False
+    31	    cache = dict()
+    32	        
+    33	    i = 0
+    34	    while True:
+    35	        result = fibonacci(withCache, cache, i)
+    36	        print(f"F({i}) = {result}")
+    37	        i = i + 1
+----
+
+
+
+
+
+
+
 === Cas d'un test de sites web : 
 
 Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est vert ou non sur la base de plusieurs critères.
