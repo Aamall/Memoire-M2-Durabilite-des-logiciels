@@ -221,7 +221,7 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
  * 6 800 TWh d'énergie primaire (EP).
  * 1 400 millions de tonnes de gaz à effet de serre (GES).
  * 7,8 millions de m3 d’eau douce (Eau).
- * 22 millions de tonnes d’antimoine (ADP)."  
+ * 22 millions de tonnes d'antimoine (ADP)."  
 
     "L'étude indique que les émissions de gaz à effet de serre sont directement liées à la combustion de l'énergie primaire fossile que nous produisons à tous les stades du cycle de vie des équipements numériques. Cela signifie que la fabrication des équipements utilisateurs prend en charge la station d'émission principale, suivie de l'alimentation électrique, puis des équipements de réseau et des centres informatiques." 
 
