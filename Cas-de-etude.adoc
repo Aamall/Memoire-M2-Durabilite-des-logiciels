@@ -63,15 +63,9 @@ fibonacci.py
     37	        i = i + 1
 ----
 
-=== Etape d'utilisation
+D'autre part, soit le code Python 3 suivant. Il est également récursif, mais en mode non cache. Dans ce cas, le code refait les calculs déjà effectués. Ce code n'est pas optimisé. Cela conduit à manquer l'optimisation énergétique.
 
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
-
-=== Etape de suppression
-
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
-
-
+fibonacci.py
 ----
      1	#!/bin/python3
      2	
@@ -112,10 +106,13 @@ Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au 
     37	        i = i + 1
 ----
 
+=== Etape d'utilisation
 
+Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
+=== Etape de suppression
 
-
+Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
 
 === Cas d'un test de sites web : 
