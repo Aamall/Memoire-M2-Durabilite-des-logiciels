@@ -28,7 +28,8 @@ Ce critère a été ajouté selon ma propre expérience, suite à la réflexion 
 
 * *Lazy loading :*
 
-Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin.
+Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin.  Cela signifie que le logiciel ne consomme de l'énergie et de l'appel réseau concernant ces dépendances que lorsqu'il est nécessaire, ce qui reflète l'évaluation du Green de ce critère.
+
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
 
 *Lazy loading* :  est un modèle de conception couramment utilisé en programmation informatique pour différer l'initialisation d'un objet jusqu'au moment où il est nécessaire. Il peut contribuer à l'efficacité du fonctionnement du programme s'il est utilisé correctement et convenablement. Il est donc idéal dans les cas d'utilisation où le contenu du réseau est accessible et où les temps d'initialisation doivent être réduits au minimum, comme dans le cas des pages web. L'inverse de lazy loading is eager loading. <<R>>
@@ -80,21 +81,21 @@ Ce critère indique le langage de programmation utilisé Compilé ou interprét�
 
 À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète.
 
-* *Travaille en arrière paln :* 
+* *Travail en arrière paln :* 
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. ?
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
 
-Ce critère indique si le logiciel contient des composants qui fonctionnent en arrière paln, c'est-à-dire si le logiciel fonctionne lorsqu'il n'est pas utilisé par l'utilisateur. En effet, un tel logiciel consomme de l'énergie, même s'il est dans un cas inactif.
+Ce critère indique si le logiciel contient des composants qui fonctionnent en arrière paln, c'est-à-dire si le logiciel fonctionne lorsqu'il n'est pas utilisé par l'utilisateur. En effet, un tel logiciel consomme de l'énergie, même s'il est dans un cas inactif. Ce qui annonce que ce critère rend le logiciel moins Green.
 
 * *Lancer automatiquement au démarrage par défaut :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par le questionnaire avec un pourcentage de 39.1%.
 
-Ce critère signifie que si le logiciel a des dépendances qui fonctionnent directement sur le démarrage par défaut. Car ce logiciel consomme l'énergie et les composants matériels du matériel, bien qu'ils ne soient pas utilisés.
+Ce critère signifie que les dépendances de logiciel fonctionnent directement par défaut au moment du démarrage. Car ce logiciel consomme l'énergie et les composants du matériel, bien qu'ils ne soient pas utilisés à la demende de l'utilisateur.
 
 * *Mode Nuit / Jour :* ///reste à faire///
 
-Ce critère a été défini par le questionnaire.
+Ce critère a été défini par le questionnaire avec un pourcentage de 43.5%.
 
 Ce critère signifie si le logiciel a le mode jour/ nuit. 
 
