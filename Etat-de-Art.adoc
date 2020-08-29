@@ -113,6 +113,7 @@ Ademe a approuvé les définitions suivantes de l'obsolescence : <<H>>
 * *L’obsolescence fonctionnelle* : qui caractérise l'état d'un produit, qui est devenu obsolète, parce qu'il ne réponde plus aux nouveaux usages attendus. Cela est dû aux diverses raisons : techniques (à cause de l'incompatibilité avec des nouveaux équipements par exemple), réglementaires ou économiques. 
 * *L’obsolescence d’évolution* : qui caractérise l'état d'un produit, qui est devenu obsolète, à cause de changement des envies des utilisateurs, qui souhaitent posséder un nouveau produit avec des nouvelles fonctionnalités ou design.
 
+[#notion]
 ==== La notion de la famille de logiciels
 
 Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur). 
@@ -193,6 +194,7 @@ Le serveur est un dispositif, qui est connecté au réseau, met des ressources, 
 [caption="Figure 2: "]
 image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]
 
+[#importance]
 === De l'importance du couplage entre le Software et le Hardware
 
 Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considiration la durabilité des matériels sur lesquels ils sont instanciés. En effet,l’empreinte écologique dépend de la durabilité du matériel. 
