@@ -2,6 +2,7 @@
 
 <<<
 
+[#Illustrations]
 == Illustrations pratiques ///reste à faire///
 
 L'optimisation du code est une composante clé de la conception et du développement. C'est donc une clé pour répondre à la problématique mal conçus et mal développés.
