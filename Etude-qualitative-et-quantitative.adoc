@@ -3,13 +3,13 @@
 
 == 4.Etude qualitative et quantitative
 
-=== Etude qualitative : Interviews ///reste à faire///
+=== 4.1.Etude qualitative : Interviews ///reste à faire///
 
 Le choix des profils à interviewer a été basé sur des personnes qui travaillent dans le département R&D de RTE, et des personnes qui sont des experts GreenIT dans le département DSIT.
 
 Étant dans une phase d'état de l'art, les questions posées étaient aussi ouvertes que possible afin de favoriser la collecte d'informations sans restreindre la personne interrogée. Les personnes interrogées n'ont pas eu accès aux questions au préalable afin d'obtenir les réponses les plus sincères possibles. Les premières questions portaient sur le concept de recherche scientifique et de GreenIT, mais aussi sur la définition de la durabilité des logiciels et les critères qui, selon eux, rendent les logiciels plus durables.
 
-=== Etude quantitative : Présentation du questionnaire
+=== 4.2.Etude quantitative : Présentation du questionnaire
 
 Comme ce travail est chargé de construire la matrice de durabilité, un questionnaire a été réalisé afin de recueillir les critères qui rendent les logiciels plus durables ou non selon les développeurs.
 
