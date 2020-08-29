@@ -162,7 +162,7 @@ Ce critère signifie si le logiciel comporte beaucoup de bugs, et s'il nécessit
 
 Suite à la réflexion au sujet de la "Durabilité des logiciels", ce critère est apparu utile à être join aux critères de durabilité selon ma propre expérience.
 
-Ce critère signifie que le logiciel est bien développé, et que le code est bien écrit de manière claire pour être lu et compris afin d'en faciliter l'évolution.
+Ce critère signifie si le logiciel est bien développé, et si le code est bien écrit de manière claire. Cela facilite l'évolution par les développeurs et l'exécution par le compilateur.
 
 .Matrice 
 [caption="Figure 3: "]
