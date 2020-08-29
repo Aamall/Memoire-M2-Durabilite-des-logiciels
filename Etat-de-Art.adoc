@@ -355,7 +355,7 @@ De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et l
 
 .Cycle de vie du logiciel <<O>> 
 [caption="Figure 4: "]
-image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
+image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel, 550, 550]
 
 ==== 3.2.7.Que savent les programmeurs de la consommation d'énergie des logiciels ?
 
