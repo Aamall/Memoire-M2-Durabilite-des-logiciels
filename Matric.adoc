@@ -132,40 +132,35 @@ Ce critère signifie que si le compilateur a amélioré l'algorithme sans l'inte
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère signifie le nombre d'accès à la mémoire vive et au disque dur. 
+Ce critère indique le nombre d’accès au RAM et au disque dur. Après avoir consulté l'avis des experts, il est apparent que le disque dur consomme plus d'énergie que le RAM, ce qui rend l'optimisation de l'utilisation du disque dur favorable en faveur de la protéction de l'environnement.
 
-* *Optimiser l'utilisation du Mémoire :*
+* *Optimiser l'utilisation de la Mémoire :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini après avoir obtenu un pourcentage de 21.7%  dans le questionnaire. 
 
-Ce critère a été défini par le questionnaire sous le thème "Usage intensive du Mémoire". 
-
-Ce critère signifie le nombre d'accès à la mémoire. Plus le nombre d'accès est faible, moins la consommation électrique est importante, plus la consommation de la mémoire est faible.
+Ce critère insiste sur l'importance de la sobriété des algorithmes et de la manière dont le logiciel a été programmé, afin de préserver l'environnement. Plus les algorithmes et la manière de prgrammation sont simples et efficaces, moins le logiciel a besoin d'accès à la mémoire, et moins il cosomme de l'énergie.
 
 * *Binaire qui prend de l'espace :* /// reste à faire ///
 
-Ce critère à été identifié dans l'état de l'art (page à ajouter). 
+Ce critère a été difinie par l'interview <<Annexe?>>.
 
-Si la conception ne se concentre pas uniquement sur les besoins, le logiciel sera obèse. Le dernier prendra donc beaucoup de place.
-Comme le montre l'état de l'art, plus un logiciel devient obèse, plus il sera obsolète.
+Si la conception ne se concentre pas uniquement sur les besoins, le logiciel sera obèse. Le dernier prendra donc beaucoup d'espace. Ainsi, le logiciel utilisera plus de ressources matérieles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
 
-* *Pourcentage d'utilisation d'Open Source :* /// reste à faire ///
+* *Pourcentage d'utilisation d'Open Source :*
 
-Ce critère a été défini par le questionnaire.
+Ce critère a été ajouté par ma propre expérience et approuvé par le questionnaire avec un pourcentage de 13%.
 
-Ce critère signifie que si le logiciel est développé en Open-source. Car dans le développement en Open-source, l'utilisateur peut accéder au code pour le modifier, l'améliorer, en ce qui correspond à ses besoins. 
-
-L'Open-source est utile dans le cas où l'éditeur ne prend plus en charge le logiciel. Parce que l'utilisateur peut faire la maintenance en cas de bogues de sécurité. 
+Ce critère signifie si le logiciel est développé en Open-source ou pas. Son avantage réside dans la capacité des utilisateurs à utiliser le logiciel sans être dépendants de l'éditeur et ses mises à jours. Ces mises à jours rendent souvent les anciens appareils informatiques obsolètes, ce qui nécessite d'en acheter des nouveaux. La capacité des utilisateurs à utiliser des logiciels d'Open-source, à les améliorer, et à les modifier, leur permet de prolonger la durée du vie de leurs appareils informatiques, et par conséquent de protéger l'environnement.
 
 * *Bugs :*
 
-Ce critère a été défini par le questionnaire.
+Ce critère a été défini par le questionnaire avec un pourcentage de 20%.
 
-Ce critère signifie que si le logiciel comporte beaucoup de bogues. Et s'il nécessite une maintenance régulière. Car dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. C'est ce que signifie le premier critère.
+Ce critère signifie si le logiciel comporte beaucoup de bugs, et s'il nécessite une maintenance régulière. Dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. Cela a été bien clarifié selon le premier critère.
 
 * *La mauvaise lisibilité du code pour mieux l'appréhendre ( Évolution correction) :*
 
-Ce critère a été défini par le questionnaire.
+Suite à la réflexion au sujet de la "Durabilité des logiciels", ce critère est apparu utile à être join aux critères de durabilité selon ma propre expérience.
 
 Ce critère signifie que le logiciel est bien développé, et que le code est bien écrit de manière claire pour être lu et compris afin d'en faciliter l'évolution.
 
