@@ -31,7 +31,7 @@ Imapcts Hardware <<C>>
 
 Le cycle de vie d'un équipement comporte plusieurs étapes qui commencent par la préfabrication et se terminent par la fin de vie de l'équipement <<N>>. Chaque étape a son propre impact sur l'environnement.
 
-La phase de préfabrication a l'impact le plus élevé sur l'environnement, car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<N>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<De l\'importance du couplage entre Software et Hardware>>.
+La phase de préfabrication a l'impact le plus élevé sur l'environnement, car elle nécessite d'extraire des matériaux non recyclables et non renouvelables, suivie de la phase d'utilisation [<<N>>, figure 2 page 125]. Cette dernière a un impact sur l'environnement notamment du fait de la consommation d'énergie induite. Pour aller plus loin, je détaille chaque étape du cycle de vie d'un équipement informatique et les impacts pour chaque phase dans le chapitre <<importance>>.
 
  
 ====  2.1.2._Hypothèse 2_ : *Le Software peut entraîner le "renouvellement" du Hardware*
@@ -48,7 +48,7 @@ Considérant une population moyenne d'un pays développé et son inconscient col
 
 ====  2.1.4._Hypothèse 4_ : *On peut améliorer la durabilité des logiciels*
 
-La durabilité logicielle, sans être définie, peut être lue de prime abord comme un oxymore. En effet, le turn over des technologies, des matériels, etc... est de nos jours tel qu'il peut sembler vain de vouloir rendre durable un logiciel. D'une part la définition faite au sein du chapitre <<Principes et Définitions>> porte plus sur l'impact environnemental que d'un objectif de faire durer un logiciel sur la longueur. D'autre part, le paragraphe illustration <<Illustrations pratiques>> propose de démontrer par la pratique qu'il est possible de mal concevoir un logiciel, de mal le développer, de mal l'utiliser et de laisser une empreinte résiduelle forte à la suppression. Par opposition directe, il est évidemment possible de bien faire  sur chaque étape du cycle de vie. La matrice de durabilité permet d'identifier les critères significatifs pour ce faire.
+La durabilité logicielle, sans être définie, peut être lue de prime abord comme un oxymore. En effet, le turn over des technologies, des matériels, etc... est de nos jours tel qu'il peut sembler vain de vouloir rendre durable un logiciel. D'une part la définition faite au sein du chapitre <<principes>> porte plus sur l'impact environnemental que d'un objectif de faire durer un logiciel sur la longueur. D'autre part, le paragraphe illustration <<Illustrations>> propose de démontrer par la pratique qu'il est possible de mal concevoir un logiciel, de mal le développer, de mal l'utiliser et de laisser une empreinte résiduelle forte à la suppression. Par opposition directe, il est évidemment possible de bien faire  sur chaque étape du cycle de vie. La matrice de durabilité permet d'identifier les critères significatifs pour ce faire.
 
 
 === 2.2.Les phases
