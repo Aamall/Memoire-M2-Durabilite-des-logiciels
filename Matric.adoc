@@ -23,7 +23,7 @@ Pour le type de critères, j'ai choisi trois types :
 * *Boolean* (True, False).
 * *Pourcentage*. 
 
-Pour le poids, j'ai donné à deux catégories (conception et développement) la valeur 100. Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur de 100 pour l'importance du critère sur la base des interviews et du questionnaire.
+Pour le poids, j'ai donné la valeur 100 à deux catégories (conception et développement). Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur sur 100 selon l'importance du critère établi sur la base des interviews et du questionnaire.
 
 Voici les critères retenus pour la matrice : 
 
@@ -35,17 +35,17 @@ Ce critère a été ajouté selon ma propre expérience, suite à la réflexion 
 
 * *Lazy loading :*
 
-Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin.  Cela signifie que le logiciel ne consomme de l'énergie et de l'appel réseau concernant ces dépendances que lorsqu'il est nécessaire, ce qui reflète l'évaluation du Green de ce critère.
+Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin. Cela signifie que le logiciel ne consomme de l'énergie et de l'appel réseau concernant ces dépendances que lorsqu'il est nécessaire, ce qui reflète l'évaluation du Green de ce critère.
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
+Ce critère est parmi ceux ajoutés selon ma propre expérience en ce qui concerne le sujet de *Durabilité des logiciels*.
 
 *Lazy loading* : est un modèle de conception généralement utilisé en programmation informatique. Son objectif est d'initialiser un objet uniquement quand cet objet devient nécessaire. De cette manière, Lazy Loading participe effectivement à l'efficacité du fonctionnement du logiciel s'il est utilisé d'une façon correcte et adéquate. Cela rend Lazy Loading une propriété idéale dans les cas d’utilisation où le contenu du réseau est accessible et où le temps d’initialisation doit être réduit au minimum, comme dans le cas des pages web. L’inverse de Lazy Loading est Eager Loading. <<R>>
 
 * *Programmation Orienté Objet vs Programmation Fonctionnelle :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe?>>. Selon l'avis des experts, la programmation orientée objet est plus légère et rapide que la programmation fonctionnelle. Puisqu'elle ne utilise que les objets nécessaires à réaliser les fonctionnalitiés attendues. Ce qui limite l'utilisation des ressources matériels au minimum. Par conséquent, la programmation orientée objet est plus préservante de l'environnement.
 
-*Programmation Orienté Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce qui précède, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des réels éléments sous forme virtuelle se passe durant cette étape. <<S>>
+*Programmation orientée Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce qui précède, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des réels éléments sous forme virtuelle se passe durant cette étape. <<S>>
 
 *Programmation Fonctionnelle* :  est un modèle de programmation de type déclaratif et se concentre sur la notion des fonctions. Le calcul est considéré comme une évaluation des fonctions mathématiques dans ce modèle, ce qui veut dire que tous les éléments sont définies comme des fonctions et le code s'exécute par des appels successifs des fonctions . <<T>>
 
@@ -56,7 +56,7 @@ Le cloud se définit par la mise en disposition des ressources informatiques uti
 D'après ma propre expérience, ce critère a été ajouté suite à la pose de la question : *Est-ce le cloud est green?*
 
 
-Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Sachant que les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *l'obésité*.
+Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Sachant que les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *obèse*.
 
 Toutefois, il existe sans aucun doute une utilisation éclairée du cloud !
 
@@ -64,7 +64,9 @@ Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre
 
 * *Fichier VS Base De Données :*
 
-Ce critère a été défini par l'interview <<Annexe?>>.
+Ce critère a été défini par l'interview <<Annexe?>>. 
+
+La structure logicielle du fichier est simple est sobre. Par contre, la structure logicielle de la base de donnée est plus compliquée et costaude. Ainsi, et afin de moins utiliser de l'énergie au but de préserver l'environnement, la structure logicielle de la base de donnée doit être simple et organisée de manière facilitante les requêtes.
 
 
 * *Stockage Réseau VS Local :*
@@ -72,7 +74,7 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 Ce critère a été défini par l'interview <<Annexe?>>.
 
 Ce critère désigne quel type de stockage est utilisé. 
-Le stockage en réseau nécessite un réseau pour stocker les donnéesdans les centres de données. Le fonctionnement de ces derniers nécessite d'énergie et du refroidissement constants, ce qui augmente l'impact environnemental négatif. Le stockage local stocke les données directement en mémoire, et donc il n'utilise qu'une part de l'énergie nécessaire au fonctionnement de l'appareil informatique. Ce dernier peut être éteint ce qui diminue l'impact environnemental négatif. 
+Le stockage en réseau nécessite un réseau pour stocker les données dans les centres de données. Le fonctionnement de ces derniers nécessite de l'énergie et du refroidissement constants, ce qui augmente l'impact environnemental négatif. Le stockage local stocke les données directement en mémoire, et donc il n'utilise qu'une part de l'énergie nécessaire au fonctionnement de l'appareil informatique. Ce dernier peut être éteint ce qui diminue l'impact environnemental négatif. 
 
 * *Appel Réseau :*
 
@@ -98,7 +100,7 @@ Ce critère indique si le logiciel contient des composants qui fonctionnent en a
 
 Ce critère a été défini par le questionnaire avec un pourcentage de 39.1%.
 
-Ce critère signifie que les dépendances de logiciel fonctionnent directement par défaut au moment du démarrage. Car ce logiciel consomme l'énergie et les composants du matériel, bien qu'ils ne soient pas utilisés à la demende de l'utilisateur.
+Ce critère signifie que les dépendances de logiciel fonctionnent directement par défaut au moment du démarrage. Donc, ce logiciel consomme de l'énergie et des composants du matériel, bien qu'ils ne soient pas utilisés à la demende de l'utilisateur.
 
 * *Mode Nuit / Jour :* ///reste à faire///
 
@@ -106,35 +108,37 @@ Ce critère a été défini par le questionnaire avec un pourcentage de 43.5%.
 
 Ce critère signifie si le logiciel a le mode jour/ nuit. 
 
-* *Optimiser l'utilisation du CPU (Usage intensif du CPU) :*
+* *Optimiser l'utilisation du CPU :*
 
-Ce critère a été défini par le questionnaire sous le thème "Utilisation intensive du CPU". Je l'ai modifié pour mettre tous les critères en cas positif dans ma matrice.
+Ce critère a été défini après avoir obtenu un pourcentage de 39.1%  dans le questionnaire.
 
-Ce critère signifie le nombre d'accès au CPU. Plus le nombre d'accès est faible, moins la consommation électrique est importante, plus la consommation de l'unité centrale est faible.
+Ce critère indique le nombre d'accès au CPU. Plus le nombre d'accès au CPU est élevé, plus la consommation électrique est importante, et plus la durée de vie du CPU est courte.
 
 * *Optimiser l'algorithmie ( Action humaine ) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère signifie que si les développeurs ont amélioré des algorithmes déjà existants pour améliorer leurs performances.
+Ce critère signifie que si les développeurs ont amélioré des algorithmes déjà existantes, pour améliorer leurs performances en les rendant plus sobres. L'objectif est de diminuer l'utilisation des ressources matérielles et de la consommation d'énergie. Cela rend le logiciel plus Green.
 
 * *Optimiser les instructions de code ( Action compilateur) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère signifie que le compilateur a amélioré l'algorithme sans l'intervention des développeurs.
+Ce critère détermine si le compilateur, par son amélioration de l'algorithme sans besoin de l'intervention des developpeurs, rend la procédure d'exécution du logiciel est plus green.
 
-* *Taux I/O RAM VS Disque Dur :* /// reste à faire///
+Ce critère signifie que si le compilateur a amélioré l'algorithme sans l'intervention des développeurs.
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
-
-Ce critère signifie le nombre d'accès à la mémoire vive et au disque dur.
-
-* *Optimiser l'utilisation du Mémoire ( Usage intensif du Mémoire) :*
+* *Taux I/O RAM VS Disque Dur :* 
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère a été défini par le questionnaire sous le thème "Utilisation intensive du Mémoire". Je l'ai modifié pour mettre tous les critères en cas positif dans ma matrice.
+Ce critère signifie le nombre d'accès à la mémoire vive et au disque dur. 
+
+* *Optimiser l'utilisation du Mémoire :*
+
+Ce critère a été défini par l'interview <<Annexe?>>. 
+
+Ce critère a été défini par le questionnaire sous le thème "Usage intensive du Mémoire". 
 
 Ce critère signifie le nombre d'accès à la mémoire. Plus le nombre d'accès est faible, moins la consommation électrique est importante, plus la consommation de la mémoire est faible.
 
