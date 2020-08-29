@@ -21,7 +21,9 @@ Les résultats ont montré que les développeurs avaient différents niveaux d'e
 
 La différence de niveau d'expérience des développeurs me permet d'observer que les participants n'ont pas la même expérience de la manière dont le logiciel consomme les ressources de la machine et, par conséquent, la conscience de la consommation d'énergie. Ceci est également confirmé par les résultats de la quatrième question : *Tenez-vous compte de la consommation d'énergie lors du développement de logiciels ? Si oui, comment comptabilisez-vous la consommation d'énergie ?*.  
 
-La plupart des réponses à la quatrième question étaient : 
+La plupart des réponses à la quatrième question montraient un intérêt certain pour ce problème, mais une mise en œuvre difficile.
+
+Voici par exemple quatre réponses typique à cette question : 
 
 * "Non, malheureusement"
 * "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie"
@@ -37,10 +39,10 @@ J'ai pu recueillir les critères de la matrice et les trier par importance en po
 
 En ce qui concerne les critères qui rendent les logiciels plus durables, les critères suivants sont de la plus haute importance :
 
-* " Mise à jour de sécurité jointes aux mises à jour fonctionnelles. "
-* " Lazy Loading. "
-* " Développement Open source. "
-* " Mode nuit / jour. "
+* " Mise à jour de sécurité jointes aux mises à jour fonctionnelles. " 52.2%.
+* " Lazy Loading. " 52.2%.
+* " Développement Open source. " 13%.
+* " Mode nuit / jour. " 43.5%.
 
 
 En outre, les développeurs ont proposé des critères tels que :
@@ -51,15 +53,15 @@ En outre, les développeurs ont proposé des critères tels que :
 
 D'autre part, les critères suivants sont de la plus haute importance pour provoquer le renouvellement des terminaux : 
 
-* " Impact fort sur l'utilisation de la batterie. "
-* " Usage intensif du CPU. "
-* " Usage intensif du Mémoire. "
+* " Impact fort sur l'utilisation de la batterie. " 95.7%.
+* " Usage intensif du CPU. " 39.1%.
+* " Usage intensif du Mémoire. " 21.7%.
 
 Avec une représentation variable des critères suivants : 
 
-* " Travaille en arrière plan. "
-* " Lancer automatiquement au démarrage par défaut. "
-* " Binaire qui prend de l’espace. "
+* " Travaille en arrière plan. " 47.8%.
+* " Lancer automatiquement au démarrage par défaut. " 39.1%.
+* " Binaire qui prend de l’espace. " 4.3%.
 
 En outre, les développeurs ont proposé des critères tels que :
 
