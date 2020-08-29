@@ -135,7 +135,7 @@ Ces types de composants interagissent avec différents classes de Matériels.
  
 .Les Matériels impactés
 [caption="Figure 1: "]
-image::Materiels.png[Les Materiels]
+image::Materiels.png[Les Materiels impactés]
 
 Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'utilisateur la possibilité d'interagir avec un lot d'applications pour ses besoins.  Les Systèmes d'Exploitation les plus connus : *Windows*, *Linux* et *Mac-OS*.
 
@@ -190,9 +190,9 @@ Il existe plusieurs types de développement pour mettre au point une application
 
 Le serveur est un dispositif, qui est connecté au réseau, met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
-.Différents types de serveurs et leurs logiciels
+.Les différents types de serveurs et leurs logiciels
 [caption="Figure 2: "]
-image::Les-types-de-serveurs-leurs-logiciels.png[Différents types de serveurs]
+image::Les-types-de-serveurs-leurs-logiciels.png[Les différents types de serveurs et leurs logiciels]
 
 [#importance]
 === De l'importance du couplage entre le Software et le Hardware
@@ -269,28 +269,22 @@ Il faut avoir une bonne conception avant de commencer à développer des logicie
 Parfois, si la conception est mauvaise, cela nous conduit à un mauvais développement. Ce dernier, il suppose d'endommager le matériel plus rapidement qu'il n'est prévu. 
 
 
-==== Cycle de vie d'un matériel informatique 
-
 Comme elle le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "la Technologie de l'Information représente l'ensemble des matériels informatiques, ainsi que des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et celui des logiciels. 
 
-Dans ce paragraphe, je parlere du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+Dans ce paragraphe, je parle du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
+
+==== Cycle de vie d'un matériel informatique 
 
 Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
 D'un point de vue général, le cycle de vie d'un matériel informatique peut être segmenté en cinq grandes phases : <<N>> 
 
-Préfabrication, Fabrication, Distribution et Transportation, Usage, La fin de vie :.
+*Préfabrication*, *Fabrication*, *Distribution et Transportation*, *Usage*, *La fin de vie*.
 
 Le champ d'application de chaque phase sera défini, suivi des impacts environnementaux résultant de cette phase, les catégories adoptées pour classer les impacts environnementaux étant : <<N>>
 
-* Les effets écologiques de l'appauvrissement abiotique.
-* Le réchauffement climatique.
-* L’écotoxicité.
-* La toxicité humaine.
-* L’acidification.
-* L’appauvrissement de la zone stratosphérique.
-* La formation de photo-oxydant.
-* L’eutrophisation.
+*Les effets écologiques de l'appauvrissement abiotique*, *Le réchauffement climatique*, *L’écotoxicité*, *La toxicité humaine*, *L’acidification*,
+*L’appauvrissement de la zone stratosphérique*, *La formation de photo-oxydant*, *L’eutrophisation*.
 
 * Préfabrication : 
 
@@ -321,7 +315,7 @@ De ce point de vue, et en utilisant les données disponibles dans la base de don
 Selon les résultats de cette étude, il s'avère que cette phase est la deuxième plus néfaste, en termes d'impacts environnementaux, après la phase de préfabrication.
 Cela peut se comprendre étant donné que la consommation d'énergie provenant des ressources en combustibles fossiles pendant cette phase contribue de manière significative aux effets écologiques de l'épuisement abiotique, du réchauffement climatique, de l'acidification et de l'eutrophisation. <<N>>
 
-* la fin de vie :
+* La fin de vie :
 
 Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comporte quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
 Les quatre chercheurs ont utilisé la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, ainsi que les données fournies par Korea Computer Recycling Inc, pour déterminer le taux de recyclage d'un appareil informatique en Corée du Sud.
@@ -355,11 +349,7 @@ N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajout
 
 En revenant au cycle de développement du logiciel <<O>>. Ce dernier se compose de plusieurs phases qui sont les suivantes :
 
-* *La gestion du projet*.
-* *La vérification et validation*.
-* *Le développement de la documentation*.
-* *La gestion de la configuration*.
-* *La formation*. 
+*La gestion du projet*, *La vérification et validation*, *Le développement de la documentation*, *La gestion de la configuration*, *La formation*. 
 
 De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et le cycle de développement des logiciels, ce qui correspond au but de cette thèse (pour aller plus en détail <<O>>). 
 
@@ -369,12 +359,12 @@ image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
 
 ==== Que savent les programmeurs de la consommation d'énergie des logiciels ?
 
-Les chercheurs ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment de l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
+PANG et al. ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment de l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
 
 L'enquête menée par ces chercheurs était anonyme en ligne et comportait 13 questions en quatre étapes.
 Les résultats mettent en évidence le besoin de formation sur la consommation d'énergie et l'efficacité énergétique des logiciels, et montrent que le sujet de l'efficacité énergétique est rarement abordé par les programmeurs, et qu'il y a peu de demande de la part des utilisateurs, qui s'intéressent à la fois à la vitesse de développement et aux performances raisonnables des logiciels, ce qui signifie que le manque d'attention à la consommation d'énergie des logiciels est une question de priorité. Cela signifie également que les programmeurs ne s'intéresseront probablement pas à l'efficacité énergétique des logiciels si les clients ne le demandent pas. Il est donc nécessaire d'éduquer le public de manière appropriée afin que les clients et les programmeurs soient conscients de la consommation énergétique des logiciels. Les résultats de l'enquête montrent également que les programmeurs ne savent pas comment mesurer avec précision la consommation énergétique de leurs logiciels, puisque les méthodes de mesure (par compteur électrique, batterie, alimentation électrique, mesure des ressources, outils logiciels et temps CPU), mesurent la consommation énergétique globale du matériel, et non la consommation énergétique des logiciels. <<P>>
 
-Les chercheurs indiquent que pour analyser correctement les raisons sous-jacentes de la consommation d'énergie des logiciels, les programmeurs doivent comprendre les interactions entre les composants de haut niveau et de bas niveau. En outre, et sur la base des résultats de l'enquête montrant que les opinions des personnes interrogées varient largement sur la meilleure façon de réduire la consommation d'énergie des logiciels, les chercheurs indiquent que les cours universitaires n'enseignent généralement pas le lien entre de meilleurs algorithmes et la consommation d'énergie. <<P>>
+Les auteurs de l'enquête indiquent que pour analyser correctement les raisons sous-jacentes de la consommation d'énergie des logiciels, les programmeurs doivent comprendre les interactions entre les composants de haut niveau et de bas niveau. En outre, et sur la base des résultats de l'enquête montrant que les opinions des personnes interrogées varient largement sur la meilleure façon de réduire la consommation d'énergie des logiciels, les chercheurs indiquent que les cours universitaires n'enseignent généralement pas le lien entre de meilleurs algorithmes et la consommation d'énergie. <<P>>
 
 Selon le rapport publié par les chercheurs, leurs conclusions sont très similaires à celles de Gustavo Pinto et de ses collègues, qui ont extrait des données de StackOverflow pour découvrir sept raisons de la consommation d'énergie inutile des logiciels : <<P>>
 
