@@ -68,7 +68,7 @@ En outre, les développeurs ont proposé des critères tels que :
 * " Progrès des devices, et obsolescence programmée : Une application qui a été developpée il y 3 ans, et n'a pas été modifiée depuis, ne peut pas être installée sur les iPhone 11. Presque même problème sur android. "
 * " Publicité ." 
 
-Je détaillerai ces critères de la matrice séparément dans le chapitre <<Les clés de la durabilité de logiciels>>.
+Je détaillerai ces critères de la matrice séparément dans le chapitre <<Matrice>>.
 
 Les deux dernières questions étaient des questions ouvertes aux développeurs pour voir s'ils connaissent des moyens d'évaluer la durabilité, une conception technique qui favorise la durabilité des logiciels.  Ces réponses m'ont permis de constater que les développeurs ne connaissent pas les bonnes techniques de conception et de développement, ni les façons dont les logiciels endommagent le matériel. En outre, certaines entreprises ne tiennent pas compte de la conception et de la durabilité dans leurs stratégies.
 
