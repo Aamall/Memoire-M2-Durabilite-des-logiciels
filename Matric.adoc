@@ -39,21 +39,21 @@ Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
 
-*Lazy loading* :  est un modèle de conception couramment utilisé en programmation informatique pour différer l'initialisation d'un objet jusqu'au moment où il est nécessaire. Il peut contribuer à l'efficacité du fonctionnement du programme s'il est utilisé correctement et convenablement. Il est donc idéal dans les cas d'utilisation où le contenu du réseau est accessible et où les temps d'initialisation doivent être réduits au minimum, comme dans le cas des pages web. L'inverse de lazy loading is eager loading. <<R>>
+*Lazy loading* : est un modèle de conception généralement utilisé en programmation informatique. Son objectif est d'initialiser un objet uniquement quand cet objet devient nécessaire. De cette manière, Lazy Loading participe effectivement à l'efficacité du fonctionnement du logiciel s'il est utilisé d'une façon correcte et adéquate. Cela rend Lazy Loading une propriété idéale dans les cas d’utilisation où le contenu du réseau est accessible et où le temps d’initialisation doit être réduit au minimum, comme dans le cas des pages web. L’inverse de Lazy Loading est Eager Loading. <<R>>
 
 * *Programmation Objet vs Programmation Fonctionnelle :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-*Programmation Objet*: est un paradigme de programmation informatique. Il consiste en la définition et l'interaction de briques logicielles appelées objets ; un objet représente un concept, une idée ou toute entité du monde physique, comme une voiture, une personne ou encore une page d'un livre. Il possède une structure interne et un comportement, et il sait interagir avec ses pairs. Il s'agit donc de représenter ces objets et leurs relations ; l'interaction entre les objets via leurs relations permet de concevoir et réaliser les fonctionnalités attendues, de mieux résoudre le ou les problèmes. Dès lors, l'étape de modélisation revêt une importance majeure et nécessaire pour la POO. C'est elle qui permet de transcrire les éléments du réel sous forme virtuelle. <<S>>
+*Programmation Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce qui précède, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des réels éléments sous forme virtuelle se passe durant cette étape. <<S>>
 
-*Programmation Fonctionnelle* :  est un paradigme de programmation de type déclaratif qui considère le calcul en tant qu'évaluation de fonctions mathématiques. <<T>>
+*Programmation Fonctionnelle* :  est un modèle de programmation de type déclaratif et se concentre sur la notion des fonctions. Le calcul est considéré comme une évaluation des fonctions mathématiques dans ce modèle, ce qui veut dire que tous les éléments sont définies comme des fonctions et le code s'exécute par des appels successifs des fonctions . <<T>>
 
 * *Cloud Synchronisation :* 
 
 Le cloud se définit par la mise en disposition des ressources informatiques utilisables depuis toutes les types terminales via l'internet. 
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j’ai menée à la question *Est-ce que le cloud est green ?*
+D'après ma propre expérience, ce critère a été ajouté suite à la pose de la question : *Est-ce le cloud est green?*
 
 
 Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Sachant que les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *l'obésité*.
@@ -71,22 +71,22 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 Ce critère a été défini par l'interview <<Annexe?>>.
 
-Ce critère signifie quel type de stockage est utilisé. 
-Le stockage en réseau nécessite un réseau pour stocker les données, alors que le stockage local stocke les données directement en mémoire. 
+Ce critère désigne quel type de stockage est utilisé. 
+Le stockage en réseau nécessite un réseau pour stocker les donnéesdans les centres de données. Le fonctionnement de ces derniers nécessite d'énergie et du refroidissement constants, ce qui augmente l'impact environnemental négatif. Le stockage local stocke les données directement en mémoire, et donc il n'utilise qu'une part de l'énergie nécessaire au fonctionnement de l'appareil informatique. Ce dernier peut être éteint ce qui diminue l'impact environnemental négatif. 
 
 * *Appel Réseau :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère signifie le nombre de demandes que le logiciel a présentées. Plus le nombre de demandes est élevé, plus l'impact du logiciel sur l'environnement à travers le matériel et le réseau est important.
+Ce critère indique le nombre de demandes que le logiciel a présenté. Plus le nombre de demandes est élevé, plus l'impact du logiciel sur l'environnement à travers le matériel et le réseau est important.
 
 * *Compilé VS Interprété :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère indique le langage de programmation utilisé Compilé ou interprété. 
+Ce critère indique le type utilisé du langage de programmation : Compilé ou Interprété.
 
-À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète.
+À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète, ce qui complique la procédure et consomme plus d'énergie. De ce qui précède, le langage compilé est plus favorable en faveur des exigences environnementales.
 
 * *Travail en arrière paln :* 
 
