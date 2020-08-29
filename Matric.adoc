@@ -17,7 +17,13 @@ Ces notes :
 Pour réaliser cette matrice, je l'ai divisée en deux parties.  La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
 La deuxième, à droite, à remplir par *le chef de projet*.
 
+Pour le type de critères, j'ai choisi trois types : 
 
+* *Trilean (True, False, Null).
+* *Boolean (True, False).
+* *Pourcentage*. 
+
+Pour le poids, j'ai donné à deux catégories (conception et développement) la valeur 100. Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur de 100 pour l'importance du critère sur la base des interviews et du questionnaire.
 
 Voici les critères retenus pour la matrice : 
 
