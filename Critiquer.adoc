@@ -4,15 +4,12 @@
 
 Ce paragraphe présentera la critique de mon travail.
 
-J'ai choisi le thème "Green-IT" comme sujet de recherche. J'ai fait les recherches pour trouver une problèmatique pour ce mémoire. Au début, j'ai posé le problème
-suivant : * Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement ?* 
+1. J'ai choisi le thème "Green-IT" comme sujet de recherche. J'ai fait les recherches pour trouver une problèmatique pour ce mémoire. Au début, j'ai posé le problème suivant : * Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement ?* 
 
-Mais ensuite, j'ai trouvé mieux de changer la formule de la problèmatique pour *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des
-terminaux ?*
+Mais ensuite, j'ai trouvé mieux de changer la formule de la problèmatique pour *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?*
 
-D'après mes recherches et les interviews que j'ai réalisés, le logiciel ne vieillit pas le matériel et le rend inutile. Au contraire, le logiciel provoque un
-renouvellement prématuré du terminal, malgré son bon état et sa capacité à fonctionner pendant plusieurs années.
+2. D'après mes recherches et les interviews que j'ai réalisés, le logiciel ne vieillit pas le matériel et le rend inutile. Au contraire, le logiciel provoque un renouvellement prématuré du terminal, malgré son bon état et sa capacité à fonctionner pendant plusieurs années.
 
-Lorsque j'ai publié le questionnaire, j'ai fixé certains critères qui rendent le logiciel plus durable ou non. Parmi ces critères, il y avait les deux critères
-suivants : *Usage intensif du CPU* et *Usage intensif du Mémoire*. Mais lorsque j'ai rassemblé les critères pour les mettre dans ma matrice, j'ai décidé de mettre
-tous les critères dans un cas positif.
+Lorsque j'ai publié le questionnaire, j'ai fixé certains critères qui rendent le logiciel plus durable ou non. Parmi ces critères, il y avait les deux critères suivants : *Usage intensif du CPU* et *Usage intensif du Mémoire*. Mais lorsque j'ai rassemblé les critères pour les mettre dans ma matrice, j'ai décidé de mettre tous les critères dans un cas positif.
+
+3. En ce qui concerne ma matrice, j'ai rassemblé les critères de manière théorique. Mais il est préférable de faire un test particulier pour chaque critère séparément. De cette façon, nous pouvons déterminer l'importance de chaque critère qui rend le logiciel plus durable ou non. 
