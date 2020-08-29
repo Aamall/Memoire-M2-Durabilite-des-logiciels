@@ -4,9 +4,9 @@
 == 3.Etat de l’art
 
 [#principes]
-=== Principes et Définitions 
+=== 3.1.Principes et Définitions 
 
-==== La notion de la Durabilité 
+==== 3.1.1.La notion de la Durabilité 
 
 L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
 
@@ -44,7 +44,7 @@ A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 ** Innovations en matière de technologies environnementales dans les produits et services destinés aux utilisateurs finaux.
 ** Surveillance de la demande en ressources et en émissions des produits et services (analyses du cycle de vie)
 
-==== La notion de Green IT
+==== 3.1.2.La notion de Green IT
 
 Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueuses de l'environnement.
 
@@ -86,7 +86,7 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 * Atténuation des risques liés à l'environnement.
 * Utilisation de sources d'énergie renouvelables et éco-labellisation des produits informatiques.
 
-==== La notion d'Obsolescence Programmée
+==== 3.1.3.La notion d'Obsolescence Programmée
 
 L'article "`Art. L. 213-4-1.-I.`" <<F>> définit l'obsolescence programmée comme :
 
@@ -114,7 +114,7 @@ Ademe a approuvé les définitions suivantes de l'obsolescence : <<H>>
 * *L’obsolescence d’évolution* : qui caractérise l'état d'un produit, qui est devenu obsolète, à cause de changement des envies des utilisateurs, qui souhaitent posséder un nouveau produit avec des nouvelles fonctionnalités ou design.
 
 [#notion]
-==== La notion de la famille de logiciels
+==== 3.1.4.La notion de la famille de logiciels
 
 Ce chapitre illustre les différents types de logiciels liés aux types de matériel utilisés (ordinateur, SmartPhone, serveur). 
 
@@ -141,7 +141,7 @@ Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'ut
 
 Sur ces systèmes d'exploitation, des logiciels peuvent être installés. Ces logiciels sont variés en fonction de leur utilisation, tels que : *Logiciels d'Application*, *Logiciels d'Exploitation* et *Logiciels de programmation*. Ces logiciels peuvent être soit *Payants*, soit *Gratuits*, soit *Open-Source*.
 
-==== La famille de logiciels sur un SmartPhone
+===== 3.1.4.1.La famille de logiciels sur un SmartPhone
 
 Le système d'exploitation mobile a été développé et conçu afin d'être opérable sur tout dispositif mobile tels que les smartphones et les tablettes. Les systèmes Android, iOS et Windows Phone représentent les systèmes d'exploitation mobiles les plus dominant du marché. <<K>>
 
@@ -186,7 +186,7 @@ Il existe plusieurs types de développement pour mettre au point une application
 * Le *Développement Web* : les applications sont conçues pour fonctionner dans un navigateur web et sont généralement adaptées pour qu’elles puissent s’exécuter dans un navigateur mobile. Elles n'ont besoin que d'un navigateur mobile pour les utiliser.
 * Le *Développement Multiplatforme* : l'objectif est de développer une application qui fonctionne sur tous les systèmes d'exploitation.
 
-==== La famille de logiciels sur un serveur 
+===== 3.1.4.2.La famille de logiciels sur un serveur 
 
 Le serveur est un dispositif, qui est connecté au réseau, met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
@@ -195,11 +195,11 @@ Le serveur est un dispositif, qui est connecté au réseau, met des ressources, 
 image::Les-types-de-serveurs-leurs-logiciels.png[Les différents types de serveurs et leurs logiciels]
 
 [#importance]
-=== De l'importance du couplage entre le Software et le Hardware
+=== 3.2.De l'importance du couplage entre le Software et le Hardware
 
 Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considiration la durabilité des matériels sur lesquels ils sont instanciés. En effet,l’empreinte écologique dépend de la durabilité du matériel. 
 
-==== L'empreinte environnementale de matériels informatiques
+==== 3.2.1.L'empreinte environnementale de matériels informatiques
 
 Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
 
@@ -237,7 +237,7 @@ Ces résultats nous encouragent donc à réduire autant que possible ces impacts
 
 En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<M>> ) .
 
-==== Démonstration de l'importance du couplage entre Software et Hardware
+==== 3.2.2.Démonstration de l'importance du couplage entre Software et Hardware
 
 Comme l'explique Anne-Cécile Orgerie dans l'article "L'informatique émet plus de gaz à effet de serre que l'aviation <<B>>", les TIC et tous les équipements informatiques représentent entre 2 à 10 % des émissions de dioxyde de carbone selon les études, avec un accord autour de 4-5 %. Par contre, l’aviation représente environ 2 % des émissions de dioxyde de carbone.
 
@@ -245,7 +245,7 @@ Des études montrent que les deux phases de la fabrication et de recyclage sont 
 
 La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel durable. En même temps, il y a aussi des conditions préalables à la durabilité du matériel. Celles-ci sont présentées ci-dessous.
 
-==== Conditions préalables pour des matériels durables 
+==== 3.2.3.Conditions préalables pour des matériels durables 
 
 Une bonne utilisation de l’appareil informatique permettra de le faire fonctionner le plus longtemps possible. Cette idée a été bien démontrée dans le guide de l’organisation Négawatt (mis en ligne en novembre 2018)<<Q>>, en présentant aussi des simples que des bonnes pratiques. Ce guide met l’accent aussi sur l’importance de prendre conscience du bilan carbone de la fabrication de cet appareil par rapport au bilan carbone de son utilisation, ce qui évoque l’intérêt de faire durer son appareil informatique.
 
@@ -262,7 +262,7 @@ Les bonnes pratiques, pouvant aussi être appliquées à l’utilisation privée
 * En cas de chauffe démesurément, il faut enlever la batterie de l’ordinateur portable et la ranger dans un endroit sec et frais. Il faut aussi veiller à lui imposer mensuellement un cycle complet décharge/recharge.
 * Privilégier le reconditionnement des appareils informatiques en fin de vie.
 
-==== Le logiciel peut aussi endommager le matériel  /// reste à faire ///
+==== 3.2.4.Le logiciel peut aussi endommager le matériel  /// reste à faire ///
 
 Il faut avoir une bonne conception avant de commencer à développer des logiciels ! 
 
@@ -273,7 +273,7 @@ Comme elle le souligne, la définition de la *Technologie de l'Information* dans
 
 Dans ce paragraphe, je parle du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-==== Cycle de vie d'un matériel informatique 
+==== 3.2.5.Cycle de vie d'un matériel informatique 
 
 Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
@@ -326,7 +326,7 @@ Cette phase s'est avérée être un facteur majeur de la toxicité pour l'homme.
 Le recyclage du matériel informatique a une influence à la fois positive et négative sur les catégories d'impact environnemental. L'huile légère utilisée dans le processus de collecte des déchets du matériel informatique, ainsi que la consommation d'acide nitrique, d'acide sulfurique, d'acide chlorhydrique et d'agent désoxydant dans le processus de raffinage sont des raisons importantes de la toxicité et de l'écotoxicité pour l'homme. Néanmoins, le recyclage du matériel informatique réduit la charge des impacts environnementaux du cycle de vie, en particulier les effets écologiques de l'épuisement abiotique. Les émissions de CO2 et l'énergie récupérée lors du processus d'incinération n'ont pas été prises en compte dans cette étude. L'inclusion de ces facteurs peut également affecter les résultats de l'impact environnemental potentiel du recyclage des équipements informatiques. <<N>>
 
 
-==== Cycle de vie d'un logiciel
+==== 3.2.6.Cycle de vie d'un logiciel
 
 Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme "une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique." <<O>>. L'ISO a précisé, afin d'accentuer la nature intellectuelle du logiciel, que ce dernier existe à part des supports par lesquels il est transporté, ce qu'il requière la distinction entre le logiciel et son support. <<O>>
 
@@ -357,7 +357,7 @@ De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et l
 [caption="Figure 4: "]
 image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel]
 
-==== Que savent les programmeurs de la consommation d'énergie des logiciels ?
+==== 3.2.7.Que savent les programmeurs de la consommation d'énergie des logiciels ?
 
 PANG et al. ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment de l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
 
