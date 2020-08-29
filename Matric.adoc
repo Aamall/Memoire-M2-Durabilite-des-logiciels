@@ -2,7 +2,7 @@
 <<<
 
 [#Matrice]
-== 5.Les clés de la durabilité de logiciels (Matrice) /// rest à faire, vérifier le numéro d'annexe///
+== 6.Les clés de la durabilité de logiciels (Matrice) /// rest à faire, vérifier le numéro d'annexe///
 
 Après avoir recueilli les critères, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
 
