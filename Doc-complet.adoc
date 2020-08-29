@@ -1,5 +1,6 @@
 :toc-title: Plan
 
+include::Remerciement.adoc[leveloffset=+1]
 include::Introduction.adoc[leveloffset=+1]
 include::Methodes-de-recherche.adoc[leveloffset=+1]
 include::Etat-art.adoc[leveloffset=+1]
