@@ -60,7 +60,88 @@ Nous essayons d'agir sur tous les leviers nous permettant d'avoir un système d'
 
 On m'a missionné depuis 3-4 ans. On a rejoint le club Green IT pour augmenter mes compétences. On a identifié où été nos gisements, où est-ce-qu'on pouvait être plus respectueux de l'environnement, on a établit un plan d'action. On a mit des actions sur place, etc... On a dans cette logique là.
 
+Si je prends un exemple, nous faisions du Green-IT avant que je sois nommé. Y a beaucoup de bonne sens. Par exemple, nous avons des data center où toutes les applications fonctionnent dans un environnement virtualisé, c’était déjà le cas avant que j’arrive. RTE c’était pas construit, et RTE n’a pas appliqué des principes de bonne sens avant qu’on mentionne, donc on parle du Green-IT, Donc, RTE faisait du Green-IT sans le savoir.
 
+
+Par contre, il y a des sujets où nous étions pas très bons ou pas très vertueux, je prends un exemple, l’équipement bureautique qu’on confie à nos salariés, à chaque fois qu’on changeait d’activités. Je prend mon cas, si on me dit pendant 3 mois Marc, tu pars travailler sur Lyon pour excercer tel emploi n’importe, ce qui se passait, ici je rendais mon PC et là-bas on m'en donnait un autre. Celui qui était là, je parle avant, il était loué, il peut rester six mois en location, mais après moi, il restait au stock. Parce que ce n’est pas la peine pour l’effectuer pour six mois pour le prendre et pour le mettre. Donc, ce n’est pas vertueux en terme de stock. Et donc, on se retrouvait avec un parc informatique qui était beaucoup plus important que le nombre de personnes à qui nous avions donné un équipement. Ça il y avais très une bonne raison d’avoir fait ça à l’époque mais on l’a requestionné et maintenant, si je dois partir à Lyon, je prends mon PC avec moi, c’est plus logique, ce que l’on ne faisait pas. Par ailleurs, ce que l’on faisait, ce qu’on louait pour une duré de 4 ans et même s'il donné satisfaction on changeait. Maintenant on l’achète pour une duré minimal de 4 ans et s’il donné satisfaction on le remplacera pas, on fera la durée la plus long possible. Avant, quand on louait nous étions obligés, contractuellement de le rendre au loueur, ce que le loueur faisait derrière c’était plus notre responsabilité, et on savait pas ce qu’il en faisait. Maintenant on l’achète et quand il ne satisfait pas aux besoins, on le confiera à une entreprise qui sera chargée de le reconditionner et de le proposer à des 
+PME, des particuliers pour prolonger sa vie. Ce que on ne faisait pas, par exemple, pour les Smartphones, c’est quand on veut les renouveler, on les a récupéré pas pour les mettre justement dans un circuit où ils allaient être reconditionnés, etc... remis sur marché. Généralement les salariés les récupéraient, je pense que de nombreux cas ils se trouvaient dans un placard.
+
+Donc nous essayons de corriger nos pratiques pour être plus dans une logique Green-IT.
+
+Sur les imprimantes multi-fonctions, il y avait quelques écueils qui faisaient que l'on avait des imprimantes individuelles. Les écueils étaient, quand je devais imprimer une commande dans un outil, ça devait faite sur des feuilles pré-imprimés (Logo RTE, etc...).
+
+Nous avons numérisé tout ce qui est pro-format pour que l'on puisse imprimer les commandes sur une imprimante multi-fonction à partir d'une page blanche.
+On a installé également des déclenchements de pression par page. Cela nous a permit d'économiser 30% de nos impressions.
+
+Le contrat d'intéressement des salariés :
+On a un accord d'entreprise qui fait que les salariés sont intéressés aux résultats au sens large de l'entreprise.
+
+Il y a des critères environnementaux (ex: la réduction du volume des impressions). Si ce critère est rempli, il contribue au montant financier que chaque salarié reçoit.
+
+*Pour le Green-IT, il existe un niveau technique et politique ?*
+
+On travaille sur tous les sujets. Quand on est arrivé sur ce site là de windows, nous avons eu l’opportunité de revisiter nos politiques bureautique et téléphonique. Parce que avant d'arriver sur Windows, il n'y a quasiment pas de bureaux fermés. Il fallait qu'on favorise la mobilité du personnel au sein du bâtiment. Avant les PC faisaient 2-3Kg. On s'est penché sur la politique bureautique. On a fait le choix d'avoir des PC plus légers… Mais on a profité aussi pour gommer des "points noirs" dans notre politique:
+ex: Quand un salarié bouge dans l'entreprise, il rend son PC on lui en donne un autre et notre stock gonfle.
+
+On saisi des opportunités et on travaille après sur le fond de l'architecture de notre informatique, etc...
+
+Un autre exemple, quand on est arrivé sur Windows, on occupait déjà des tours sur la Défense et en terme de téléphonie mobile, nous avions dû mettre des équipements pour les tours, pour avoir une bonne couverture 3G, 4G, etc.
+
+Quand on est arrivé ici, on a trouvé une solution: 
+on a la couverture wifi (pour mobilité, etc...)i et on a activé des fonctionnalités nouvelles qui nous permet les technologies qu’on a utilisé pour passer la voie sur le wifi.
+Donc on a déployé zéro équipements supplémentaires.
+
+*Pouvez-vous expliquer «l’Obsolescence programmée» ?*
+
+L’Obsolescence programmée est illégale. On utilise ce terme pour du matériel, du logiciel. Par exemple, quand vous achetez une imprimante, le fournisseur il peut introduire une mission qui est par exemple, après 10000 impressions, l'imprimante n’imprime plus. Elle dit «je peut plus faire» Ça c’est l’Obsolescence programmée. C’est mit dans le micro-code de l’imprimante.
+
+Il y a une association Hope Halte à l’Obsolescence Programmée qui dépose des plaintes vers les fabricants d'imprimantes, parce qu’ils avaient programmé la fin de vie d’équipement.
+
+Après, il a d'autres formes d’Obsolescence Programmée, c’est Appel qui souvent cité là dessous, c’est les mises à jour qu’Appel aime impose à ses aux utilisateurs, parce qu’ils vont dire qu’il y a des mises à jour sécurité ça pèse 1%, et puis 99% c’est des nouvelles fonctionnalités dont je n’ai pas forcement besoin, mais qui vont venir faire un sort que ma batterie va s’épuiser beaucoup plus vite, que je peut plus charger d’applications. Ça c’est aussi une forme d’ Obsolescence Programmée. Ça malheureusement c’était légal, donc il y a des associations justement qui sont faites pour recueillir des plaintes des utilisateurs et puis déposer et déposer des plaintes auprès des fabricants pour faire un sort que ce soit des pratiques qui n’existent plus.
+
+Ça peut être aussi Appel ne fournit plus de pièces détachées, Appel introduit des freins à la réparabilité, ou Appel vent de pièces détachées qui coutent tellement chères, que l'utilisateur préfère changer d'équipements.
+
+*Pouvez-vous expliquer le «Logiciel Durable» ?*
+
+L'éco-conception de logiciels, en règle générale c'est faire en sorte que le logiciel ne pousse pas à devoir remplacer du matériel. par exemple, nous avons nos data center, nous les avons dimensionnés pour tant de CPU, du machine virtuel, etc... J'ai besoin d'une application qui fait la mission. Si je ne fais pas attention à la façon dont je développe, il faut que je rajoute de l'unité centrale, de la mémoire, de l'espace de stockage pour accueillir ces nouvelles applications. Si je les développe pour qu'elles consomment le moins de ressources possibles, en jouant sur le besoin, l'architecture informatique, le code, je vais faire durer plus longtemps et pas rajouter d'équipements en data center.
+
+*Les critères que je peux étudier, examiner pour faire un logiciel durable ? Si un logiciel est bien éco-conçu?*
+
+On peut éco-concevoir un logiciel sans se dire à priori : "je veux qu'il dure vingt ans".
+Moi, dans ma vision des choses, j'éco-conçois un logiciel pour qu'il ne nécessite pas des ressources informatiques supplémentaires que l'on doit rajouter. On a au sein du RTE, 430 applications informatiques à disposition des utilisateurs. Moi, de part mon activité, je peux en utiliser 20 mais pas 430. Ces 430 sont positionnées dans nos data center. Chaque année, il y a environ 170 projets en cours qui vont se traduire par des applications informatiques qui vont arriver. 
+
+Notre charge est de faire en sorte que tout ce qui arrive puisse fonctionner sans que l'on est à déployer beaucoup beaucoup du matériel supplémentaire. Tout est conçu pour éviter que l'on est ai à rajouter du matériel.
+
+Dans notre façon de procéder, on a une bonne vision très très haute pour chaque projet, on se pose des questions: "où sont mes utilisateurs ? Combien d’utilisateurs ? Combien des données en entrer j’ai besoin ? Qu’est-ce que je veux produire en sortir ? Les flux, qu’est-ce que je nécessite à manifester comme échange avec l’externe mais aussi en internes entre mes référentiels de données, entre les application périphériques… Ceci, nous le définissons tôt, dans les dossiers d'architecture. C'est organisés, ils font partis d'une étape de validation. 
+
+Nous avons déjà l'organisation, les infrastructures informatiques qui sont conçues pour pouvoir éviter de rajouter du matériel à chaque arriver de nouvelle application.
+
+Fin 2015, nous avons fourni l'inventaire des équipements. Là, j'ai la consommation par salarié en eau.
+C'est l'impact sur tout le cycle de vie: fabrication, utilisation, recyclage...
+En énergie, 71 ampoules de 25 Watt allumées tous les jours.
+Ça c'est bien car cela concrétise un peu l'impact. En général, les gens ne s'imaginaient pas que se soit si important.
+
+Éco-concevoir à RTE, c'est allonger la durée d'utilisation, économiser l'énergie, réutiliser plutôt que jeter.
+
+A l'échelle de RTE, le plus gros de nos impact sur l'environnement, il vient des pertes sur le réseau électrique. Ces pertes (2-3%) on les compensent.
+Un producteur dit j'ai vendu 1 méga Watt, RTE merci de transporter de Mega Watt. On va lui restituer 997kw.
+On achète de l'énergie pour compenser les pertes. C'est le plus gros poste de dépenses et d'impact environnemental.
+L'informatique doit peser 1% de toutes les activités de RTE mais ce n'est pas pour ça qu'il ne faut pas s'en occuper.
+
+En informatique, il y a des labels qui se sont mis en place il y a plusieurs années (ex: IPIT).
+Cela est un gage que le matériel est éco-conçu.
+
+
+Pour les logiciels: trouver le meilleur à atteindre pour 
+C'est pas la peine que je dév une formule 1 si j'ai besoin d'une 2 chevaux.
+On cherche à réduire la puissance informatique nécessaire au fonctionnement.
+
+Ici vous avez des outils qui vous permettent de mesurer si le code a bien été éco-conçu.
+Il y a plusieurs leviers pour qu'un logiciel soit éco-conçu :
+- Le développement 15%.
+- Le besoin.
+- La conception technique.
+- L'hébergement.
 
 
 <<<
