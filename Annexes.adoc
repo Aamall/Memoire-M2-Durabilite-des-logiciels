@@ -249,6 +249,17 @@ N.B. Greenwashing : aussi nommé écoblanchiment ou verdissage, est un procédé
 <<<
 === Annexe 3 *Retranscription interview M. Marc VILLEMON*
 
+*Depuis combien de temps travaillez-vous dans l'informatique, et quelles sont vos expériences ?*
+
+Je travaille dans la direction informatique de RTE depuis sa création. Avant ça, je travaillais déjà dans l'informatique.
+Donc depuis 25 ans.
+
+*Depuis combien de temps connaissez-vous la notion de Green IT ?*
+
+C'est beaucoup plus récent, depuis 6 ans. Avant, de connaître la notion de Green-IT, je connaissais déjà la notion de développement durable, puisque RTE était déjà dans une logique de certification par rapport à la norme d’ISO 14001 management de l'environnement et j'étais le correspondant environnement au sein de la direction informatique. Donc, on ne parle pas encore du Green-IT. C’est-à-dire que l’on fait des choses qui ne accrochent pas encore au Green-IT, mais  qui étaient déjà du Green-IT.  J'en ai pris plus conscience, il y a 6 ans de ça. Plus qu’on a choisi pour aller un peu plus loin, pour être plus pertinent dans les actions menées d’intérêt le club Green-IT où cela j’ai découvert le terme du Green-IT.
+
+*Quelles sont vos expériences dans le green-IT, et est-ce que RTE intégre-t-elle la notion du Green-IT dans sa stratégie de développement de logiciels ? Si oui, comment l'applique-t-elle ? 
+
 
 
 
