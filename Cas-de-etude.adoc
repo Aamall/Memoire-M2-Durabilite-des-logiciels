@@ -118,7 +118,7 @@ Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au 
 
 === 5.2.Cas d'un test de sites web : 
 
-Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est vert ou non sur la base de plusieurs critères.
+Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est Green ou non sur la base de plusieurs critères.
 
 À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test de quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
 
