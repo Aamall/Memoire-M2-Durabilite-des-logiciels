@@ -279,8 +279,18 @@ Durabilité n'est pas une notion assez courante. J'entends plutôt parler d'éco
 
 C'est l'équipement utilisateur. Ce qu’il est entre les main d’un utilisateur.
 
+*Avez-vous participé à l'application du concepte de durabilité des logiciels ou avez-vous appliqué la notion du Green-IT dans votre travail ? Si oui, quel est le contenu du projet ?*
 
+Quand j'ai intégré le club du Green-IT, notre leader était très orienté vers l'éco-conception logicielle, sauf qu’il ne savait pas  nous amené des choses toutes finalisée, voilà tout ce qu’il faut faire, il savait nous l’indiquer, nous l’illustrer que pour le développement de site web, nous ne développons pas de sites web. Donc, cela la difficulté ce que je comprends bien la finalité, mais je ne suis pas capable de définir les règles dans l’application que nous développons chez nous qui ne sont pas de sites web, qu’on puisse faire un sorte que l’on conçoit de façon durable pour longe terme. D’autre façon, qu’il nous indique des outils pour pouvoir vérifier si un site web a bien été éco-conçu, mais ces outils-là ne s'appliquent que pour des sites web et pas des applications utilisées en terme de l’entreprise. C’est toute la difficulté, et c’est pour ça qu’il y a six ans je ne me suis pas préoccupé sur ce sujet là parce qu’on avait pas un département de développement des logiciels encore chez nous, quand on a créé un département de développement des logiciels, j’ai souhaité que ceux qui codent puissent définir quelques règles, pas trop nombreuses, on commence par un peu et en élargir petit à petit. C’est pour moi, ça reste encore quelque chose assez émergente et assez peu outillée, et à côté de ça je vois parfaitement l’intérêt d’entrer dans cette logique.
 
+*Selon vous, éco-conception veut dire optimiser le développement ?*
+
+Alors ça veut dire plusieurs choses l’éco-conception : 
+
+* Déjà, en terme de besoin, je me centre sur mon besoin, je ne fais pas le plus plus toujours le plus, on sait jamais, donc, on fait ça.. Je me centre sur mes besoins  ( ce n'est pas au niveau du développeur, du codeur..Ça c’est au niveau celui de métier qui va exprimer les besoins, c’est le ramener à ce qui est vraiment essentiel et rester sur ce qui est essentiel )
+* Ensuite, il y a le développeur qui lui doit concevoir son logiciel pour que limite les flux la consommation du CPU, de RAM, de Réseau, etc. dans fonctionnement son logiciel.
+* Puis, il y a la troisième domaine, qui est plus dans la partie de conception, l'architecture de l'ensemble, faire en sorte ce que je vais développer, ça s’inscrire parfaitement dans l’architecture existante, l’histoire qu’on puisse rajouter des matériels parce que truc ne peut pas fonctionner que sur un serveur qu’on a dans le data center, et qui va demander d’autres ressources matérielles, etc...
+* D’autre notion, la maintenabilité...
 
 
 
