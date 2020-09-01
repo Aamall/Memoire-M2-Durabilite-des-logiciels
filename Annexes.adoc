@@ -292,7 +292,9 @@ Alors ça veut dire plusieurs choses l’éco-conception :
 * Puis, il y a la troisième domaine, qui est plus dans la partie de conception, l'architecture de l'ensemble, faire en sorte ce que je vais développer, ça s’inscrire parfaitement dans l’architecture existante, l’histoire qu’on puisse rajouter des matériels parce que truc ne peut pas fonctionner que sur un serveur qu’on a dans le data center, et qui va demander d’autres ressources matérielles, etc...
 * D’autre notion, la maintenabilité...
 
+*Identifiez-vous des moyens ou des outils pour évaluer la durabilité des logiciels ?*
 
+Il y a des choses qui existent mais appliquées à des sites web comme, ÉcoIndex, Écometer, Gtmatrix, Greenspector qui est pour les applications mobiles.
 
 
 
