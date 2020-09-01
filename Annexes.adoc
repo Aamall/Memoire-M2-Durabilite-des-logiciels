@@ -266,7 +266,18 @@ RTE a une stratégie d'ensemble pour tous les métiers d'entreprise pour aller v
 Moi je suis celui, le responsable informatique au sein de la direction informatique et télécom qui définit notre plan d'action annuel, une feuille de route, vers quoi nous devons progresser. et ce qu’il faut qu’on améliore, ce qui pour relever le Green-IT, et choisir d’un paramètre met en place pour des raisons diverses, donc c’est moi qui définit les orientations et les action green IT que l’on va mener au sein de la direction 
 Cela se raccroche à la stratégie d'ensemble de RTE pour que dans tous le métiers on ait cette logique d'intégrer le développement durable dans nos activités. C’est plus ou moins facile pour le métier mais en tous cas nous on s’y inscrit totalement.
 
+*Comment définissez-vous le terme de Green-IT ?*
 
+Le terme du Green-IT, c’est rechercher des solutions les plus respectueuses de l'environnement, tout en suivant la stratégie d'entreprise, c’est le point numéro un.
+Le point numéro 2 : C’est comment appliquer cette stratégie en étant le moins impactant sur l’environnement. Cela peut passer aussi par la recherche d’autre sens, de solution innovante qui fait que l’on peut réduire notre empreinte. On peut appliquer tel stratégie d’achat, développement, des solution, etc... Et parce que l’informatique permet de beaucoup d’innovation d’intégrer les solutions innovantes pour réduire notre empreinte environnementale.
+
+*Comment définissez-vous le terme de durabilité de logiciel ?*
+
+Durabilité n'est pas une notion assez courante. J'entends plutôt parler d'éco-conception de logiciel. Ça ce rejoint, parce que grâce à l’éco-conception, j’ai la pouvoir réaliser des solutions logiciels qui ont l’impact le moins possible sur l’environnement. Donc, c’est plutôt ça ce que je n’aimerais penser. C’est développer des solutions qui font que l'on n'aura pas (c’est une illustration) à acheter du matériel informatique pour les héberger à la data-center,  acheter des équipements réseaux parce qu'on va limiter les flux entre les data-centres et les posts de travail. Faire en sorte que l'on optimise le développement de logiciel pour éviter de rajouter du matériel derrière.
+
+*Comment définissez-vous le terme «Terminal» ?*
+
+C'est l'équipement utilisateur. Ce qu’il est entre les main d’un utilisateur.
 
 
 
