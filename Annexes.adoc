@@ -260,6 +260,12 @@ C'est beaucoup plus récent, depuis 6 ans. Avant, de connaître la notion de Gre
 
 *Quelles sont vos expériences dans le green-IT, et est-ce que RTE intégre-t-elle la notion du Green-IT dans sa stratégie de développement de logiciels ? Si oui, comment l'applique-t-elle ? 
 
+Je l'ai acquise au sein de RTE.
+RTE a une stratégie d'ensemble pour tous les métiers d'entreprise pour aller vers mises en œuvre des solutions durables, respectueuses de l’environnement, et donc c’est un parc de la direction informatique et télécom.
+
+Moi je suis celui, le responsable informatique au sein de la direction informatique et télécom qui définit notre plan d'action annuel, une feuille de route, vers quoi nous devons progresser. et ce qu’il faut qu’on améliore, ce qui pour relever le Green-IT, et choisir d’un paramètre met en place pour des raisons diverses, donc c’est moi qui définit les orientations et les action green IT que l’on va mener au sein de la direction 
+Cela se raccroche à la stratégie d'ensemble de RTE pour que dans tous le métiers on ait cette logique d'intégrer le développement durable dans nos activités. C’est plus ou moins facile pour le métier mais en tous cas nous on s’y inscrit totalement.
+
 
 
 
