@@ -258,7 +258,7 @@ Donc depuis 25 ans.
 
 C'est beaucoup plus récent, depuis 6 ans. Avant, de connaître la notion de Green-IT, je connaissais déjà la notion de développement durable, puisque RTE était déjà dans une logique de certification par rapport à la norme d’ISO 14001 management de l'environnement et j'étais le correspondant environnement au sein de la direction informatique. Donc, on ne parle pas encore du Green-IT. C’est-à-dire que l’on fait des choses qui ne accrochent pas encore au Green-IT, mais  qui étaient déjà du Green-IT.  J'en ai pris plus conscience, il y a 6 ans de ça. Plus qu’on a choisi pour aller un peu plus loin, pour être plus pertinent dans les actions menées d’intérêt le club Green-IT où cela j’ai découvert le terme du Green-IT.
 
-*Quelles sont vos expériences dans le green-IT, et est-ce que RTE intégre-t-elle la notion du Green-IT dans sa stratégie de développement de logiciels ? Si oui, comment l'applique-t-elle ? 
+*Quelles sont vos expériences dans le green-IT, et est-ce que RTE intégre-t-elle la notion du Green-IT dans sa stratégie de développement de logiciels ? Si oui, comment l'applique-t-elle ?* 
 
 Je l'ai acquise au sein de RTE.
 RTE a une stratégie d'ensemble pour tous les métiers d'entreprise pour aller vers mises en œuvre des solutions durables, respectueuses de l’environnement, et donc c’est un parc de la direction informatique et télécom.
