@@ -357,7 +357,7 @@ De tout ce qui précède, nous avons résumé le cycle de vie des logiciels et l
 [caption="Figure 4: "]
 image::Cycle-de-vie-du-logiciel.jpg[Cycle de vie du logiciel, 550, 550]
 
-==== 3.2.7.Que savent les programmeurs de la consommation d'énergie des logiciels ?
+=== 3.3.Que savent les programmeurs de la consommation d'énergie des logiciels ?
 
 PANG et al. ont mené une enquête présentée dans l'article "What Do Programmers Know about Software Energy Consumption? <<P>>", qui a révélé que les programmeurs avaient une connaissance limitée de l'efficacité énergétique, n'étaient pas au courant des meilleures pratiques pour réduire la consommation d'énergie des logiciels et n'étaient pas sûrs de la manière dont les logiciels consomment de l'énergie. Cette question d'une exigence non fonctionnelle devient très importante avec la popularité croissante de l'informatique mobile et l'émergence de déploiements de cloud à grande échelle, et en sachant que si la consommation d'énergie au niveau individuel était négligeable, elle ne le serait pas à l'échelle mondiale car l'énergie consommée par tous les appareils mobiles et les centres de données se multiplie.
 
@@ -388,3 +388,20 @@ Selon le rapport des chercheurs, Pinto et ses collègues ont identifié huit str
 * Structure de données efficace.
 
 De la part des chercheurs, ces stratégies devraient faire partie de la formation des programmeurs. De plus, selon eux, des outils de développement peuvent être créés pour identifier les consommations d'énergie inutiles et faire des recommandations pour réduire la consommation d'énergie, et les enseignants peuvent développer des diapositives, des vidéos, des projets et des devoirs dans le cadre du cours de premier cycle sur l'efficacité et la durabilité énergétiques. <<P>>
+
+=== 3.4.Analyse de la consommation d’énergie d’un smartphone 
+
+Le comportement énergétique d’un smartphone a été étudié en détails par une étude empirique avec des mesures effectuées en laboratoire, et menées par C. al. <<U>>
+
+Selon les résultats de cette étude, les plus grands consommateurs d’énergie sont le module du GSM et l’écran, y compris le panneau LCD, l'écran tactile, l'accélérateur / pilote graphique et le rétroéclairage.
+
+Il s’avère que, à l’exception du benchmark intensif du GSM, la luminosité du rétroéclairage est un facteur dominant sur la consommation d’énergie totale du smartphone. Ainsi, l’insertion des capteurs de lumière ambiante et de proximité dans les appareils mobiles, dans le but de sélectionner une luminosité appropriée, est bénéfique, sachant que les résultats de l’étude ont confirmé qu’une atténuation significative de la luminosité économise une grande quantité d’énergie. D’autre part, les résultats de l’étude ont montré que l’utilisation des couleurs clairs sur sombres diminue d’une manière considérable la consommation d’énergie.
+
+L’étude indique, par ses résultats, que le module du GSM consomme d’une grande portion d’énergie à la fois statique et dynamique, et cela peut être compréhensible en montrant qu’un simple maintien de connexion avec le réseau consomme une quantité significative de l’énergie totale. Il est à signaler que lors d’un appel téléphonique, le module du GSM consomme en moyenne plus de 800 mW. La gestion logicielle de l’énergie a, malheureusement, peu de possibilité lors d’une charge lourde de travail des appels téléphoniques. Une des pratiques constructives en lutte contre la consommation d’énergie est celle que le système Android utilise. Cette pratique consiste d’atténuer le rétroéclairage pendant l’appel téléphonique, ce qui peut économiser jusqu’à 40% d’énergie même avec une consommation importante du GSM.
+
+L’étude a montré que la consommation statique de l’énergie est substantielle. Cette consommation atteint au moins 50% de la consommation totale, et si le rétroéclairage a été inclus, ce chiffre augmenterait d’une manière considérable. Cela amène, selon l’étude, à conclure, dans le cas de possibilité, qu’éteindre les composants inutilisés et désactiver leur alimentation électrique forme l’approche la plus efficace de la gestion d’énergie.
+Les résultats de l’étude indiquent que les sous-systèmes du RAM, de l’audio, et du flash consomment la portion la plus faible, alors que la consommation de la carte SD, dans le cas de son utilisation avec sa puissance crête, peut être considérable (50 mW), mais en pratique, la carte SD est utilisée d’une manière suffisamment faible pour qu’une petite quantité d’énergie soit consommée. L’étude montre que même la lecture vidéo, considérée comme l’une des utilisations les plus importantes des données des appareils mobiles, a montré une consommation d’énergie inférieure à 1% de la consommation totale.
+Les résultats de l’étude mentionnent que la puissance du RAM, dans certaines charges du travail, dépasse celle du CPU, mais dans des situations pratiques, la puissance du CPU dépasse celle du RAM d’un facteur de deux ou plus.
+
+Les résultats de l’étude mentionnent aussi que l’audio consomme une large portion de la consommation statique, de l’ordre de 28-34mW.
+Dans l’ensemble, selon l’étude, le RAM, l’audio, et la carte SD ont peu d'effet sur la consommation électrique de l'appareil et offrent donc peu de potentiel d'optimisation énergétique. 
