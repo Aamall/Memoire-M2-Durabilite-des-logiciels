@@ -42,3 +42,5 @@
 - [[[S,19]]] Wikipédia. Programmation orientée objet. [en ligne]. Disponible sur : https://fr.wikipedia.org/wiki/Programmation_orient%C3%A9e_objet
 
 - [[[T,20]]] Wikipédia. Programmation fonctionnelle. [en ligne]. Disponible sur : https://fr.wikipedia.org/wiki/Programmation_fonctionnelle
+
+- [[[U,21]]] CARROLL, A et HEISER, G. An Analysis of Power Consumption in a Smartphone. Conference: Proceedings of the 2010 USENIX conference on USENIX annual technical conference [en ligne]. 2010, Disponible sur : https://www.researchgate.net/publication/215697458_An_Analysis_of_Power_Consumption_in_a_Smartphone. Cité 1807 fois.
