@@ -27,7 +27,7 @@ Pour le poids, j'ai donné la valeur 100 à deux catégories (conception et dév
 
 === 6.1.Les critères retenus pour la matrice  
 
-* *Mise à jour de sécurité jointes aux mises à jour fonctionnelles :* 
+* *Séparation entre les mises à jour de sécurité aux mises à jour fonctionnelles :* 
 
 Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en annonçant au client le type de mise à jour auquel chaque mise à jour est destinée (mise à jour corrective, mise à jour évolutive). Car les mises à jour correctives sont indispensables et souvent légères. Au contraire, les mises à jour évolutives ne sont pas indispensables et lourdes.
 
