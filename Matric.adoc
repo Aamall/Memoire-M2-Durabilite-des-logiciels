@@ -211,11 +211,11 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes :
 
 * Treizième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
 
-* Quatorzième critère a obtenu la valeur L'application Éco2mix a la note 20 - 40% pour l'optimiser le code.
+* Quatorzième critère a obtenu la valeur 40 - 60% : 
 
-* Quanzième critère a obtenu la valeur L'application Éco2mix est une application mobile et web. Donc, il ne utilise pas le RAM et le Disque Dur. Alors, la note est : 80 - 100%.
+* Quanzième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel mobile et web. Donc il ne utilise pas le RAM et le Disque Dur.
 
-* Seizième critère a obtenu la valeur L'application Éco2mix a la note 20 - 40% pour l'optimiser l'utilisation du Mémoire. 
+* Seizième critère a obtenu la valeur 20 - 40% : Éco2mix a la note 20 - 40% pour l'optimiser l'utilisation du Mémoire. 
 
 * Dix-septième critère a obtenu la valeur L'application Éco2mix prend l'espace 50MO, alors elle ne prend pas beaucoup d'espace. Pour cela, sa note est : 60 - 80%. 
 
