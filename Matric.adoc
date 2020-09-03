@@ -185,45 +185,45 @@ Cette application est dédié à exposer les données de RTE sur les utilisation
 
 La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
 
-* Premier critère a obtenu la note 60 - 80% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Ce qui justifie la note attribuée concernant la séparation entre ces deux types  mais il n'a y pas de séperation entre les mises à jour fonctionnelle et les mises à jour sécurité, pour cela la note pour le premier critère était : 
+* Premier critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix nz sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
-2. Lazy loading 40 - 60%.
+* Deuxième critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
-3. L'application Éco2mix est développé en Java, PHP et JavaScript. Donc, l'application est codé en Programmation orientée Objet. Cela donne au deuxième critère la note : 60 - 80%.
+* Troisième critère a obtenu la valeur 60 - 80% : La programmation utilisée est la Programmation orientée Objet.
 
-4. L'application Éco2mix n'utilise pas du tout le cloud. Alors, la note pour ce critère est : 100%.
+* Quatrième critère a obtenu la valeur 80 - 100% : Le cloud ne fait pas partie des caractéristiques techniques d'Éco2mix, ce qui justifie la valeur attribuée.
 
-5. Pour stocker les données, l'application Éco2mix sauvegarde ses données en Fichiers et en la Base de données. Donc, la note de ce critère est : 50 -60%.
+* Cinquième critère a obtenu la valeur 50 - 60% : Les données d'Éco2mix sont organisées à la fois en Fichiers et en Base de données.
 
-6. L'application Éco2mix utilise le Stockage Local pour ses données. Pour cela, la note est : 80 - 100%.
+* Sixième critère a obtenu la valeur 80 - 100% : Éco2mix stocke ses données localement, ce qui lui donne la bonne valeur.
 
-7. Appel réseau, il y a pas mal des requêtes. Sa note est : 20 - 40%.
+* Septième critère a obtenu la valeur 20 - 40% : Éxo2mix fait beaucoup de requêtes avec le réseau, ce qui diminue la valeur attribuée.
 
-8. L'application Éco2mix est codé en Java (Compilé), PHP (interprété) et JavaScript (interprété). Alors, la note de ce critère est : 40 - 60%.
+* Huitième critère a obtenu la valeur 40 - 60% : Éco2mix est codé en Java (Compilé), PHP (interprété) et JavaScript (interprété). Alors, la valeur de ce critère a été choisi à 50%, placée dans l'intervalle : 40 - 60%.
 
-9. L'application Éco2mix ne travail pas en arrière paln. Donc, la note dans la matrice est : 100%.
+* Neuvième critère a obtenu la valeur 60 - 80% : Éco2mix ne travaille pas en arrière plan, à l'exception de quelques processus tel que le processus de notification.
 
-10. L'application Éco2mix a des processus qui lancent automatiquement au démarrage. Donc, la note est : 20 - 40%.
+* Dixième critère a obtenu la valeur 20 - 40% : Éco2mix se lance automatiquement au démarrage, afin de réaliser quelques tâches. 
 
-11. L'application Éco2mix n'a pas le mode nuit/jour. Alors, sa note est : 0 - 20%.
+* Onzième critère a obtenu la valeur 0 - 20% : Éco2mix ne supporte pas la caractéristique du mode nuit / jour, ce qui dégrade la valeur de ce critère.
 
-12. L'application Éco2mix n'utilise pas énormément le CPU. Alors, la note de ce critère est : 20 - 40%.
+* Douzième critère a obtenu la valeur 60 - 80% : La valeur de ce critère a été attribuée grâce au fait que Éco2mix n'utilise pas énormément le CPU.
 
-13. L'application Éco2mix est une application fronte, donc, il n'a y pas beaucoup d'algorithèmes à optimiser. La note est : 80 - 100%.
+* Treizième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
 
-14. L'application Éco2mix a la note 20 - 40% pour l'optimiser le code.
+* Quatorzième critère a obtenu la valeur L'application Éco2mix a la note 20 - 40% pour l'optimiser le code.
 
-15. L'application Éco2mix est une application mobile et web. Donc, il ne utilise pas le RAM et le Disque Dur. Alors, la note est : 80 - 100%.
+* Quanzième critère a obtenu la valeur L'application Éco2mix est une application mobile et web. Donc, il ne utilise pas le RAM et le Disque Dur. Alors, la note est : 80 - 100%.
 
-16. L'application Éco2mix a la note 20 - 40% pour l'optimiser l'utilisation du Mémoire. 
+* Seizième critère a obtenu la valeur L'application Éco2mix a la note 20 - 40% pour l'optimiser l'utilisation du Mémoire. 
 
-17. L'application Éco2mix prend l'espace 50MO, alors elle ne prend pas beaucoup d'espace. Pour cela, sa note est : 60 - 80%. 
+* Dix-septième critère a obtenu la valeur L'application Éco2mix prend l'espace 50MO, alors elle ne prend pas beaucoup d'espace. Pour cela, sa note est : 60 - 80%. 
 
-18. L'application Éco2mix est déveloopé en closed-source. Sa note est : 0 - 20%.
+* Dix-huitième critère a obtenu la valeur L'application Éco2mix est déveloopé en closed-source. Sa note est : 0 - 20%.
 
-19. L'application Éco2mix des Bugs. Sa note est : 50 - 60%.
+* Dix-neuvième critère a obtenu la valeur L'application Éco2mix des Bugs. Sa note est : 50 - 60%.
 
-20. Pour La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections), l'application Éco2mix a la note : 20 - 40%. 
+* Vigntième critère a obtenu la valeur Pour La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections), l'application Éco2mix a la note : 20 - 40%. 
 
 .Matrice Éco2mix 
 [caption="Figure 3: "]
