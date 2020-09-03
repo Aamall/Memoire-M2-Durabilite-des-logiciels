@@ -158,7 +158,7 @@ Ce critère a été défini par le questionnaire avec un pourcentage de 20%.
 
 Ce critère signifie si le logiciel comporte beaucoup de bugs, et s'il nécessite une maintenance régulière. Dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. Cela a été bien clarifié selon le premier critère.
 
-* *La mauvaise lisibilité du code pour mieux l'appréhendre ( Évolution correction) :*
+* *La mauvaise lisibilité du code pour mieux l’appréhender ( Évolution correction) :*
 
 Suite à la réflexion au sujet de la "Durabilité des logiciels", ce critère est apparu utile à être join aux critères de durabilité selon ma propre expérience.
 
