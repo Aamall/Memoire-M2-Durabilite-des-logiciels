@@ -173,23 +173,19 @@ Impact fort sur l'utilisation de la batterie;TRILEAN;Utilisation; -> travail fut
 
 Empriente résiduelle;POURCENTAGE;Intégration;  -> travail futur
 
-=== 6.2.Le test de la matrice ///vérifier le titre///
+=== 6.2.Cas Pratiques de la matrice
 
-Après avoir recueilli les critères de durabilité des logiciels pour ma matrice, j'ai fait un test pour deux logiciels mobiles (Eco2mix et My window). Ces deux logiciels sont développés par l'entrepise RTE.
+Afin de valider la bonne conception de la matrice, deux cas pratiques concernants deux logiciels mobile (Eco2mix et My window), développés par l'entreprise RTE, ont été étudiés. les lignes suivantes expliquent les tests effectués de ces cas pratiques.
 
-==== 6.2.1.Le test de "Éco2mix"
+==== 6.2.1.Cas Pratique "Éco2mix"
 
-J'ai fait une interview avec le chef de projet de l'application "Éco2mix", M. Nathaël GALANTE-GRAS. 
+J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
 
-Voici le résultat du test : 
+Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois en France entier et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramétres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, on aussi étaient inclus dans cette application.
 
-L'application Éco2mix : est une application qui est accessible à tous, pas seulement aux clients de RTE ou aux agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France".
+La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
 
-Le but de cette application est d'exposer les données de RTE sur les utilisations, la production d'énergie en France (prod nucléaire, solaire, hydraulique, photo-voltaïque...) mais aussi au niveau des régions administratives et dans certaines métropoles. On met en avant les échanges entre les régions, les pays.
-
-Après la discussion avec M. GALANTE-GRAS, les résultats étaient : 
-
-1. L'application Éco2mix a souvent des mises jour fonctionnelle, mais il n'a y pas de séperation entre les mises à jour fonctionnelle et les mises à jour sécurité, pour cela la note pour le premier critère était : 0 - 20%.
+* Premier critère a obtenu la note 60 - 80% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Ce qui justifie la note attribuée concernant la séparation entre ces deux types  mais il n'a y pas de séperation entre les mises à jour fonctionnelle et les mises à jour sécurité, pour cela la note pour le premier critère était : 
 
 2. Lazy loading 40 - 60%.
 
