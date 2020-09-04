@@ -185,15 +185,15 @@ Cette application est dédié à exposer les données de RTE sur les utilisation
 
 La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
 
-* Premier critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix nz sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
+* Premier critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
 * Deuxième critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
-* Troisième critère a obtenu la valeur 60 - 80% : La programmation utilisée est la Programmation orientée Objet.
+* Troisième critère a obtenu la valeur 60 - 80% : la programmation utilisée est la Programmation orientée Objet.
 
-* Quatrième critère a obtenu la valeur 80 - 100% : Le cloud ne fait pas partie des caractéristiques techniques d'Éco2mix, ce qui justifie la valeur attribuée.
+* Quatrième critère a obtenu la valeur 80 - 100% : le cloud ne fait pas partie des caractéristiques techniques d'Éco2mix, ce qui justifie la valeur attribuée.
 
-* Cinquième critère a obtenu la valeur 50 - 60% : Les données d'Éco2mix sont organisées à la fois en Fichiers et en Base de données.
+* Cinquième critère a obtenu la valeur 50 - 60% : les données d'Éco2mix sont organisées à la fois en Fichiers et en Base de données.
 
 * Sixième critère a obtenu la valeur 80 - 100% : Éco2mix stocke ses données localement, ce qui lui donne la bonne valeur.
 
@@ -207,23 +207,23 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes :
 
 * Onzième critère a obtenu la valeur 0 - 20% : Éco2mix ne supporte pas la caractéristique du mode nuit / jour, ce qui dégrade la valeur de ce critère.
 
-* Douzième critère a obtenu la valeur 60 - 80% : La valeur de ce critère a été attribuée grâce au fait que Éco2mix n'utilise pas énormément le CPU.
+* Douzième critère a obtenu la valeur 60 - 80% : la valeur de ce critère a été attribuée grâce au fait que Éco2mix n'utilise pas énormément le CPU.
 
 * Treizième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
 
 * Quatorzième critère a obtenu la valeur 40 - 60% : 
 
-* Quanzième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel mobile et web. Donc il ne utilise pas le RAM et le Disque Dur.
+* Quanzième critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il ne utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
 
-* Seizième critère a obtenu la valeur 20 - 40% : Éco2mix a la note 20 - 40% pour l'optimiser l'utilisation du Mémoire. 
+* Seizième critère a obtenu la valeur 60 - 80% : Éco2mix a obteun cette valeur grâce au fait qu'il n'utilise pas beaucoup la mémoire.
 
-* Dix-septième critère a obtenu la valeur L'application Éco2mix prend l'espace 50MO, alors elle ne prend pas beaucoup d'espace. Pour cela, sa note est : 60 - 80%. 
+* Dix-septième critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel largement léger, ainsi son espace binaire est 50MO. 
 
-* Dix-huitième critère a obtenu la valeur L'application Éco2mix est déveloopé en closed-source. Sa note est : 0 - 20%.
+* Dix-huitième critère a obtenu la valeur 0 - 20% : Éco2mix a obtenu cette valeur parce qu'il est déveloopé en closed-source.
 
-* Dix-neuvième critère a obtenu la valeur L'application Éco2mix des Bugs. Sa note est : 50 - 60%.
+* Dix-neuvième critère a obtenu la valeur 20 - 40% : Éco2mix subit souvent des Bugs.
 
-* Vigntième critère a obtenu la valeur Pour La mauvaise lisibilité du code pour mieux l'appréhender (évolutions, corrections), l'application Éco2mix a la note : 20 - 40%. 
+* Vigntième critère a obtenu la valeur 40 - 60% : le code d'Éco2mix est un peu compliqué en quelques sorts.
 
 .Matrice Éco2mix 
 [caption="Figure 3: "]
