@@ -187,7 +187,7 @@ Cette application est dédié à exposer les données de RTE sur les utilisation
 
 La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
 
-* 1  (stem:[H_2O] latexmath:[E^{\gamma}] critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
+* 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
 * Deuxième critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
