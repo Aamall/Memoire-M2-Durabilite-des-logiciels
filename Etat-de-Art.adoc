@@ -8,34 +8,34 @@
 
 ==== 3.1.1.La notion de la Durabilité 
 
-L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement ? et comment réduire la pollution, la pollution par le gaz à effet de serre ? et l'augmentation du pourcentage de dioxyde de carbone dans l'air ?
+L'un des sujets les plus courants de nos jours est de savoir comment préserver l'environnement. Comment réduire la pollution de gaz à effet de serre et l'augmentation du pourcentage de dioxyde de carbone dans l'air?
 
-Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, on a constaté que ce concept a été appliqué dans plusieurs domaines tels que l'immobilier et l'électroménager. 
+Dans ce contexte, le concept de *Durabilité* est apparu parmi les nombreux efforts déployés. Ces dernières années, nous avons constaté que ce concept a été appliqué dans plusieurs domaines tels que l'immobilier et l'électroménager. 
 
 Bien sûr, parmi ces domaines, il y a celui des technologies de l'information, qui à son tour essaie de réduire son impact négatif sur l'environnement. 
 
 Ainsi, afin de mieux comprendre la *notion de durabilité*, je commence à distinguer les différents concepts de *Green IT* ou de *Gestion durable*, *Technologies de l'Information Green* et *Systèmes d'Information Green*.
 
-La *Gestion durable* : représente le processus de longue durée dont le but est d'optimiser, d'une manière simultanée, les performances environnementales, économiques et sociales tout en tenant compte des restrictions des ressources naturelles, ce qui permet de poursuivre les activités commerciales sans compromettre les besoins des générations futures. <<D>>
+La *Gestion durable* représente le processus de longue durée dont le but est d'optimiser, d'une manière simultanée, les performances environnementales, économiques et sociales tout en tenant compte des restrictions des ressources naturelles, ce qui permet de poursuivre les activités commerciales sans compromettre les besoins des générations futures. <<D>>
 
-Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence à tous ce qui est matériel informatique, logiciels ou bien équipements périphériques d'information. *Le Système d'Information*, par contre, est un concept plus large qui couvre à la fois les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<D>>
+Avant d'illustrer les concepts de *Technologie de l'Information* et de *Système d'Information*, il est nécessaire de faire une distinction claire entre eux. La *Technologie de l'Information* fait référence à tous ce qui est matériel informatique, logiciels ou bien équipements périphériques d'information. *Le Système d'Information (SI)*, par contre, est un concept plus large qui couvre à la fois les composantes technologiques et les activités humaines liées au processus de gestion et d'utilisation de la technologie au sein de l'organisation. <<D>>
 
 Le concept de SI couvre différents aspects : <<D>>
 
 ** Les TI (tels que les serveurs physiques, les ordinateurs de bureau et les dispositifs de réseau) ainsi que les services partagés. (tels que les bases de données ou le stockage).
 ** Les applications commerciales (telles que les systèmes ERP).
 ** Les ressources humaines en TI (telles que les compétences et les connaissances).
-** Capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. 
+** Les capacités de gestion liées aux SI pour les processus organisationnels et la transformation des activités. 
 
 Les *Technologies de l'Information Green* font référence aux mesures et aux initiatives qui ont pour but de diminuer l'impact environnemental négatif issu de la fabrication, de l'exploitation et de l'élimination des équipements et des infrastructures informatiques. <<D>>
 
 De ce concept, le Green IT pratique : <<D>>
 
-** Lors de l'achat des matériels ou d'effectuer des services informatiques, les critères environnementaux sont totalement pris en considération.
-** Appliquer d'économie d'énergie lors d'effectuer des opérations informatiques faites aux sein des centres des données et les environnements de bureau.
-** Réaliser les opérations d'élimination des équipements informatiques d'une manière respectueuse de l'environnement.
+** La considération des critères environnementaux, lors d'achat de matériel ou lorsque des services informatiques sont effectués.
+** L'application d'économie d'énergie lorsque des opérations informatiques sont faites aux sein des centres de données et dans les environnements de bureau.
+** L'élimination des équipements informatiques d'une manière respectueuse de l'environnement.
 
-Les *Systèmes d'Information Green* font référence aux pratiques qui ont pour objectif de réduire les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI, et cela en déterminant la façon dont on utilise pour investir, déployer, utiliser et gérer les systèmes d'information SI. <<D>>
+Les *Systèmes d'Information Green* font référence aux pratiques qui ont pour objectif de réduire les impacts environnementaux négatifs des SI, des opérations commerciales et des produits et services basés sur les SI. Tout cela en déterminant la façon dont on utilise pour investir, déployer, utiliser et gérer les systèmes d'information SI. <<D>>
 
 A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 
@@ -46,7 +46,7 @@ A partir de ce concept, les caractéristiques de l'IS green sont : <<D>>
 
 ==== 3.1.2.La notion de Green IT
 
-Une bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueuses de l'environnement.
+La bonne pratique pour résoudre un problème ou trouver une solution consiste à commencer à comprendre le problème ou les causes qui le composent. Dans notre cas, cela signifie mieux connaître les impacts environnementaux des technologies de l'information et comment rendre nos infrastructures, produits, services, opérations, applications et pratiques informatiques respectueuses de l'environnement.
 
 L'impact le plus important sur l'environnement est l'électricité. En effet, en produisant de l'électricité, les deux plus importants contributeurs, le charbon et le pétrole, génèrent du dioxyde de carbone, des polluants et du soufre qu'ils rejettent dans l'atmosphère. La réduction de la consommation d'électricité aboutit à la lutte contre les impacts des émissions de dioxyde de carbone sur notre environnement et sur le réchauffement climatique. <<E>>
 
@@ -56,17 +56,17 @@ de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de
 
 Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde les problèmes de quatre manières complémentaires : <<E>>
 
-* Green utilisation : qui indique à utiliser les ordinateurs et les autres systèmes d'information en manière écologique afin de réduire leur consommation d'énergie.
-* Le Green élimination :  qui indique à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
-* Green conception :  qui indique à préserver l'environnement via de concevoir, en façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
-* Green fabrication : qui indique à fabriquer, dans un but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
+* Green utilisation : qui indique à utiliser les ordinateurs et les autres systèmes d'information de manière écologique afin de réduire leur consommation d'énergie.
+* Green élimination :  qui indique à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
+* Green conception :  qui indique à préserver l'environnement via la conception, de façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
+* Green fabrication : qui indique à fabriquer, dans le but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
 
 Minimiser les émissions de gaz à effet de serre, en réduisant la consommation d'énergie des systèmes informatiques et des centres de données opérationnels, forme un objectif essentiel de Green IT, pour cela il existe plusieurs pratiques : <<E>>
 
-* Réduire la consommation d'énergie des PC.
+* Réduction de la consommation d'énergie des PC.
 * Activation des fonctions de gestion de l'énergie.
-* Éteindre le système lorsqu'il n'est pas utilisé.
-* Utiliser des économiseurs d'écran.
+* Extinction du système lorsqu'il n'est pas utilisé.
+* Utilisation des économiseurs d'écran.
 * Utilisation d'ordinateurs clients légers.
 * Écologisation des centres de données.
 * Conservation de l'énergie.
@@ -88,9 +88,9 @@ Il est important de noter que les Green IT couvrent un certain nombre de domaine
 
 ==== 3.1.3.La notion d'Obsolescence Programmée
 
-L'article "`Art. L. 213-4-1.-I.`" <<F>> définit l'obsolescence programmée comme :
+L'article "`Art. L. 213-4-1.-I.`" <<F>> définit l'obsolescence programmée :
 
-*l'Obsolescence Programmée*: se définit par l'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement. 
+L'ensemble des techniques par lesquelles un metteur sur le marché vise à réduire délibérément la durée de vie d'un produit pour en augmenter le taux de remplacement. 
 
 Pour bien expliquer la notion d'obsolescence programmée, voici la différenciation de ses différents types : <<G>>
 
@@ -149,7 +149,7 @@ Le système d'exploitation mobile a été développé et conçu afin d'être op�
 
 Plusieurs appareils, tels que les smartphones, tablettes, montres, téléviseurs, et voitures, peuvent être exploités par le système Android.
 
-L’architecture d’Android consiste de plusieurs couches : <<K>>
+L’architecture d’Android est constituée de plusieurs couches : <<K>>
 
 * *Linux Kernel* : basé sur Linux, le Kernel contient les différents pilotes (ou drivers en anglais) de la partie matérielle, permettant de faire le lien entre le logiciel et la partie hardware.
 * *Librairies* : plusieurs librairies telles que SQLite, SSL, OpenGL se trouvent dans cette couche.
@@ -172,7 +172,7 @@ L’architecture d’iOS est composée de 4 couches différentes : <<K>>
 
 * Le système d'exploitation *Windows* : <<K>>
 
-L’architecture d’une application Windows consiste de 4 couches : <<K>>
+L’architecture d’une application Windows est composée de 4 couches : <<K>>
 
 * *Core* : cette couche, formant le kernel permettant de gérer le matériel du dispositif, représente la couche la plus basse dans la hiérarchie.
 * *System Services* : les fonctionnalités des appareils peuvent être accédées grâce aux API qui se trouvent dans cette couche.
@@ -188,7 +188,7 @@ Il existe plusieurs types de développement pour mettre au point une application
 
 ===== 3.1.4.2.La famille de logiciels sur un serveur 
 
-Le serveur est un dispositif, qui est connecté au réseau, met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
+Le serveur est un dispositif qui est connecté au réseau et qui met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
 .Les différents types de serveurs et leurs logiciels
 [caption="Figure 2: "]
@@ -197,25 +197,24 @@ image::Les-types-de-serveurs-leurs-logiciels.png[Les différents types de serveu
 [#importance]
 === 3.2.De l'importance du couplage entre le Software et le Hardware
 
-Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considiration la durabilité des matériels sur lesquels ils sont instanciés. En effet,l’empreinte écologique dépend de la durabilité du matériel. 
+Parler de durabilité logicielle n'a aucun sens si on ne prend pas en considiration la durabilité des matériels sur lesquels ils sont instanciés. En effet, l’empreinte écologique dépend de la durabilité du matériel. 
 
 ==== 3.2.1.L'empreinte environnementale de matériels informatiques
 
-Il existe de nombreux types de matériel informatique, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
+Il existe de nombreux types de matériels informatiques, tels que : ordinateurs, smartphones, imprimantes, consoles de jeux vidéo, téléviseurs connectés à un boîtier, objets connectés, etc. Chaque type a une empreinte écologique.
 
 Bien sûr, il existe plusieurs études qui clarifient l'empreinte écologique. L'une des ces études est *Empreinte environnementale du numérique mondial* <<M>> que l'équipe de GreenIT.fr a publié, qui se concentre sur la quantification de l'empreinte environnementale numérique globale et son évolution entre 2010 et 2025.
 
-Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. La méthodologie suivie repose sur l'analyse de cycle de vie (ACV), et a quantifié les impacts environnementaux en s'appuyant sur trois catégories (utilisateurs, réseaux, centres informatiques) qui sont agrégés par un méta-modèle.
+Cette étude s'applique à tous les équipements électroniques qui manipulent des données binaires. La méthodologie suivie repose sur l'analyse de cycle de vie (ACV), et a quantifier les impacts environnementaux en s'appuyant sur trois catégories (utilisateurs, réseaux, centres informatiques) qui sont agrégés par un méta-modèle.
 
-Les quatre indicateurs qui ont été pris en compte dans cette étude : <<M>> 
+Les quatre indicateurs qui ont été pris en compte dans cette étude sont : <<M>> 
 
 * Épuisement des ressources abiotiques (ADP) : cet indicateur évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
 * Réchauffement global (GES) : cet indicateur reflète le changement climatique.
-* Bilan énergétique (EP) : L'énergie dite "primaire" est celle nécessaire pour produire l'énergie finale. Ainsi, en numérique comme en toute autre industrie, afin de fabriquer l'équipement et selon l'étape de son cycle de vie, il y aura différents types d'énergie primaire pour produire l'énergie finale nécessaire à réaliser cette étape.
-* Tension sur l’eau douce (Eau) : après l'air respirable, l'eau douce est classée comme la deuxième ressource physiologique de base la plus importante aussi pour l'être humain que pour d'autres formes de vie.
-Il est à notifier que uniquement l'eau bleu est accessible aux êtres humains en revanche de l'eau verte, qui est uniquement accessible aux plantes. Par conséquent, si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donnée.  
+* Bilan énergétique (EP) : L'énergie dite "primaire" est celle nécessaire pour produire l'énergie finale. Ainsi, en numérique comme dans toute autre industrie, afin de fabriquer l'équipement et selon l'étape de son cycle de vie, il y aura différents types d'énergie primaire pour produire l'énergie finale nécessaire à réaliser cette étape.
+* Tension sur l’eau douce (Eau) : après l'air respirable, l'eau douce est classée comme la deuxième ressource physiologique de base la plus importante aussi pour l'être humain que pour d'autres formes de vie. Il est à notifier qu'uniquement l'eau bleu est accessible aux êtres humains, contrairement à l'eau verte, qui est accessible uniquement aux plantes. Par conséquent, si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.  
 
-Le mot *Numérique* n'est pas abstrait, il est traduit par des milliers des équipement et câbles. L'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. <<M>> 
+Le mot *Numérique* n'est pas abstrait, il est traduit par des milliers d'équipements et câbles. L'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. <<M>> 
 
 Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de GreenIT.fr a étudié l'ensemble des impacts environnementaux pour chaque tiers du numérique. Nous présentons quelques résultats de l'étude : <<M>> 
 
@@ -233,7 +232,7 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
 
     "Tous les matériels vont augmenter leurs impactes multiplier de 2 à 3 fois à 2025, mais les objets connectés vont avoir le plus impacte multiplier 5 fois à 2025, La croissance exponentielle du nombre d’objets connectés (de 1 milliard en 2010 à 48 milliards en 2025)." 
 
-Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
+Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
 
 En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<M>> ) .
 
@@ -247,26 +246,26 @@ La durabilité des logiciels ne suffit pas à elle seule à rendre le matériel 
 
 ==== 3.2.3.Conditions préalables pour des matériels durables 
 
-Une bonne utilisation de l’appareil informatique permettra de le faire fonctionner le plus longtemps possible. Cette idée a été bien démontrée dans le guide de l’organisation Négawatt (mis en ligne en novembre 2018)<<Q>>, en présentant aussi des simples que des bonnes pratiques. Ce guide met l’accent aussi sur l’importance de prendre conscience du bilan carbone de la fabrication de cet appareil par rapport au bilan carbone de son utilisation, ce qui évoque l’intérêt de faire durer son appareil informatique.
+Une bonne utilisation de l’appareil informatique permettra de le faire fonctionner le plus longtemps possible. Cette idée a été bien démontrée dans le guide de l’organisation Négawatt (mis en ligne en novembre 2018)<<Q>>, en présentant tout autant des simples que des bonnes pratiques. Ce guide met l’accent aussi sur l’importance de prendre conscience du bilan carbone de la fabrication de cet appareil par rapport au bilan carbone de son utilisation, ce qui évoque l’intérêt de faire durer son appareil informatique.
 
-Les bonnes pratiques, pouvant aussi être appliquées à l’utilisation privée qu’à l’utilisation professionnelle, peuvent être résumées comme suivant :
+Les bonnes pratiques, pouvant tout aussi bien être appliquées à l’utilisation privée qu’à l’utilisation professionnelle, peuvent être résumées comme suivant :
 
 * Privilégier l’achat des ordinateurs avec des disques durs SSD, qui sont beaucoup plus robustes que des disques durs mécaniques.
-* Mette à jour le système d’exploitation et les logiciels, et effectuer les mises à jour de sécurité pour optimiser la performance et améliorer le traitement des logiciels (moins de bugs). Par contre, il est recommandé d’éviter les mises à jour fonctionnelles non essentielles à l’utilisateur ou à l’entreprise, qui surchargent les machines inutilement et contribuent à l’obsolescence programmée des ordinateurs.
+* Mettre à jour le système d’exploitation et les logiciels, et effectuer les mises à jour de sécurité pour optimiser la performance et améliorer le traitement des logiciels (moins de bugs). Par contre, il est recommandé d’éviter les mises à jour fonctionnelles non essentielles à l’utilisateur ou à l’entreprise, qui surchargent les machines inutilement et contribuent à l’obsolescence programmée des ordinateurs.
 * Éviter le ralentissement des navigateurs internet évoqué par l’installation et l'utilisation d'extensions de ceux-ci.
 * Améliorer la performance des appareils informatiques en limitant le nombre des logiciels lancé automatiquement au démarrage de ces appareils.
-* Protéger les appareils informatiques, notamment durant leur transport, par les éteindre et les ranger dans des housses afin d’éviter les secousses. Aussi protéger les appareils informatiques de la chaleur élevée, des poussières ou d’une forte pression.
-* Supprimer régulièrement les fichiers inutiles et inutilisés pour nettoyer le contenu de son ordinateur. Ainsi, il est préférable, dans le cas du disque dur mécanique, d’effectuer une défragmentation d’une manière régulière. Il est appréciable aussi de nettoyer physiquement les appareils informatiques par enlever la poussière, notamment sur le ventilateur, ce qui diminue la consommation électrique.
+* Protéger les appareils informatiques, notamment durant leur transport, en les éteignant et en les rangeant dans des housses afin d’éviter les secousses. Protéger aussi les appareils informatiques de la chaleur élevée, des poussières ou d’une forte pression.
+* Supprimer régulièrement les fichiers inutiles et inutilisés pour nettoyer le contenu de son ordinateur. Ainsi, il est préférable, dans le cas du disque dur mécanique, d’effectuer une défragmentation d’une manière régulière. Il est appréciable aussi de nettoyer physiquement les appareils informatiques pour enlever la poussière, notamment sur le ventilateur, ce qui diminue la consommation électrique.
 * Travailler dans un environnement adapté (dans un bureau bien refroidi et ventilé) afin d’éviter la surconsommation électrique due au refroidissement des appareils informatiques.
 * Remplacer le composant défectueux plutôt qu’acheter un ordinateur neuf, ce qui économise grandement l’énergie grise. Il est préférable aussi d’utiliser les anciens ordinateurs pour des tâches simples comme traitement de texte au lieu de les jeter.
-* En cas de chauffe démesurément, il faut enlever la batterie de l’ordinateur portable et la ranger dans un endroit sec et frais. Il faut aussi veiller à lui imposer mensuellement un cycle complet décharge/recharge.
+* En cas de chauffe démesurée, il faut enlever la batterie de l’ordinateur portable et la ranger dans un endroit sec et frais. Il faut aussi veiller à lui imposer mensuellement un cycle complet décharge/recharge.
 * Privilégier le reconditionnement des appareils informatiques en fin de vie.
 
 ==== 3.2.4.Le logiciel peut aussi endommager le matériel  /// reste à faire ///
 
 Il faut avoir une bonne conception avant de commencer à développer des logiciels ! 
 
-Parfois, si la conception est mauvaise, cela nous conduit à un mauvais développement. Ce dernier, il suppose d'endommager le matériel plus rapidement qu'il n'est prévu. 
+Parfois, si la conception est mauvaise, cela nous conduit à un mauvais développement. Ce dernier va endommager le matériel plus rapidement qu'il n'est prévu. 
 
 
 Comme elle le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "la Technologie de l'Information représente l'ensemble des matériels informatiques, ainsi que des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et celui des logiciels. 
@@ -279,7 +278,7 @@ Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude
 
 D'un point de vue général, le cycle de vie d'un matériel informatique peut être segmenté en cinq grandes phases : <<N>> 
 
-*Préfabrication*, *Fabrication*, *Distribution et Transportation*, *Usage*, *La fin de vie*.
+*Préfabrication*, *Fabrication*, *Distribution et Transport*, *Usage*, *La fin de vie*.
 
 Le champ d'application de chaque phase sera défini, suivi des impacts environnementaux résultant de cette phase, les catégories adoptées pour classer les impacts environnementaux étant : <<N>>
 
@@ -300,7 +299,7 @@ Pour étudier cette phase, les quatre chercheurs ont utilisé les données sur l
 
 Les activités de cette phase nécessitent peu d'électricité et émettent peu de polluants dans l'air, des eaux usées ou des déchets solides. <<N>>
 
-* Distribution et Transportation : 
+* Distribution et Transport : 
 
 Cette phase a été établie sur la base de l'hypothèse suivante : 
 La distance moyenne entre les deux principaux fabricants, mentionnés précédemment, et les points de livraison importants est de 230 km. Cette distance est couverte par des camions de 2,5 tonnes pouvant transporter 110 dispositifs informatiques. <<N>>
@@ -317,7 +316,7 @@ Cela peut se comprendre étant donné que la consommation d'énergie provenant d
 
 * La fin de vie :
 
-Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage, le recyclage comporte quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
+Les quatre chercheurs ont envisagé deux scénarios pour cette phase : la mise en décharge ou le recyclage. Le recyclage comporte quatre processus : la collecte, le démantèlement, la pré-manutention et le traitement en raffinerie.
 Les quatre chercheurs ont utilisé la base de données du ministère coréen du commerce, de l'industrie et de l'énergie, ainsi que les données fournies par Korea Computer Recycling Inc, pour déterminer le taux de recyclage d'un appareil informatique en Corée du Sud.
 Ce taux est fixé à 46%, ce qui signifie que 54% du matériel informatique se retrouve à la décharge. <<N>>
 
@@ -330,7 +329,7 @@ Le recyclage du matériel informatique a une influence à la fois positive et n�
 
 Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme "une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique." <<O>>. L'ISO a précisé, afin d'accentuer la nature intellectuelle du logiciel, que ce dernier existe à part des supports par lesquels il est transporté, ce qu'il requière la distinction entre le logiciel et son support. <<O>>
 
-Nous définissons le cycle de vie des logiciels : comme la durée du temps commençant par proposer ou décider de développer un logiciel, et se terminant par mettre ce dernier hors service. <<O>>
+Nous définissons le cycle de vie des logiciels comme la durée du temps commençant par proposer ou décider de développer un logiciel, et se terminant par mettre ce dernier hors service. <<O>>
 
 Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du logiciel* (en anglais *Software process*). Ce processus est composé de plusieurs sous-processus qui échangent et communiquent entre eux. Pour chaque processus, il y a des conditions à déclencher, des caractéristiques uniques, des activités déployées, certaines ressources utilisées et les produits qui en résultent et ses critères de fin. Les activités qui font partie d'un processus sont à leur tour divisées en sous-activités et en tâches plus détaillées. <<O>> 
 
@@ -339,10 +338,10 @@ Un autre terme pour décrire le cycle de vie des logiciels est le *Processus du 
 image::Architecture-du-processus-du-logiciel.jpg[Architecture du processus du logiciel]
 
 
-En partant de la définition du cycle de vie des logiciels, nous découvrons que le cycle de vie des logiciels se compose en quatre phases <<O>>  qui se succèdent les unes aux autres : 
+En partant de la définition du cycle de vie des logiciels, nous découvrons qu'il se compose de quatre phases <<O>> qui se succèdent les unes aux autres : 
 
 * *Avant-projet/ Etude préalable* : c'est la phase préparatoire qui a pour objectif de répondre à des questions comme la clarification de l'objectif du logiciel et de son importance. Il s'agit notamment de clarifier les aspects techniques et de gestion, les phases de ce logiciel et les besoins des utilisateurs. Pour chacune de ces phases, il existe plusieurs petites tâches détaillées. Les résultats de cette phase sont documentés dans un document appelé *Cahier de charge/Spécification du projet* (en anglais projet specification).
-* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence par décider de développer le logiciel, et se termine par le livrer et l'installer. Nous en parlons en détail par la suite.
+* *Développement* : nous pouvons aussi dire le *cycle de développement du logiciel* qui commence par décider de développer le logiciel, et se termine par le livrer et l'installer. Nous en parlerons en détail par la suite.
 * *Exploitation et Maintenance* : après l'achèvement de la phase précédente et avant d'entrer dans la phase de l'exploitation, le logiciel passe au stade de *l'installation*. Cette étape est prise en charge soit par l'équipe de développement pour les logiciels en développement interne, soit par l'utilisateur qui effectue l'installation dans le cas de logiciels largement distribués, et qui est soutenu par l'assistance du distributeur (service après-vente). Après cette étape vient la phase d'exploitation et de maintenance, qui comprend l'exploitation du logiciel dans son environnement d'exploitation, sa surveillance et sa modification si nécessaire.
 N.B. : la maintenance du logiciel consisterait à corriger les erreurs, à ajouter de nouvelles fonctionnalités, à l'adopter avec un nouvel environnement, etc. On distingue donc plusieurs types de maintenance : la maintenance perfective, la maintenance adaptative et la maintenance corrective. Souvent, la maintenance d'un logiciel nécessite de revenir à la phase de développement pour le réappliquer. Après chaque maintenance d'un logiciel, il faut bien sûr le distribuer. En outre, il faut fournir une assistance technique et un soutien en matière de conseil.
 * *Retrait* : la dernière phase que nous pouvons également appeler *Mettre le logiciel hors de service*. Cette phase comprend : alerter les utilisateurs, opérer une exploitation parallèlement au logiciel à retirer, cesser le support du logiciel.
