@@ -14,7 +14,7 @@ Pour aboutir à une problématique je me suis posée les questions qui suivent:
 
 J'essayerai de répondre à ces questions avec les hypothèses suivantes.
 
-Et comme expliqué dans l'hypothèse 3, les logiciels n'ont pas d'impact direct sur l'environnement, mais leurs impacts sont sur les terminaux. J'ai donc décidé de faire une étude sur le cycle de vie des logiciels et sur la manière dont les logiciels entraînent le renouvellement prématuré des terminaux. Comme mentionné dans l'introduction, il existe plusieurs familles de logiciels pour restreindre le sujet, j'ai choisi la famille des logiciels pour smartphones. 
+Et comme expliqué dans l'hypothèse 3, les logiciels n'ont pas d'impact direct sur l'environnement, mais ont un impacts sur les terminaux. J'ai donc décidé de faire une étude sur le cycle de vie des logiciels et sur la manière dont les logiciels entraînent le renouvellement prématuré des terminaux. Comme mentionné dans l'introduction, il existe plusieurs familles de logiciels pour restreindre le sujet, j'ai choisi la famille des logiciels pour smartphones. 
 
 *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?*
 
@@ -36,14 +36,14 @@ La phase de préfabrication a l'impact le plus élevé sur l'environnement, car 
  
 ====  2.1.2. _Hypothèse 2_ : *Le Software peut entraîner le "renouvellement" du Hardware*
 
-Je considère, à l'issue de ce travail de recherche, que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée de ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolescence programmée (i.e. : de manière mercantile en l'occurrence).
+Je considère, à l'issue de ce travail de recherche, que les logiciels peuvent provoquer le renouvellement prématuré des terminaux. Cela se présente sous plusieurs formes. Je pense à la demande disproportionnée des ressources machines (du fait d'une mauvaise conception et/ou développement logiciel.le), à l'impact des logiciels et des sollicitations des périphériques matériels associés (à mauvais escient) ou à une contribution à l'obsolescence programmée (i.e. : de manière mercantile en l'occurrence).
 
-En regard de cette hypothèse, je propose la matrice de durabilité présentée au chapitre <<Matrice>>. Elle présente les critères detérminants en termes de durabilité logicielle.
+Au regard de cette hypothèse, je propose la matrice de durabilité présentée au chapitre <<Matrice>>. Elle présente les critères déterminants en terme de durabilité logicielle.
 
 
 ====  2.1.3. _Hypothèse 3_ : *Le service numérique a un impact sur l'environnement*
  
-Considérant une population moyenne d'un pays développé et son inconscient collectif, il est important de savoir que les logiciels, de part leur absence d'existence physique, n'auraient aucun impact direct sur l'environnement. Pour démontrer l'inverse, il suffit de rappeler que le matériel stocke de l'information (disque dur, clé USB), fait fonctionner et les logiciels qui opèrent des calculs pour rendre des services (processeurs, mémoire, etc.). Ces éléments ont, à chaque étape de leur cycle de vie, bel et bien un impact sur l'environnement. Par conséquent, pour accepter cette hypothèse ou la rejeter, nous devons mesurer l'influence des logiciels afin déterminer leur impact sur les matériels sous jaccents et donc les impacts environnementaux.
+Considérant une population moyenne d'un pays développé et son inconscient collectif, il est important de savoir que les logiciels, de part leur absence d'existence physique, n'auraient aucun impact direct sur l'environnement. Pour démontrer l'inverse, il suffit de rappeler que le matériel stocke de l'information (disque dur, clé USB), et fait fonctionner les logiciels qui opèrent des calculs pour rendre des services (processeurs, mémoire, etc.). Ces éléments ont, à chaque étape de leur cycle de vie, bel et bien un impact sur l'environnement. Par conséquent, pour accepter cette hypothèse ou la rejeter, nous devons mesurer l'influence des logiciels afin de déterminer leur impact sur les matériels sous jaccents et donc les impacts environnementaux.
 
 
 ====  2.1.4. _Hypothèse 4_ : *On peut améliorer la durabilité des logiciels*
@@ -55,7 +55,7 @@ La durabilité logicielle, sans être définie, peut être lue de prime abord co
 
 ==== 2.2.1.PHASE 1 État de l’art 
 
-La première phase concerne l'état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité, d'une part, et au cycle de vie d'un matériel informatique et d'un logiciel et à leurs impacts sur l'environnement, d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et l'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Scholar avec les mots clés suivants Green-IT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computer devices, software, environmental impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
+La première phase concerne l'état de l’art : une revue littéraire succincte a été réalisée afin de rassembler tous les modèles et caractéristiques des études précédentes. Cette revue se concentre sur les études qui illustrent certains concepts liés à la durabilité d'une part, et au cycle de vie d'un matériel informatique ainsi que d'un logiciel et à leurs impacts sur l'environnement d'autre part. En effet, il est nécessaire de comprendre la notion de durabilité et d'empreinte environnementale du matériel informatique afin de construire la matrice de durabilité des logiciels. Pour ce faire, des recherches ont été effectuées sur Google Scholar avec les mots clés suivants Green-IT, durabilité, cycle de vie, matériel, logiciel, empreinte environnementale. Les mots clés ont également été recherchés en anglais : GreenIT, sustainability, product lifecycle, computer devices, software, environmental impact, afin d'obtenir le plus de résultats possible. Les études retenues ont été celles qui ont été le plus de fois citées dans d’autres publications.
 
 ==== 2.2.2.PHASE 2 Études qualitatives et quantitatives 
 
