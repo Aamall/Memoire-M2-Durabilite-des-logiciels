@@ -1,5 +1,4 @@
 :imagesdir: ./images
-:stem: latexmath
 
 <<<
 
