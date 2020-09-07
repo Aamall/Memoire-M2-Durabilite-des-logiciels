@@ -17,7 +17,6 @@ Ces notes :
 * *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
 Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
-La deuxième, à droite, à remplir par *le chef de projet*. 
 
 Pour le type de critères, j'ai choisi trois types : 
 
@@ -26,6 +25,8 @@ Pour le type de critères, j'ai choisi trois types :
 * *Pourcentage*. 
 
 Pour le poids, j'ai donné la valeur 100 à deux catégories (conception et développement). Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur sur 100 selon l'importance du critère établi sur la base des interviews et du questionnaire.
+
+La deuxième, à droite, à remplir par *le chef de projet*. 
 
 === 6.1.Les critères retenus pour la matrice  
 
@@ -177,7 +178,7 @@ Empriente résiduelle;POURCENTAGE;Intégration;  -> travail futur
 
 === 6.2.Cas Pratiques de la matrice
 
-Afin de valider la bonne conception de la matrice, deux cas pratiques concernants deux logiciels mobile (Eco2mix et My window), développés par l'entreprise RTE, ont été étudiés. les lignes suivantes expliquent les tests effectués de ces cas pratiques.
+Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
 
 ==== 6.2.1.Cas Pratique "Éco2mix"
 
@@ -187,7 +188,7 @@ Cette application est dédié à exposer les données de RTE sur les utilisation
 
 La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
 
-* 1^er  latexmath:[C = \alpha + \beta Y^{\gamma} + \epsilon] critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
+* 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
 * Deuxième critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
