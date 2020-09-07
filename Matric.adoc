@@ -15,7 +15,7 @@ Ces notes :
 * *4* -> 60 - 80% -> le logiciel est *Très bien*. 
 * *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
-Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
+Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leurs type et leurs poids.
 
 Pour le type de critères, j'ai choisi trois types : 
 
@@ -23,15 +23,15 @@ Pour le type de critères, j'ai choisi trois types :
 * *Boolean* (True, False).
 * *Pourcentage*. 
 
-Pour le poids, j'ai donné la valeur 100 à deux catégories (conception et développement). Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur sur 100 selon l'importance du critère établi sur la base des interviews et du questionnaire.
+Pour le poids, j'ai donné la valeur 100 à ces deux catégories. Ensuite, pour chaque critère de ces catégories, j'ai donné une valeur sur 100 selon l'importance du critère établi sur la base des interviews et du questionnaire.
 
-La deuxième, à droite, à remplir par *le chef de projet*. 
+La deuxième, à droite, est à remplir par *le chef de projet*. Le chef de projet évalue le logiciel en fonction de la mesure dans laquelle le logiciel répond à ces critères. La plus mauvaise valeur est placée dans l'intervalle (0% - 20%), et la meilleure valeur est placée dans l'intervalle (80% - 100%).
 
 === 6.1.Les critères retenus pour la matrice  
 
 * *Séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles :* 
 
-Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en annonçant au client le type de mise à jour auquel chaque mise à jour est destinée (mise à jour corrective, mise à jour évolutive). Car les mises à jour correctives sont indispensables et souvent légères. Au contraire, les mises à jour évolutives ne sont pas indispensables et lourdes.
+Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en annonçant au client le type de mise à jour auquel chaque mise à jour est destinée (mise à jour corrective, mise à jour évolutive). Car les mises à jour correctives sont indispensables et souvent légères. Au contraire, les mises à jour évolutives ne sont pas indispensables et lourdes. Donc, l'utilisateur a le choix d'accepter les mises à jours de sécurité et d'accepter ou réfuser les mises à jour fonctionnelles.
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
 
