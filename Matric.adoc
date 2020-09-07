@@ -16,8 +16,8 @@ Ces notes :
 * *4* -> 60 - 80% -> le logiciel est *Très bien*. 
 * *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
-Pour réaliser cette matrice, je l'ai divisée en deux parties.  La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
-La deuxième, à droite, à remplir par *le chef de projet*.
+Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leur type et leur poids.
+La deuxième, à droite, à remplir par *le chef de projet*. 
 
 Pour le type de critères, j'ai choisi trois types : 
 
