@@ -5,23 +5,21 @@
 [#Illustrations]
 == 5.Illustrations pratiques ///reste à faire///
 
-L'optimisation du code est une composante clé de la conception et du développement. C'est donc une clé pour répondre à la problématique mal conçus et mal développés.
+L'optimisation du code est une composante clé de la conception et du développement. C'est donc un critère pour traiter la problématique dans une optique durabilité de logiciel mal conçu et mal développé.
 
 Dans ce paragraphe, je présente trois codes qui calculent la séquence de Fibonacci, en montrant le "code éco-conçu", le "code non optimisé" et le "code du pire cas".
 
 === 5.1.Cas d'un calcul de Fibonacci
 
-Soit un logiciel permettant de calculer et afficher la valeur de la position une suite de Fibonacci. 
+Soit un logiciel permettant de calculer et afficher la valeur de la position d'une suite de Fibonacci. 
 
 ==== 5.1.1.Etape de conception
 
 Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
 
-Entre traitement récurssif / monothread / etc. + faire mesure wattmètre / décibelmètre.footnote:[ceci est une note de bas de page] ///reste à faire///
-
 ==== 5.1.2.Etape de développement
 
-Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
+Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, il bascule en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
 
 fibonacci.py
 ----
