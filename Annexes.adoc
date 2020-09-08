@@ -411,7 +411,7 @@ image::Annees-d-experience-en-materes-de-programmation.jpg[Années d'experience 
 
 .Langage de programmaion le plus competent
 [caption="Figure 6: "]
-image::Langage-de-programmaion-le-plus-competent.jpg[.Langage de programmaion le plus competent]
+image::Langage-de-programmation-le-plus-competent.jpg[.Langage de programmaion le plus competent]
 
 
 .Développer logiciels / applications pour smartphones
