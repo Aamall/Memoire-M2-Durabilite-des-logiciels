@@ -241,9 +241,7 @@ C’est plutôt le logiciel qui fait vieillir le matériel. Le logiciel a un imp
 
 *Qu'entendons-nous par "logiciel obèse" ?*
 
-En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. 
-
-Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
+En théorie, un logiciel s'il a été bien conçu peut durer éternellement. Sauf après, s’il a été mal conçu, on dit qu’il est un logiciel obèse. Par exemple, un site web a été conçu d'abord sur ordinateur , et puis les commerciaux veulent qu'ils marchent aussi sur téléphone, donc ils rajoutent des lignes de code nécessaires, du poids, des requêtes et de ne pas optimiser le code, donc, au fer au mesure le logiciel va être plus en plus plus gros, plus compliqué ! Donc, tu oblige de repartir de zéro. Globalement un logiciel bien éco-conçu est simple et édifié avec des bonnes règles de codes.
 
 N.B. Greenwashing : aussi nommé écoblanchiment ou verdissage, est un procédé de marketing ou de relations publiques utilisé par une organisation (entreprise, administration publique nationale ou territoriale, etc.) dans le but de se donner une image de responsabilité écologique trompeuse. La plupart du temps, les dépenses consenties concernent davantage la publicité que de réelles actions en faveur de l'environnement et du développement durable. Wikipédia (https://fr.wikipedia.org/wiki/Greenwashing).
 
