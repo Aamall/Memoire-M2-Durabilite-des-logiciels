@@ -168,11 +168,6 @@ Ce critère signifie si le logiciel est bien développé, et si le code est bien
 [caption="Figure 3: "]
 image::Matrice.jpg[Matrice]
 
-
-Impact fort sur l'utilisation de la batterie;TRILEAN;Utilisation; -> travail futur
-
-Empriente résiduelle;POURCENTAGE;Intégration;  -> travail futur
-
 === 6.2.Cas Pratiques de la matrice
 
 Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
