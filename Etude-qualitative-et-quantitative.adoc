@@ -3,11 +3,23 @@
 
 == 4.Etude qualitative et quantitative
 
-=== 4.1.Etude qualitative : Interviews ///reste à faire///
+=== 4.1.Etude qualitative : Interviews
 
-Le choix des profils à interviewer a été basé sur des personnes qui travaillent dans le département R&D de RTE, et des personnes qui sont des experts GreenIT dans le département DSIT.
+Le choix des profils à interviewer s’est porté sur sept experts travaillant chez RTE dans les départements R&D et DSIT.
 
-Étant dans une phase d'état de l'art, les questions posées étaient aussi ouvertes que possible afin de favoriser la collecte d'informations sans restreindre la personne interrogée. Les personnes interrogées n'ont pas eu accès aux questions au préalable afin d'obtenir les réponses les plus sincères possibles. Les premières questions portaient sur le concept de recherche scientifique et de GreenIT, mais aussi sur la définition de la durabilité des logiciels et les critères qui, selon eux, rendent les logiciels plus durables.
+Les interviews ont eu lieu au début des travaux de ce mémoire, et les questions posées étaient assez ouvertes afin de couvrir autant des aspects liés à la problématique soulevée que possible. 
+
+Les interviews étaient riches en informations utiles permettantes de constituer et de solidifier l’axe de recherche, et de mettre l’accent sur les points essentiels à évoquer lors de traitement du sujet de Green-IT.
+
+Durant ses interviews, plusieurs définitions des concepts du Green-IT ont été clarifiées, et plusieurs critères substantiels à optimiser la performance des logiciels ont été déterminés afin de visualiser leurs impacts sur la durabilités sur ces derniers.
+
+Selon M. VILLEMON, la définition de Green-IT se base sur la recherche des solutions les plus respectueuses de l’environnement et les intégrer dans la stratégie de l’entreprise afin de diminuer au maximum son empreinte environnemental. Le concept de Green-IT contient toutes les solutions disponibles pour objectif de protéger l’environnement et ouvre la porte devant les solutions innovantes, tout en respectant les objectifs principaux fixés par la stratégie de l’entreprise.
+L’accent a été mis, d’après l’avis des experts, sur l’importance du concept d’Éco-conception, qui forme un des facteurs les plus fondamentaux en ce qui concerne la durabilité des logiciels. Cette dernière est ciblée par l’Éco-conception, selon sa définition, en deux voies : la première se base sur la pertinence de concentrer uniquement sur les besoins d’utilisateur, et par conséquent, de limiter les fonctionnalités mises en place, afin de diminuer l’espace occupé par le logiciel dans le dispositif de stockage. La deuxième voie cible les buts de la durabilité des logiciels, en poussant les développeurs à optimiser les algorithmes et les fonctions programmées mises en ouvres pour viser la sobriété des logiciels et les rendre Green.
+De ce qui précède, la durabilité des logiciels peut être définie en tant que ce concept, qui insiste les développeurs à mieux coder leurs logiciels afin que ces derniers optimisent autant que possible la consommation de l’énergie et les ressources matériels disponibles, sans amener à la nécessité de remplacer ces ressources ou d’en ajouter des nouveaux, ce qui faire durer les équipements informatiques et les rendre plus respectueux envers l’environnement, notamment ceux disponibles à la portée des utilisateurs, nommés couramment des "Terminaux". 
+
+Le concept de la durabilité des logiciels est assez récent et peu courant. Il est primordial d’appliquer les principes de ce concept, qui manifeste une importance exceptionnelle pour protéger l’environnement. L’application de ces principes, en passant par la bonne méthodologie avec ses bonnes méthodes, n’est pas une simple question. Plusieurs contraintes, auxquelles l’animateur du projet de Green-IT doit bien réfléchir, se posent dès le premier moment. Ainsi, le fait de mettre en place en tel projet nécessite des efforts de travail conséquents, sans oublier que les fruits à récolter à la fin méritent ces efforts.
+
+Jusqu’à le moment d’écriture de ce mémoire, les outils testants l’application des principes la durabilité des logiciels n’ont été appliqué que dans le cas des sites web. Des exemples de ces outils sont donnés dans le chapitre <<Illustrations>> dans l’objectif d’illustrer ces outils.
 
 === 4.2.Etude quantitative : Présentation du questionnaire
 
