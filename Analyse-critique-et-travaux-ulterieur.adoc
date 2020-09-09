@@ -1,15 +1,17 @@
 <<<
 
-== 7. Critiquer le travail ///reste à faire///
+== 7.Analyse critique et travaux ultérieur
 
-Ce paragraphe présentera la critique de mon travail.
+=== 7.1.Critiquer le travail 
 
-* J'ai choisi le thème "Green-IT" comme sujet de recherche. J'ai fait les recherches pour trouver une problèmatique pour ce mémoire. Au début, j'ai posé le problème suivant : * Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement ?* 
+Dans le but d'améliorer la qualité de ce mémoire, j'ai évalué mon travail en établissant une autocritique, qui sera présentée dans ce paragraphe, ainsi que mes pensées pour le future travail en cas si quelqu’un veut poursuivre les résultats issus de mes travaux.
+En réfléchissant autour du thème de recherche choisi, le *Green-IT*, j'ai posé, au début, la problématique suivante : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement?*.
 
-Mais ensuite, j'ai trouvé mieux de changer la formule de la problèmatique pour *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?*
+Cette problématique traite le fait que le logiciel, par son exploitation, fait vieillir l’appareil informatique au sens physique, ce qui le rend bien usé et le met en décharge. 
 
-* D'après mes recherches et les interviews que j'ai réalisés, le logiciel ne vieillit pas le matériel et le rend inutile. Au contraire, le logiciel provoque un renouvellement prématuré du terminal, malgré son bon état et sa capacité à fonctionner pendant plusieurs années.
+Mais, pour objectif de mieux contextualiser le sujet de recherche, j'ai reformulé la problématique afin qu'elle soit : *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux?*. Cela m’a permis de bien structurer mon travail et le plan de recherche, et m’a laissé réfléchir à tous les aspects pertinents, comme celui qui traite si le logiciel, par sa complexité et sa mal conception, raccourcit la durée de vie supposée par le fabricant de l’appareil informatique. 
 
-Lorsque j'ai publié le questionnaire, j'ai fixé certains critères qui rendent le logiciel plus durable ou non. Parmi ces critères, il y avait les deux critères suivants : *Usage intensif du CPU* et *Usage intensif du Mémoire*. Mais lorsque j'ai rassemblé les critères pour les mettre dans ma matrice, j'ai décidé de mettre tous les critères dans un cas positif.
+Une bonne partie du mémoire a été consacrée à établir une matrice permettant aux chefs de projets de tester la durabilité de leurs logiciels. Cette matrice a été fondée sur les résultats issus des interviews avec des experts, ainsi d’un questionnaire publié sur le web via mon réseau professionnel. Ce questionnaire contenait deux types des critères : positifs et négatifs rendant le logiciel plus ou moins durable. Lorsque je construisais la matrice, j’ai trouvé qu’il serait plus adapté si tous les critères ont été posés dans le sens positif, selon le degré de leur positivité par rapport à la durabilité des logiciels. Donc, et par exemple, j’ai reformulé deux critères : l’*Usage intensif du CPU*, et l’*Usage intensif de la mémoire*, posés initialement au sens négatif, afin qu’ils soient posés au sens positif comme les autres critères en leur accordant une note selon leur position par rapport à l’échelle de la durabilité des logiciels.
 
-* En ce qui concerne ma matrice, j'ai rassemblé les critères de manière théorique. Mais il est préférable de faire un test particulier pour chaque critère séparément. De cette façon, nous pouvons déterminer l'importance de chaque critère qui rend le logiciel plus durable ou non. 
+=== 7.2.Travaux d'avenir
+
