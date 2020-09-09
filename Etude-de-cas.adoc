@@ -3,7 +3,7 @@
 <<<
 
 [#Illustrations]
-== 5.Illustrations pratiques ///reste à faire///
+== 5.Étude de cas : Illustrations pratiques ///reste à faire///
 
 L'optimisation du code est une composante clé de la conception et du développement. C'est donc un critère pour traiter la problématique dans une optique durabilité de logiciel mal conçu et mal développé.
 
