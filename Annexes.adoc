@@ -45,7 +45,7 @@ on constate ce que le renouvellement des équipements informatiques, n'est pas l
 
 C'est lié au fait que les systèmes d'exploitation, les applications deviennent énormes et donc le matériel n'est plus adapté pour faire tourner des logiciels. on parle de *logiciels obèses*.
 
-La solution pour éviter ça, c'est d'éco-concevoir le logiciel. On fait en sorte d'utiliser plus longtemps le matériel (qui soient dans data-center, qui soient aussi avec les utilisatuers). C'est dans ce cycle là que se positionne l'éco-conception logiciel.
+La solution pour éviter ça, c'est d'éco-concevoir le logiciel. On fait en sorte d'utiliser plus longtemps le matériel (qui soient dans data-center, qui soient aussi avec les utilisateurs). C'est dans ce cycle là que se positionne l'éco-conception logiciel.
 
 Vous avez vu qu'il y avait un guide qui existe, ce qui existe aussi, c'est de l'outillage pour pouvoir mesurer le poids d'une application web, quelles sont ses défauts, les améliorations que l'ont peut apporter sur un site web ?
 
