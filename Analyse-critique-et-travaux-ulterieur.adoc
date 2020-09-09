@@ -13,5 +13,10 @@ Mais, pour objectif de mieux contextualiser le sujet de recherche, j'ai reformul
 
 Une bonne partie du mémoire a été consacrée à établir une matrice permettant aux chefs de projets de tester la durabilité de leurs logiciels. Cette matrice a été fondée sur les résultats issus des interviews avec des experts, ainsi d’un questionnaire publié sur le web via mon réseau professionnel. Ce questionnaire contenait deux types des critères : positifs et négatifs rendant le logiciel plus ou moins durable. Lorsque je construisais la matrice, j’ai trouvé qu’il serait plus adapté si tous les critères ont été posés dans le sens positif, selon le degré de leur positivité par rapport à la durabilité des logiciels. Donc, et par exemple, j’ai reformulé deux critères : l’*Usage intensif du CPU*, et l’*Usage intensif de la mémoire*, posés initialement au sens négatif, afin qu’ils soient posés au sens positif comme les autres critères en leur accordant une note selon leur position par rapport à l’échelle de la durabilité des logiciels.
 
-=== 7.2.Travaux d'avenir
+=== 7.2.Travaux d'avenir ///reste à faire///
 
+Les travaux effectués de ce mémoire ont été réalisés en s’appuyant sur une base théorique. Les critères fondants la matrice ont été rassemblés théoriquement en s’appuyant sur les résultats issus des interviews et du questionnaire, ainsi que de la lecture littéraire. Donc, il est préférable que les travaux d’avenir profiteront d’un moyen pratique afin d’évaluer la pertinence des critères et leurs impacts sur la durabilité des logiciels, en testant chaque critère sépérament. Comme avoir mentionné précédemment, il n’existe que des outils de test de durabilité destinés uniquement aux sites web, ce qui insiste d’avoir des outils de test de durabilité destiné aux logiciels implantés sur tous les appareils informatiques, tel que les smartphones et les ordinateurs. 
+La matrice, par son importance, forme une bonne base d’évaluation de la durabilité des logiciels, ce qui la rend méritée d’être codée et convertie en logiciel permettant aux chef de projets d’évaluer à quelle point leur logiciel est Green.
+
+Impact fort sur l’utilisation de la batterie;TRILEAN;Utilisation; → travail futur
+Empriente résiduelle;POURCENTAGE;Intégration; → travail futur
