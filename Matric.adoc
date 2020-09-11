@@ -144,7 +144,7 @@ Ce critère insiste sur l'importance de la sobriété des algorithmes et de la m
 
 Ce critère a été difinie par l'interview <<Annexe?>>.
 
-Si la conception ne se concentre pas uniquement sur les besoins, le logiciel sera obèse. Le dernier prendra donc beaucoup d'espace. Ainsi, le logiciel utilisera plus de ressources matérieles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
+La conception doit se concentrer sur les besoins pour éviter de rendre le logiciel "obèse". Ce dernier prendra beaucoup d'espace si il embarque de code inutile (exemple typique du développeur qui copie du code source en provenance de Stack Overflow). Ainsi, le logiciel utilisera plus de ressources matérieles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
 
 * *Pourcentage d'utilisation d'Open Source :*
 
@@ -206,7 +206,7 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes :
 
 * 13ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
 
-* 14ème critère a obtenu la valeur 40 - 60% : 
+* 14ème critère a obtenu la valeur 40 - 60% : Les développeurs d'Éco2mix n'utilisent pas encore l'optimisation de compilateur, mais l'interview leur a permis d'indentifer ce critère pour l'avenir.
 
 * 15ème critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il ne utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
 
@@ -251,8 +251,8 @@ Dans un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dan
 
 Ces recommandations constituent la première étape dans l'amélioration des performances environnementales d'Eco2mix. Les résultats de ce test montrent l'importance de ma matrice issue des travaux de ce mémoire.
 
-Après faire le test, j'ai montré les résultats et mes recommandation au chef de projet d'Éco2mix, et voici son avis : 
+Après avoir derouler l'interview du chef de projet, j'ai commuinqué les résultats et mes recommandations. Voici son retour : 
 
-"J’ai trouvé le test utile, il m’a permis de cerné les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
+"J’ai trouvé le test utile, il m’a permis de cerner les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
 
-Je pense que le résultat du test correspond assez bien à la place d’éCO₂mix sur une échelle de durabilité. La matrice permet de connaître les axes d’amélioration. Certains sont plus ou moins simple à mettre en œuvre(type de programmation), ou non adapté (mode nuit), tandis que d’autres constituent de vrais indices (taille du binaire par exemple)."
+Je pense que le résultat du test correspond assez bien à la place d’Éco2mix sur une échelle de durabilité. La matrice permet de connaître les axes d’amélioration. Certains sont plus ou moins simple à mettre en œuvre(type de programmation), ou non adapté (mode nuit), tandis que d’autres constituent de vrais indices (taille du binaire par exemple)."
