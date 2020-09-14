@@ -94,11 +94,11 @@ D'autre part, si le code Python ci-dessus est configuré en mode non cache (Lign
 
 ==== 5.1.3.Etape d'utilisation
 
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
 ==== 5.1.4.Etape de suppression
 
-Non Applicable dans ce cas plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
 
 === 5.2.Cas d'un test de sites web : 
@@ -192,7 +192,7 @@ image::Sncf-ecometer-2.png[Test de SNCF sur ÉcoMeter]
 [caption="Figure 18: "]
 image::Sncf-ecometer-3.png[Test de SNCF sur ÉcoMeter]
 
-Le logiciel "GTmetrix", selon ses critères, a placé le site web de la SNCF dans la catégorie "D" avec une performance environnementale s'élève jusqu'à 64%.
+Le logiciel "GTmetrix", selon ses critères, a placé le site web de la SNCF dans la catégorie "D" avec une performance environnementale s'élevant jusqu'à 64%.
 
 Les résultats de test "GTmetrix" : 
 
@@ -288,7 +288,7 @@ image::wickret-ecometer-2.png[Test de Wickret sur ÉcoMeter]
 [caption="Figure 34: "]
 image::wickret-ecometer-3.png[Test de Wickret sur ÉcoMeter]
 
-Le site web Wickret s'est achevé un score de performance élevé "A" (97%) selon le test du logiciel "GTmetrix".
+Le site web Wickret s'est achevé avec un score de performance élevé "A" (97%) selon le test du logiciel "GTmetrix".
 
 Les résultats de test "GTmetrix" : 
 
