@@ -7,7 +7,7 @@
 
 Le choix des profils à interviewer s’est porté sur sept experts travaillant chez RTE dans les départements R&D et DSIT.
 
-Les interviews ont eu lieu au début des travaux de ce mémoire, et les questions posées étaient assez ouvertes afin de couvrir autant des aspects liés à la problématique soulevée que possible. 
+Les interviews ont eu lieu au début des travaux de ce mémoire, et les questions posées étaient assez ouvertes afin de couvrir autant que possible des aspects liés à la problématique soulevée.
 
 Les interviews étaient riches en informations utiles permettantes de constituer et de solidifier l’axe de recherche, et de mettre l’accent sur les points essentiels à évoquer lors de traitement du sujet de Green-IT.
 
