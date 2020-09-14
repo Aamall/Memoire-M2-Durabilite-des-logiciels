@@ -240,7 +240,7 @@ image::discoverylandco-ecometer-2.png[Test de Discovery Land Company sur ÉcoMet
 [caption="Figure 26: "]
 image::discoverylandco-ecometer-3.png[Test de Discovery Land Company sur ÉcoMeter]
 
-Par suite des critères du logiciel "GTmetrix", le site web du Discovery Land Company a eu le grade "C" dans le score de performance (75%).
+Le site web du Discovery Land Company a eu le grade "C" dans le score de performance (75%), selon les critères du logiciel "GTmetrix".
 
 Les résultats de test "GTmetrix" : 
 
