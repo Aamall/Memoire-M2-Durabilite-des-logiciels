@@ -31,13 +31,13 @@ La deuxième, à droite, est à remplir par *le chef de projet*. Le chef de proj
 
 * *Séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles :* 
 
-Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en donnant au client le choix d'accepter les mises à jours de sécurité et d'accepter ou réfuser les mises à jour fonctionnelles. Car les mises à jour de sécurité sont indispensables pour le bon déroulement du logiciel, contrairement aux mises à jour fonctionnelles, qui, par leur tour, sont facultativs.
+Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en donnant au client le choix d'accepter les mises à jours de sécurité et d'accepter ou réfuser les mises à jour fonctionnelles. Car les mises à jour de sécurité sont indispensables pour le bon déroulement du logiciel, contrairement aux mises à jour fonctionnelles, qui sont facultativs.
 
-Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
+Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de la *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
 
 * *Lazy loading :*
 
-Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin. Cela signifie que le logiciel ne consomme de l'énergie et de l'appel réseau concernant ces dépendances que lorsqu'il est nécessaire, ce qui reflète l'évaluation du Green de ce critère.
+Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'il en a besoin. Cela signifie que le logiciel ne consomme de l'énergie et de l'appel réseau concernant ses dépendances que lorsqu'il est nécessaire, ce qui reflète l'évaluation du Green de ce critère.
 
 Ce critère est parmi ceux ajoutés selon ma propre expérience en ce qui concerne le sujet de *Durabilité des logiciels*.
 
@@ -45,29 +45,29 @@ Ce critère est parmi ceux ajoutés selon ma propre expérience en ce qui concer
 
 * *Programmation Orienté Objet vs Programmation Fonctionnelle :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. Selon l'avis des experts, la programmation orientée objet est plus légère et rapide que la programmation fonctionnelle. Puisqu'elle ne utilise que les objets nécessaires à réaliser les fonctionnalitiés attendues. Ce qui limite l'utilisation des ressources matériels au minimum. Par conséquent, la programmation orientée objet est plus préservante de l'environnement.
+Ce critère a été défini par l'interview <<Annexe?>>. Selon l'avis des experts, la programmation orientée objet est plus légère et rapide que la programmation fonctionnelle puisqu'elle n'utilise que les objets nécessaires à réaliser les fonctionnalitiés attendues. Ce qui limite l'utilisation des ressources matérielles au minimum. Par conséquent, la programmation orientée objet est plus préservante de l'environnement.
 
-*Programmation orientée Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce qui précède, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des réels éléments sous forme virtuelle se passe durant cette étape. <<S>>
+*Programmation orientée Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce fait, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des éléments réels sous forme virtuelle se passe durant cette étape. <<S>>
 
 *Programmation Fonctionnelle* :  est un modèle de programmation de type déclaratif et se concentre sur la notion des fonctions. Le calcul est considéré comme une évaluation des fonctions mathématiques dans ce modèle, ce qui veut dire que tous les éléments sont définies comme des fonctions et le code s'exécute par des appels successifs des fonctions . <<T>>
 
 * *Cloud Synchronisation :* 
 
-Le cloud se définit par la mise en disposition des ressources informatiques utilisables depuis toutes les types terminales via l'internet. 
+Le cloud se définit par la mise à disposition des ressources informatiques utilisables depuis tous les types de terminaux via l'internet. 
 
-D'après ma propre expérience, ce critère a été ajouté suite à la pose de la question : *Est-ce le cloud est green?*
+D'après ma propre expérience, ce critère a été ajouté suite à cette question posée: *Est-ce-que le cloud est green?*
 
-Comme mentionné dans l'état de l'art, (page à ajouter), les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Sachant que les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *obèse*.
+Comme mentionné dans l'état de l'art, les terminaux que nous utilisons génèrent des impacts environnementaux et sociaux très importants, non seulement en termes de fabrication, mais aussi en termes d'utilisation et de fin de vie. Les entreprises utilisent le cloud pour stocker leurs données et permettre à leurs employeurs de travailler à distance.  Cela nécessite donc une forte augmentation des besoins en matériel pour sauvegarder les données, généralement accompagnée d'attentes élevées en termes de sécurité, ce qui se traduit par une infrastructure physique surdimensionnée. De plus, les déploiements de sécurité des données, l'illusion d'une capacité infinie, encourage l'informatique débridée *obèse*.
 
 Toutefois, il existe sans aucun doute une utilisation éclairée du cloud !
 
-Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT, illustre que le Cloud n’est pas la panacée à la problématique environnementale du stockage et l’utilisation de données numériques. Disponible sur : https://www.dailymotion.com/video/x2hntue
+Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT qui illustre que le Cloud n’est pas la panacée à la problématique environnementale du stockage et l’utilisation de données numériques. Disponible sur : https://www.dailymotion.com/video/x2hntue
 
 * *Fichier VS Base De Données :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-La structure logicielle du fichier est simple est sobre. Par contre, la structure logicielle de la base de donnée est plus compliquée et costaude. Ainsi, et afin de moins utiliser de l'énergie au but de préserver l'environnement, la structure logicielle de la base de donnée doit être simple et organisée de manière facilitante les requêtes.
+La structure logicielle du fichier est simple et sobre. Par contre, la structure logicielle de la base de donnée est plus compliquée et costaude. Ainsi, et afin de moins utiliser de l'énergie au but de préserver l'environnement, la structure logicielle de la base de donnée doit être simple et organisée de manière à faciliter les requêtes.
 
 * *Stockage Réseau VS Local :*
 
@@ -88,13 +88,13 @@ Ce critère a été défini par l'interview <<Annexe?>>.
 
 Ce critère indique le type utilisé du langage de programmation : Compilé ou Interprété.
 
-À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète, ce qui complique la procédure et consomme plus d'énergie. De ce qui précède, le langage compilé est plus favorable en faveur des exigences environnementales.
+À partir de la définition de chaque langage, le langage compilé est plus rapide et traduit le code directement en langage machine. Alors que le langage interprété a besoin d'un interprète, ce qui complique la procédure et consomme plus d'énergie. Ainsi, le langage compilé est plus favorable en faveur des exigences environnementales.
 
-* *Travail en arrière paln :* 
+* *Travail en arrière plan :* 
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de *Durabilité des logiciels*.
 
-Ce critère indique si le logiciel contient des composants qui fonctionnent en arrière paln, c'est-à-dire si le logiciel fonctionne lorsqu'il n'est pas utilisé par l'utilisateur. En effet, un tel logiciel consomme de l'énergie, même s'il est dans un cas inactif. Ce qui annonce que ce critère rend le logiciel moins Green.
+Ce critère indique si le logiciel contient des composants qui fonctionnent en arrière plan, c'est-à-dire si le logiciel fonctionne lorsqu'il n'est pas utilisé par l'utilisateur. En effet, un tel logiciel consomme de l'énergie, même s'il est dans un cas inactif. Ce qui annonce que ce critère rend le logiciel moins Green.
 
 * *Lancer automatiquement au démarrage par défaut :*
 
@@ -106,7 +106,7 @@ Ce critère signifie que les dépendances de logiciel fonctionnent directement p
 
 Ce critère a été défini par le questionnaire avec un pourcentage de 43.5%.
 
-D'après l'avis d'experts, le mode nuit s'est avéré moins consommateur d'énergie. Ainsi, son utilisation prolonge la vie de la batterie, au contraire, de l'utilisation du mode jour.
+D'après l'avis d'experts, le mode nuit s'est avéré moins consommateur d'énergie. Ainsi, son utilisation prolonge la vie de la batterie, contrairement à l'utilisation du mode jour.
 
 * *Optimiser l'utilisation du CPU :*
 
@@ -118,51 +118,51 @@ Ce critère indique le nombre d'accès au CPU. Plus le nombre d'accès au CPU es
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère signifie que si les développeurs ont amélioré des algorithmes déjà existantes, pour améliorer leurs performances en les rendant plus sobres. L'objectif est de diminuer l'utilisation des ressources matérielles et de la consommation d'énergie. Cela rend le logiciel plus Green.
+Ce critère signifie que les développeurs ont amélioré des algorithmes déjà existantes, pour améliorer leurs performances en les rendant plus sobres. L'objectif est de diminuer l'utilisation des ressources matérielles et la consommation d'énergie. Cela rend le logiciel plus Green.
 
 * *Optimiser les instructions de code ( Action compilateur) :*
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère détermine si le compilateur, par son amélioration de l'algorithme sans besoin de l'intervention des developpeurs, rend la procédure d'exécution du logiciel est plus green.
+Ce critère détermine si le compilateur, par son amélioration de l'algorithme sans besoin de l'intervention des developpeurs, rend la procédure d'exécution du logiciel plus green.
 
-Ce critère signifie que si le compilateur a amélioré l'algorithme sans l'intervention des développeurs.
+Ce critère signifie que le compilateur a amélioré l'algorithme sans l'intervention des développeurs.
 
 * *Taux I/O RAM VS Disque Dur :* 
 
 Ce critère a été défini par l'interview <<Annexe?>>. 
 
-Ce critère indique le nombre d’accès au RAM et au disque dur. Après avoir consulté l'avis des experts, il est apparent que le disque dur consomme plus d'énergie que le RAM, ce qui rend l'optimisation de l'utilisation du disque dur favorable en faveur de la protéction de l'environnement.
+Ce critère indique le nombre d’accès au RAM et au disque dur. Après avoir consulté l'avis des experts, il est apparu que le disque dur consomme plus d'énergie que le RAM, ce qui rend l'optimisation de l'utilisation du disque dur favorable de la protection de l'environnement.
 
 * *Optimiser l'utilisation de la Mémoire :*
 
 Ce critère a été défini après avoir obtenu un pourcentage de 21.7%  dans le questionnaire. 
 
-Ce critère insiste sur l'importance de la sobriété des algorithmes et de la manière dont le logiciel a été programmé, afin de préserver l'environnement. Plus les algorithmes et la manière de prgrammation sont simples et efficaces, moins le logiciel a besoin d'accès à la mémoire, et moins il cosomme de l'énergie.
+Ce critère insiste sur l'importance de la sobriété des algorithmes et de la manière dont le logiciel a été programmé, afin de préserver l'environnement. Plus les algorithmes et la manière de programmation sont simples et efficaces, moins le logiciel a besoin d'accès à la mémoire, et moins il consomme de l'énergie.
 
-* *Binaire qui prend de l'espace :* /// reste à faire ///
+* *Binaire qui prend de l'espace :*
 
 Ce critère a été difinie par l'interview <<Annexe?>>.
 
-La conception doit se concentrer sur les besoins pour éviter de rendre le logiciel "obèse". Ce dernier prendra beaucoup d'espace si il embarque de code inutile (exemple typique du développeur qui copie du code source en provenance de Stack Overflow). Ainsi, le logiciel utilisera plus de ressources matérieles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
+La conception doit se concentrer sur les besoins pour éviter de rendre le logiciel "obèse". Ce dernier prendra beaucoup d'espace si il embarque de code inutile (exemple typique du développeur qui copie du code source en provenance de Stack Overflow). Ainsi, le logiciel utilisera plus de ressources matérielles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
 
 * *Pourcentage d'utilisation d'Open Source :*
 
 Ce critère a été ajouté par ma propre expérience et approuvé par le questionnaire avec un pourcentage de 13%.
 
-Ce critère signifie si le logiciel est développé en Open-source ou pas. Son avantage réside dans la capacité des utilisateurs à utiliser le logiciel sans être dépendants de l'éditeur et ses mises à jours. Ces mises à jours rendent souvent les anciens appareils informatiques obsolètes, ce qui nécessite d'en acheter des nouveaux. La capacité des utilisateurs à utiliser des logiciels d'Open-source, à les améliorer, et à les modifier, leur permet de prolonger la durée du vie de leurs appareils informatiques, et par conséquent de protéger l'environnement.
+Ce critère signifie que le logiciel est développé en Open-source ou pas. Son avantage réside dans la capacité des utilisateurs à utiliser le logiciel sans être dépendants de l'éditeur et ses mises à jours. Ces mises à jours rendent souvent les anciens appareils informatiques obsolètes, ce qui nécessite d'en acheter des nouveaux. La capacité des utilisateurs à utiliser des logiciels d'Open-source, à les améliorer, et à les modifier, leur permet de prolonger la durée du vie de leurs appareils informatiques, et par conséquent de protéger l'environnement.
 
 * *Bugs :*
 
 Ce critère a été défini par le questionnaire avec un pourcentage de 20%.
 
-Ce critère signifie si le logiciel comporte beaucoup de bugs, et s'il nécessite une maintenance régulière. Dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. Cela a été bien clarifié selon le premier critère.
+Ce critère signifie que le logiciel comporte beaucoup de bugs, et s'il nécessite une maintenance régulière. Dans ce cas, le logiciel doit être mis à jour régulièrement. Ce dernier rend le logiciel plus obèse, donc plus obsolète. Cela a été bien clarifié selon le premier critère.
 
 * *La mauvaise lisibilité du code pour mieux l’appréhender ( Évolution correction) :*
 
 Suite à la réflexion au sujet de la "Durabilité des logiciels", ce critère est apparu utile à être join aux critères de durabilité selon ma propre expérience.
 
-Ce critère signifie si le logiciel est bien développé, et si le code est bien écrit de manière claire. Cela facilite l'évolution par les développeurs et l'exécution par le compilateur.
+Ce critère signifie que le logiciel est bien développé, et que le code est bien écrit de manière claire. Cela facilite l'évolution par les développeurs et l'exécution par le compilateur.
 
 .Matrice 
 [caption="Figure 3: "]
@@ -176,9 +176,9 @@ Afin de valider la bonne conception de la matrice, un cas pratique concernant le
 
 J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
 
-Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois en France entier et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramétres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, on aussi étaient inclus dans cette application.
+Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois dans toute la France et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus. Elle a pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramètres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, ont aussi été inclus dans cette application.
 
-La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes : 
+La discussion avec M. GALANTE-GRAS a conclu les résultats suivants : 
 
 * 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
@@ -208,11 +208,11 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivantes :
 
 * 14ème critère a obtenu la valeur 40 - 60% : Les développeurs d'Éco2mix n'utilisent pas encore l'optimisation de compilateur, mais l'interview leur a permis d'indentifer ce critère pour l'avenir.
 
-* 15ème critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il ne utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
+* 15ème critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il n'utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
 
-* 16ème critère a obtenu la valeur 60 - 80% : Éco2mix a obteun cette valeur grâce au fait qu'il n'utilise pas beaucoup la mémoire.
+* 16ème critère a obtenu la valeur 60 - 80% : Éco2mix a obtenu cette valeur grâce au fait qu'il n'utilise pas beaucoup la mémoire.
 
-* 17ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel largement léger, ainsi son espace binaire est 50Mo. 
+* 17ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel largement léger, ainsi son espace binaire est de 50Mo. 
 
 * 18ème critère a obtenu la valeur 0 - 20% : Éco2mix a obtenu cette valeur parce qu'il est développé en closed-source.
 
@@ -240,18 +240,18 @@ Pour cette catégorie Éco2mix est classé dans la catégorie *Très Bien* avec 
 
 ===== 6.2.1.3.Observations et Conclusion
 
-Dans un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dans l'aspect de conception et dans l'aspect de développement. Mon travail me permets de proposer ces recommandations pour améliorer la durabilité d'Éco2mix : 
+D'un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dans l'aspect de conception et dans l'aspect de développement. Mon travail me permets de proposer ces recommandations pour améliorer la durabilité d'Éco2mix : 
 
-* Il serait bien si Éco2mix fait la séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles et laisse au client la libérté de choisir le type de mise à jour à installer. 
-* Les développeurs ont tout l'intérêt de diminuer le nombre de requêtes avec le réseau, afin d'optimiser la performance environnementale d'Éco2mix.
-* La performance énergétique d'Éco2mix est affecté par le manque d'avoir le mode nuit / jour, ainsi, il est apparu utile de traiter cette aspect afin d'améliorer la performance d'Éco2mix.
+* Il serait bien pour Éco2mix de faire la séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles et de laisser au client la libérté de choisir le type de mise à jour à installer. 
+* Les développeurs ont tout intérêt à diminuer le nombre de requêtes avec le réseau, afin d'optimiser la performance environnementale d'Éco2mix.
+* La performance énergétique d'Éco2mix est affecté par le manque du mode nuit / jour, ainsi, il est apparu utile de traiter cette aspect afin d'améliorer la performance d'Éco2mix.
 * D'après le résultat de mon travail, il est apparu que le développement en open-source est plus convenable pour la durabilité des logiciels, en facilitant la maintenance, la modification et l'amélioration du code au niveau de sécurité ainsi que fonctionnelle.
-* Les développeurs sont invités à optimiser le code d'Éco2mix afin d'avoir moins de bugs, ce qui augmente sa performance environnemente.
-* Le code est écrit dans une mainère assez compliquée, ce qui forme l'intérêt de rendre le code plus facile à lire, à modifier et à améliorer.
+* Les développeurs sont invités à optimiser le code d'Éco2mix afin d'avoir moins de bugs, ce qui augmentera sa performance environnementale.
+* Le code est écrit d'une manière assez compliquée, ce qui renforce l'intérêt de le rendre plus facile à lire, à modifier et à améliorer.
 
 Ces recommandations constituent la première étape dans l'amélioration des performances environnementales d'Eco2mix. Les résultats de ce test montrent l'importance de ma matrice issue des travaux de ce mémoire.
 
-Après avoir derouler l'interview du chef de projet, j'ai commuinqué les résultats et mes recommandations. Voici son retour : 
+Après avoir deroulé l'interview du chef de projet, j'ai commuinqué les résultats et mes recommandations. Voici son retour : 
 
 "J’ai trouvé le test utile, il m’a permis de cerner les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
 
