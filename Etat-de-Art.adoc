@@ -403,4 +403,317 @@ Les résultats de l’étude indiquent que les sous-systèmes du RAM, de l’aud
 Les résultats de l’étude mentionnent que la puissance du RAM, dans certaines charges du travail, dépasse celle du CPU, mais dans des situations pratiques, la puissance du CPU dépasse celle du RAM d’un facteur de deux ou plus.
 
 Les résultats de l’étude mentionnent aussi que l’audio consomme une large portion de la consommation statique, de l’ordre de 28-34mW.
-Dans l’ensemble, selon l’étude, le RAM, l’audio, et la carte SD ont peu d'effet sur la consommation électrique de l'appareil et offrent donc peu de potentiel d'optimisation énergétique. 
+Dans l’ensemble, selon l’étude, le RAM, l’audio, et la carte SD ont peu d'effet sur la consommation électrique de l'appareil et offrent donc peu de potentiel d'optimisation énergétique.
+
+[#Illustrations]
+=== 3.5.Illustration pratique
+
+L'optimisation du code est une composante clé de la conception et du développement. C'est donc un critère pour traiter la problématique dans une optique de durabilité de logiciel mal conçu et mal développé.
+
+Dans ce paragraphe, je présente trois codes qui calculent la séquence de Fibonacci, en montrant le "code éco-conçu", le "code non optimisé" et le "code du pire cas".
+
+==== 3.5.1.Cas d'un calcul de Fibonacci
+
+Soit un logiciel permettant de calculer et afficher la valeur de la position d'une suite de Fibonacci. 
+
+===== 3.5.1.a.Etape de conception
+
+Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
+
+===== 3.5.1.b.Etape de développement
+
+Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, il bascule en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
+
+fibonacci.py
+----
+     1	#!/bin/python3
+     2	
+     3	def fibonacci(value):
+     4	    if value == 0:
+     5	        return 0
+     6	    elif value == 1:
+     7	        return 1
+     8	    else:
+     9	        return fibonacci(value - 1) + fibonacci(value - 2)
+    10	
+    11	def fibonacci(withCache, cache, value):
+    12	    # Get the result from cache if present
+    13	    if withCache and value in cache.keys():
+    14	        return cache[value]
+    15	
+    16	    if value == 0:
+    17	        result = 0
+    18	    elif value == 1:
+    19	        result = 1
+    20	    else:
+    21	        result = fibonacci(withCache, cache, value - 1) + fibonacci(withCache, cache, value - 2)
+    22	    
+    23	    # Update the cache
+    24	    if withCache:
+    25	        cache[value] = result 
+    26	
+    27	    return result
+    28	
+    29	if __name__ == '__main__':
+    30	    withCache = True
+    31	    cache = dict()
+    32	        
+    33	    i = 0
+    34	    while True:
+    35	        result = fibonacci(withCache, cache, i)
+    36	        print(f"F({i}) = {result}")
+    37	        i = i + 1
+----
+
+D'autre part, si le code Python ci-dessus est configuré en mode non cache (Ligne 30 : withCache = False) il reste récursif mais refait les calculs déjà effectués. Ce code n'est de fait pas optimisé. Cela conduit à rater l'optimisation énergétique. Prenons l'exemple d'une application Smartphone qui aurait besoin de calculer des termes de Fibonacci, la batterie serait endommagée par le code non optimisé.
+
+
+À titre d'illustration extrême je propose le code ci-dessous qui, si il était excuté, utiliserait *sans partage* l'intégralité des ressources matérielles du terminal. Il résulterait une consommation absurde de la batterie puisque ce code n'est ni récursif ni optimisé algorithmiquement.
+
+----
+     1 #!/bin/python3
+     2 from multiprocessing import Process
+     3 def fi(name):
+     4 print('hello', name)
+     5 def fibonacci(value):
+     6 if value == 0:
+     7 return 0
+     8 elif value == 1:
+     9 return 1
+     10 else:
+     11 return fibonacci(value - 1) + fibonacci(value - 2)
+     12 def print_fibonacci(value):
+     13 result = fibonacci(value)
+     14 print(f"F({i}) = {result}")
+     15 if name == '__main__':
+     16 processes = []
+     17 for i in range(0, 50):
+     18 p = Process(target=print_fibonacci, args=(i,))
+     19 processes.append(p)
+     20 p.start()
+     21 for p in processes:
+     22 p.join()
+----
+
+===== 3.5.1.c.Etape d'utilisation
+
+Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+
+===== 3.5.1.d.Etape de suppression
+
+Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+
+
+==== 3.5.2.Cas d'un test de sites web : 
+
+Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est Green ou non sur la base de plusieurs critères.
+
+À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test de quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
+
+===== 3.5.2.a.Site Google : 
+
+Les tests des trois logiciels pour le site web de Google montrent que le site a obtenu des bons résultats dans l'évaluation du Green.
+
+Selon les critères du logiciel "EcoIndex", le site web de Google a obtenu le grade "A", montrant ainsi son évaluation verte profitable. 
+
+Les résultats du test "ÉcoIndex" : 
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 5: "]
+image::Google-ecoIndex-1.png[Test de Google sur ÉcoIndex]
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 6: "]
+image::Google-ecoIndex-2.png[Test de Google sur ÉcoIndex]
+
+.Test de Google sur ÉcoIndex
+[caption="Figure 7: "]
+image::Google-ecoIndex-3.png[Test de Google sur ÉcoIndex]
+
+
+Google a acquis 11 des 15 meilleures pratiques testées, selon les critères du logiciel "ÉcoMeter" et son test, ce qui reflète sa performance environnementale avantageuse.
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 8: "]
+image::Google-ecometer-1.png[Test de Google sur ÉcoMeter]
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 9: "]
+image::Google-ecometer-2.png[Test de Google sur ÉcoMeter]
+
+.Test de Google sur ÉcoMeter
+[caption="Figure 10: "]
+image::Google-ecometer-3.png[Test de Google sur ÉcoMeter]
+
+Le site web de Google a passé le test du logiciel "GTmetrix" et ses critères avec un très bon score de performance "A" (95%).
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Google sur GTmetrix
+[caption="Figure 11: "]
+image::Google-GTmatrix-1.png[Test de Google sur GTmetrix]
+
+.Test de Google sur GTmetrix
+[caption="Figure 12: "]
+image::Google-GTmatrix-2.png[Test de Google sur GTmetrix]
+
+===== 3.5.2.b.Site SNCF : 
+
+L'évaluation de Green du site web de la SNCF, testée par les trois logiciel, a reçu une mauvaise note.
+
+La performance environnementale de la SNCF est classée dans la catégorie "E" sur "ÉcoIndex.
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 13: "]
+image::Sncf-ecoIndex-1.png[Test de SNCF sur ÉcoIndex]
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 14: "]
+image::Sncf-ecoIndex-2.png[Test de SNCF sur ÉcoIndex]
+
+.Test de SNCF sur ÉcoIndex
+[caption="Figure 15: "]
+image::Sncf-ecoIndex-3.png[Test de SNCF sur ÉcoIndex]
+
+Le site web de la SNCF n'a décroché que 4 des 15 meilleures pratiques testées selon les critères du logiciel "EcoMeter". 
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 16: "]
+image::Sncf-ecometer-1.png[Test de SNCF sur ÉcoMeter]
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 17: "]
+image::Sncf-ecometer-2.png[Test de SNCF sur ÉcoMeter]
+
+.Test de SNCF sur ÉcoMeter
+[caption="Figure 18: "]
+image::Sncf-ecometer-3.png[Test de SNCF sur ÉcoMeter]
+
+Le logiciel "GTmetrix", selon ses critères, a placé le site web de la SNCF dans la catégorie "D" avec une performance environnementale s'élevant jusqu'à 64%.
+
+Les résultats de test "GTmetrix" : 
+
+.Test de SNCF sur GTmetrix
+[caption="Figure 19: "]
+image::Sncf-GTmetrix-1.png[Test de SNCF sur GTmetrix]
+
+.Test de SNCF sur GTmetrix
+[caption="Figure 20: "]
+image::Sncf-GTmetrix-2.png[Test de SNCF sur GTmetrix]
+
+===== 3.5.2.c.Site Discovery Land Company : 
+
+Les tests des trois logiciels, selon leurs propres critères, ont donné une mauvaise note dans l'évaluation de Green du site web du Discovery Land Company.
+
+D'après les critères du logiciel "EcoIndex", le site web du Discovery Land Company a été classé dans la catégorie "E" sur l'échelle de la performance environnementale.
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 21: "]
+image::discoverylandco-ecoIndex-1.png[Test de Discovery Land Company sur ÉcoIndex]
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 22: "]
+image::discoverylandco-ecoIndex-2.png[Test de Discovery Land Company sur ÉcoIndex]
+
+.Test de Discovery Land Company sur ÉcoIndex
+[caption="Figure 23: "]
+image::discoverylandco-ecoIndex-3.png[Test de Discovery Land Company sur ÉcoIndex]
+
+Le site web du Discovery Land Company a seulement acquis 4 des 15 meilleures pratiques testées selon les critères du logiciel "EcoMeter".
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 24: "]
+image::discoverylandco-ecometer-1.png[Test de Discovery Land Company sur ÉcoMeter]
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 25: "]
+image::discoverylandco-ecometer-2.png[Test de Discovery Land Company sur ÉcoMeter]
+
+.Test de Discovery Land Company sur ÉcoMeter
+[caption="Figure 26: "]
+image::discoverylandco-ecometer-3.png[Test de Discovery Land Company sur ÉcoMeter]
+
+Le site web du Discovery Land Company a eu le grade "C" dans le score de performance (75%), selon les critères du logiciel "GTmetrix".
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Discovery Land Company sur GTmetrix
+[caption="Figure 27: "]
+image::discoverylandco-GTmatrix-1.png[Test de Discovery Land Company sur GTmetrix]
+
+.Test de Discovery Land Company sur GTmetrix
+[caption="Figure 28: "]
+image::discoverylandco-GTmatrix-2.png[Test de Discovery Land Company sur GTmetrix]
+
+===== 3.5.2.d.Site Wickret : 
+
+Les tests de trois logiciels ont accordé un score moyen pour le site web Wickret dans son évaluation de Green.
+
+Wickret est classé "B", selon les critères du logiciel "ÉcoIndex" et son test. 
+
+Les résultats de test "ÉcoIndex" : 
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 29: "]
+image::wickret-ecoIndex-1.png[Test de Wickret sur ÉcoIndex]
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 30: "]
+image::wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
+
+.Test de Wickret sur ÉcoIndex
+[caption="Figure 31: "]
+image::wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
+
+Le site web Wickret a décroché 7 des 15 meilleures pratiques testées d'après les critères du logiciel "EcoMeter".
+
+Les résultats de test "ÉcoMeter" : 
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 32: "]
+image::wickret-ecometer-1.png[Test de Wickret sur ÉcoMeter]
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 33: "]
+image::wickret-ecometer-2.png[Test de Wickret sur ÉcoMeter]
+
+.Test de Wickret sur ÉcoMeter
+[caption="Figure 34: "]
+image::wickret-ecometer-3.png[Test de Wickret sur ÉcoMeter]
+
+Le site web Wickret s'est achevé avec un score de performance élevé "A" (97%) selon le test du logiciel "GTmetrix".
+
+Les résultats de test "GTmetrix" : 
+
+.Test de Wickret sur GTmetrix
+[caption="Figure 35: "]
+image::wickret-GTmetrix-1.png[Test de Wickret sur GTmetrix]
+
+.Test de Wickret sur GTmetrix
+[caption="Figure 36: "]
+image::wickret-GTmetrix-2.png[Test de Wickret sur GTmetrix]
+
+Grâce à ces résultats, nous pouvons constater que plus le site est simple et moins il contient d'images, plus il sera vert. Cela est confirmé par les entretiens que j'ai menés et par les notes des responsables du projet après avoir testé ma matrice.
+
+N.B. : 
+
+* Indice de performance environnementale :
+.[.Indice de performance environnementale]
+[caption="Figure 37: "]
+image::Indice-de-performance-environnementale.png[Indice de performance environnementale]
+* Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
+* Wickret : est un logiciel dédié aux services bancaires dont les objectifs principaux sont d'avoir ces services sans frais mensuels avec une gestion de payment simplifiée. Le lien de site : https://wickret.cuberto.com/
+* Pour plus d'informations sur les trois logiciels de test et leur fonctionnement, voici leurs liens : 
+** ÉcoIndex : http://www.ecoindex.fr/
+** Écometer : http://www.ecometer.org/
+** GTmetrix : https://gtmetrix.com/
