@@ -3,7 +3,7 @@
 <<<
 
 [#Matrice]
-== 6. Les clés de la durabilité de logiciels (Matrice)
+== 5. Les clés de la durabilité de logiciels (Matrice)
 
 Après avoir recueilli les critères issus des interviews et du questionnaire, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
 
@@ -27,7 +27,7 @@ Pour le poids, j'ai donné la valeur 100 à ces deux catégories. Ensuite, pour 
 
 La deuxième, à droite, est à remplir par *le chef de projet*. Le chef de projet évalue le logiciel en fonction de la mesure dans laquelle le logiciel répond à ces critères. La plus mauvaise valeur est placée dans l'intervalle (0% - 20%), et la meilleure valeur est placée dans l'intervalle (80% - 100%).
 
-=== 6.1. Les critères retenus pour la matrice  
+=== 5.1. Les critères retenus pour la matrice  
 
 * *Séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles :* 
 
@@ -167,92 +167,3 @@ Ce critère signifie que le logiciel est bien développé, et que le code est bi
 .Matrice 
 [caption="Figure 3: "]
 image::Matrice.jpg[Matrice]
-
-=== 6.2. Cas Pratiques de la matrice
-
-Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
-
-==== 6.2.1. Cas Pratique "Éco2mix"
-
-J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
-
-Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois dans toute la France et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus. Elle a pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramètres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, ont aussi été inclus dans cette application.
-
-La discussion avec M. GALANTE-GRAS a conclu les résultats suivants : 
-
-* 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
-
-* 2ème critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
-
-* 3ème critère a obtenu la valeur 60 - 80% : la programmation utilisée est la Programmation orientée Objet.
-
-* 4ème critère a obtenu la valeur 80 - 100% : le cloud ne fait pas partie des caractéristiques techniques d'Éco2mix, ce qui justifie la valeur attribuée.
-
-* 5ème critère a obtenu la valeur 50 - 60% : les données d'Éco2mix sont organisées à la fois en Fichiers et en Base de données.
-
-* 6ème critère a obtenu la valeur 80 - 100% : Éco2mix stocke ses données localement, ce qui lui donne la bonne valeur.
-
-* 7ème critère a obtenu la valeur 20 - 40% : Éxo2mix fait beaucoup de requêtes avec le réseau, ce qui diminue la valeur attribuée.
-
-* 8ème critère a obtenu la valeur 40 - 60% : Éco2mix est codé en Java (Compilé), PHP (interprété) et JavaScript (interprété). Alors, la valeur de ce critère a été choisi à 50%, placée dans l'intervalle : 40 - 60%.
-
-* 9ème critère a obtenu la valeur 60 - 80% : Éco2mix ne travaille pas en arrière plan, à l'exception de quelques processus tel que le processus de notification.
-
-* 10ème critère a obtenu la valeur 20 - 40% : Éco2mix se lance automatiquement au démarrage, afin de réaliser quelques tâches. 
-
-* 11ème critère a obtenu la valeur 0 - 20% : Éco2mix ne supporte pas la caractéristique du mode nuit / jour, ce qui dégrade la valeur de ce critère.
-
-* 12ème critère a obtenu la valeur 60 - 80% : la valeur de ce critère a été attribuée grâce au fait que Éco2mix n'utilise pas énormément le CPU.
-
-* 13ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
-
-* 14ème critère a obtenu la valeur 40 - 60% : Les développeurs d'Éco2mix n'utilisent pas encore l'optimisation de compilateur, mais l'interview leur a permis d'indentifer ce critère pour l'avenir.
-
-* 15ème critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il n'utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
-
-* 16ème critère a obtenu la valeur 60 - 80% : Éco2mix a obtenu cette valeur grâce au fait qu'il n'utilise pas beaucoup la mémoire.
-
-* 17ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel largement léger, ainsi son espace binaire est de 50Mo. 
-
-* 18ème critère a obtenu la valeur 0 - 20% : Éco2mix a obtenu cette valeur parce qu'il est développé en closed-source.
-
-* 19ème critère a obtenu la valeur 20 - 40% : Éco2mix subit souvent des Bugs.
-
-* 20ème critère a obtenu la valeur 40 - 60% : le code d'Éco2mix est un peu compliqué en quelques sortes.
-
-.Matrice Éco2mix 
-[caption="Figure 3: "]
-image::Matrice-Eco2mix.jpg[Matrice Éco2mix ]
-
-===== 6.2.1.2. Calcul de durabilité d'Éco2mix
-
-La somme des valeurs de la catégorie de Conception : 20 + 60 + 80 + 100 + 60 + 100 + 40 + 60 + 80 + 40 + 20 = 660 
-
-La note de la catégorie de Conception : 660 / 11 = 60%
-
-Cela signifie que Éco2mix est classé dans la catégorie *Bien* avec la note 3 / 5 selon les classification de durabilité des logiciels établies dans ce mémoire.
-
-La somme des valeurs de la catégorie de Développement : 80 + 100 + 60 + 80 + 80 + 100 + 20 + 40 + 60 = 620 
-
-La note de la catégorie de Conception : 620 / 9 = 69%
-
-Pour cette catégorie Éco2mix est classé dans la catégorie *Très Bien* avec la note 4 / 5 selon les classification de durabilité des logiciels établies dans ce mémoire.
-
-===== 6.2.1.3. Observations et Conclusion
-
-D'un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dans l'aspect de conception et dans l'aspect de développement. Mon travail me permets de proposer ces recommandations pour améliorer la durabilité d'Éco2mix : 
-
-* Il serait bien pour Éco2mix de faire la séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles et de laisser au client la libérté de choisir le type de mise à jour à installer. 
-* Les développeurs ont tout intérêt à diminuer le nombre de requêtes avec le réseau, afin d'optimiser la performance environnementale d'Éco2mix.
-* La performance énergétique d'Éco2mix est affecté par le manque du mode nuit / jour, ainsi, il est apparu utile de traiter cette aspect afin d'améliorer la performance d'Éco2mix.
-* D'après le résultat de mon travail, il est apparu que le développement en open-source est plus convenable pour la durabilité des logiciels, en facilitant la maintenance, la modification et l'amélioration du code au niveau de sécurité ainsi que fonctionnelle.
-* Les développeurs sont invités à optimiser le code d'Éco2mix afin d'avoir moins de bugs, ce qui augmentera sa performance environnementale.
-* Le code est écrit d'une manière assez compliquée, ce qui renforce l'intérêt de le rendre plus facile à lire, à modifier et à améliorer.
-
-Ces recommandations constituent la première étape dans l'amélioration des performances environnementales d'Eco2mix. Les résultats de ce test montrent l'importance de ma matrice issue des travaux de ce mémoire.
-
-Après avoir deroulé l'interview du chef de projet, j'ai commuinqué les résultats et mes recommandations. Voici son retour : 
-
-"J’ai trouvé le test utile, il m’a permis de cerner les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
-
-Je pense que le résultat du test correspond assez bien à la place d’Éco2mix sur une échelle de durabilité. La matrice permet de connaître les axes d’amélioration. Certains sont plus ou moins simple à mettre en œuvre(type de programmation), ou non adapté (mode nuit), tandis que d’autres constituent de vrais indices (taille du binaire par exemple)."
