@@ -141,7 +141,7 @@ Sur ces matériels, nous installons un Système d'Exploitation qui offre à l'ut
 
 Sur ces systèmes d'exploitation, des logiciels peuvent être installés. Ces logiciels sont variés en fonction de leur utilisation, tels que : *Logiciels d'Application*, *Logiciels d'Exploitation* et *Logiciels de programmation*. Ces logiciels peuvent être soit *Payants*, soit *Gratuits*, soit *Open-Source*.
 
-===== 3.1.4.a. La famille de logiciels sur un SmartPhone
+===== 3.1.4.1. La famille de logiciels sur un SmartPhone
 
 Le système d'exploitation mobile a été développé et conçu afin d'être opérable sur tout dispositif mobile tels que les smartphones et les tablettes. Les systèmes Android, iOS et Windows Phone représentent les systèmes d'exploitation mobiles les plus dominant du marché. <<K>>
 
@@ -186,7 +186,7 @@ Il existe plusieurs types de développement pour mettre au point une application
 * Le *Développement Web* : les applications sont conçues pour fonctionner dans un navigateur web et sont généralement adaptées pour qu’elles puissent s’exécuter dans un navigateur mobile. Elles n'ont besoin que d'un navigateur mobile pour les utiliser.
 * Le *Développement Multiplatforme* : l'objectif est de développer une application qui fonctionne sur tous les systèmes d'exploitation.
 
-===== 3.1.4.b. La famille de logiciels sur un serveur 
+===== 3.1.4.2. La famille de logiciels sur un serveur 
 
 Le serveur est un dispositif qui est connecté au réseau et qui met des ressources, des données, des services ou des logiciels à la disposition des clients. Il existe plusieurs types de serveurs en fonction de leurs services. En outre, le serveur dispose d'un système d'exploitation, tel que Windows, Linux/Unix et Mac-OS. <<L>>
 
@@ -269,7 +269,7 @@ Il est apparu que le logiciel, par sa mal conception, rend le matériel informat
 
 Dans ce paragraphe, je parle du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-===== 3.2.5.a. Cycle de vie d'un matériel informatique 
+===== 3.2.5.1. Cycle de vie d'un matériel informatique 
 
 Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
@@ -322,7 +322,7 @@ Cette phase s'est avérée être un facteur majeur de la toxicité pour l'homme.
 Le recyclage du matériel informatique a une influence à la fois positive et négative sur les catégories d'impact environnemental. L'huile légère utilisée dans le processus de collecte des déchets du matériel informatique, ainsi que la consommation d'acide nitrique, d'acide sulfurique, d'acide chlorhydrique et d'agent désoxydant dans le processus de raffinage sont des raisons importantes de la toxicité et de l'écotoxicité pour l'homme. Néanmoins, le recyclage du matériel informatique réduit la charge des impacts environnementaux du cycle de vie, en particulier les effets écologiques de l'épuisement abiotique. Les émissions de CO2 et l'énergie récupérée lors du processus d'incinération n'ont pas été prises en compte dans cette étude. L'inclusion de ces facteurs peut également affecter les résultats de l'impact environnemental potentiel du recyclage des équipements informatiques. <<N>>
 
 
-===== 3.2.5.b. Cycle de vie d'un logiciel
+===== 3.2.5.2. Cycle de vie d'un logiciel
 
 Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme "une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique." <<O>>. L'ISO a précisé, afin d'accentuer la nature intellectuelle du logiciel, que ce dernier existe à part des supports par lesquels il est transporté, ce qu'il requière la distinction entre le logiciel et son support. <<O>>
 
@@ -413,11 +413,11 @@ Dans ce paragraphe, je présente trois codes qui calculent la séquence de Fibon
 
 Soit un logiciel permettant de calculer et afficher la valeur de la position d'une suite de Fibonacci. 
 
-===== 3.5.1.a. Etape de conception
+===== 3.5.1.1. Etape de conception
 
 Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
 
-===== 3.5.1.b. Etape de développement
+===== 3.5.1.2. Etape de développement
 
 Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, il bascule en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
 
@@ -492,11 +492,11 @@ D'autre part, si le code Python ci-dessus est configuré en mode non cache (Lign
      22 p.join()
 ----
 
-===== 3.5.1.c. Etape d'utilisation
+===== 3.5.1.3. Etape d'utilisation
 
 Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
-===== 3.5.1.d. Etape de suppression
+===== 3.5.1.4. Etape de suppression
 
 Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
 
@@ -507,7 +507,7 @@ Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour
 
 À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test de quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
 
-===== 3.5.2.a. Site Google : 
+===== 3.5.2.1. Site Google : 
 
 Les tests des trois logiciels pour le site web de Google montrent que le site a obtenu des bons résultats dans l'évaluation du Green.
 
@@ -556,7 +556,7 @@ image::Google-GTmatrix-1.png[Test de Google sur GTmetrix]
 [caption="Figure 12: "]
 image::Google-GTmatrix-2.png[Test de Google sur GTmetrix]
 
-===== 3.5.2.b. Site SNCF : 
+===== 3.5.2.2. Site SNCF : 
 
 L'évaluation de Green du site web de la SNCF, testée par les trois logiciel, a reçu une mauvaise note.
 
@@ -604,7 +604,7 @@ image::Sncf-GTmetrix-1.png[Test de SNCF sur GTmetrix]
 [caption="Figure 20: "]
 image::Sncf-GTmetrix-2.png[Test de SNCF sur GTmetrix]
 
-===== 3.5.2.c. Site Discovery Land Company : 
+===== 3.5.2.3. Site Discovery Land Company : 
 
 Les tests des trois logiciels, selon leurs propres critères, ont donné une mauvaise note dans l'évaluation de Green du site web du Discovery Land Company.
 
@@ -652,7 +652,7 @@ image::discoverylandco-GTmatrix-1.png[Test de Discovery Land Company sur GTmetri
 [caption="Figure 28: "]
 image::discoverylandco-GTmatrix-2.png[Test de Discovery Land Company sur GTmetrix]
 
-===== 3.5.2.d. Site Wickret : 
+===== 3.5.2.4. Site Wickret : 
 
 Les tests de trois logiciels ont accordé un score moyen pour le site web Wickret dans son évaluation de Green.
 
