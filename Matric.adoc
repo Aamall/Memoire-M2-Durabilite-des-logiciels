@@ -3,7 +3,7 @@
 <<<
 
 [#Matrice]
-== 6.Les clés de la durabilité de logiciels (Matrice) /// rest à faire, vérifier le numéro d'annexe///
+== 6.Les clés de la durabilité de logiciels (Matrice)
 
 Après avoir recueilli les critères issus des interviews et du questionnaire, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
 
@@ -45,7 +45,7 @@ Ce critère est parmi ceux ajoutés selon ma propre expérience en ce qui concer
 
 * *Programmation Orienté Objet vs Programmation Fonctionnelle :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. Selon l'avis des experts, la programmation orientée objet est plus légère et rapide que la programmation fonctionnelle puisqu'elle n'utilise que les objets nécessaires à réaliser les fonctionnalitiés attendues. Ce qui limite l'utilisation des ressources matérielles au minimum. Par conséquent, la programmation orientée objet est plus préservante de l'environnement.
+Ce critère a été défini par l'interview <<Annexe 4>>. Selon l'avis des experts, la programmation orientée objet est plus légère et rapide que la programmation fonctionnelle puisqu'elle n'utilise que les objets nécessaires à réaliser les fonctionnalitiés attendues. Ce qui limite l'utilisation des ressources matérielles au minimum. Par conséquent, la programmation orientée objet est plus préservante de l'environnement.
 
 *Programmation orientée Objet*: est un modèle de programmation informatique étant formé de la définition et l'interaction de blocs logiciels appelés objets. Ces derniers représentent plusieurs variables pouvant aller des concepts et des idées à toute entité du monde physique, comme un ordinateur, une maison, etc. Ces objets possèdent une structure interne et un comportement, et savent interagir avec leurs pairs. L'objectif de la Programmation Orientée Objet est de représenter ces objets et leurs relations pour mieux résoudre le problème ; cela peut être effecteur en concevant et en réalisant les fonctionnalités attendues par l'interaction entre les objets via leurs relations. De ce fait, l'étape de modélisation évoque une grande importance nécessaire pour la Programmation Orientée Objet, puisque la transcription des éléments réels sous forme virtuelle se passe durant cette étape. <<S>>
 
@@ -65,26 +65,26 @@ Il existe sur l'internet une vidéo réalisée par l'Alliance Green IT qui illus
 
 * *Fichier VS Base De Données :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 La structure logicielle du fichier est simple et sobre. Par contre, la structure logicielle de la base de donnée est plus compliquée et costaude. Ainsi, et afin de moins utiliser de l'énergie au but de préserver l'environnement, la structure logicielle de la base de donnée doit être simple et organisée de manière à faciliter les requêtes.
 
 * *Stockage Réseau VS Local :*
 
-Ce critère a été défini par l'interview <<Annexe?>>.
+Ce critère a été défini par l'interview <<Annexe 4>>.
 
 Ce critère désigne quel type de stockage est utilisé. 
 Le stockage en réseau nécessite un réseau pour stocker les données dans les centres de données. Le fonctionnement de ces derniers nécessite de l'énergie et du refroidissement constants, ce qui augmente l'impact environnemental négatif. Le stockage local stocke les données directement en mémoire, et donc il n'utilise qu'une part de l'énergie nécessaire au fonctionnement de l'appareil informatique. Ce dernier peut être éteint ce qui diminue l'impact environnemental négatif. 
 
 * *Appel Réseau :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 Ce critère indique le nombre de demandes que le logiciel a présenté. Plus le nombre de demandes est élevé, plus l'impact du logiciel sur l'environnement à travers le matériel et le réseau est important.
 
 * *Compilé VS Interprété :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 Ce critère indique le type utilisé du langage de programmation : Compilé ou Interprété.
 
@@ -116,13 +116,13 @@ Ce critère indique le nombre d'accès au CPU. Plus le nombre d'accès au CPU es
 
 * *Optimiser l'algorithmie ( Action humaine ) :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 Ce critère signifie que les développeurs ont amélioré des algorithmes déjà existantes, pour améliorer leurs performances en les rendant plus sobres. L'objectif est de diminuer l'utilisation des ressources matérielles et la consommation d'énergie. Cela rend le logiciel plus Green.
 
 * *Optimiser les instructions de code ( Action compilateur) :*
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 Ce critère détermine si le compilateur, par son amélioration de l'algorithme sans besoin de l'intervention des developpeurs, rend la procédure d'exécution du logiciel plus green.
 
@@ -130,7 +130,7 @@ Ce critère signifie que le compilateur a amélioré l'algorithme sans l'interve
 
 * *Taux I/O RAM VS Disque Dur :* 
 
-Ce critère a été défini par l'interview <<Annexe?>>. 
+Ce critère a été défini par l'interview <<Annexe 4>>. 
 
 Ce critère indique le nombre d’accès au RAM et au disque dur. Après avoir consulté l'avis des experts, il est apparu que le disque dur consomme plus d'énergie que le RAM, ce qui rend l'optimisation de l'utilisation du disque dur favorable de la protection de l'environnement.
 
@@ -142,7 +142,7 @@ Ce critère insiste sur l'importance de la sobriété des algorithmes et de la m
 
 * *Binaire qui prend de l'espace :*
 
-Ce critère a été difinie par l'interview <<Annexe?>>.
+Ce critère a été difinie par l'interview <<Annexe 4>>.
 
 La conception doit se concentrer sur les besoins pour éviter de rendre le logiciel "obèse". Ce dernier prendra beaucoup d'espace si il embarque de code inutile (exemple typique du développeur qui copie du code source en provenance de Stack Overflow). Ainsi, le logiciel utilisera plus de ressources matérielles sans réel bénéfice de l'utilisateur. Cela rend l'appariel informatique obsolète plus vite. 
 
