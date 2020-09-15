@@ -298,6 +298,7 @@ Il y a des choses qui existent mais appliquées à des sites web comme, ÉcoInde
 
 
 <<<
+[#Annexe]
 === Annexe 4 *Retranscription interview M. Boris DOLLY, M. Vincent BARBASENT, M. Rémy CLÉMENT, M. Jean-Marc DEBRAYME*
 
 *Selon vous, quels sont les critères qui rendent les applications / logiciels plus durables ? Ou quels sont les critères qui provoquent le renouvellement prématuré des terminaux ?*
