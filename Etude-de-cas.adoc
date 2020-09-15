@@ -59,7 +59,7 @@ image::Matrice-Eco2mix.jpg[Matrice Éco2mix ]
 
 === 6.2. Calcul de durabilité d'Éco2mix
 
-
+Le calcul a été basé sur les valeurs moyennes des intervalles des critères attribués.
 
 La somme des valeurs de la catégorie de Conception : 10 + 50 + 70 + 90 + 50 + 90 + 30 + 50 + 70 + 30 + 10 = 550 
 
