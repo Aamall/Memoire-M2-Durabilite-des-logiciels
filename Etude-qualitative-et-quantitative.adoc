@@ -1,9 +1,9 @@
 :imagesdir: ./images 
 <<<
 
-== 4.Etude qualitative et quantitative
+== 4. Etude qualitative et quantitative
 
-=== 4.1.Etude qualitative : Interviews ///reste à faire, critères, recherche scientifique///
+=== 4.1. Etude qualitative : Interviews ///reste à faire, critères, recherche scientifique///
 
 Le choix des profils à interviewer s’est porté sur sept experts travaillant chez RTE dans les départements R&D et DSIT.
 
@@ -21,7 +21,7 @@ Le concept de la durabilité des logiciels est assez récent et peu courant. Il 
 
 Jusqu'au moment de l'écriture de ce mémoire, les outils testants l’application des principes de la durabilité des logiciels n’ont été appliqués que dans le cas des sites web. Des exemples de ces outils sont donnés dans le chapitre <<Illustrations>> dans l’objectif d’illustrer ces outils.
 
-=== 4.2.Etude quantitative : Présentation du questionnaire
+=== 4.2. Etude quantitative : Présentation du questionnaire
 
 Comme ce travail est chargé de construire la matrice de durabilité, un questionnaire a été réalisé afin de recueillir les critères qui rendent les logiciels plus durables ou non selon les développeurs.
 
