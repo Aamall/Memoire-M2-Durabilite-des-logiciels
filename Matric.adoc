@@ -3,7 +3,7 @@
 <<<
 
 [#Matrice]
-== 6.Les clés de la durabilité de logiciels (Matrice)
+== 6. Les clés de la durabilité de logiciels (Matrice)
 
 Après avoir recueilli les critères issus des interviews et du questionnaire, j'ai dû les organiser en une matrice. Cette dernière illustre la durabilité du logiciel en lui donnant une note de 1 à 5.
 
@@ -27,7 +27,7 @@ Pour le poids, j'ai donné la valeur 100 à ces deux catégories. Ensuite, pour 
 
 La deuxième, à droite, est à remplir par *le chef de projet*. Le chef de projet évalue le logiciel en fonction de la mesure dans laquelle le logiciel répond à ces critères. La plus mauvaise valeur est placée dans l'intervalle (0% - 20%), et la meilleure valeur est placée dans l'intervalle (80% - 100%).
 
-=== 6.1.Les critères retenus pour la matrice  
+=== 6.1. Les critères retenus pour la matrice  
 
 * *Séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles :* 
 
@@ -168,11 +168,11 @@ Ce critère signifie que le logiciel est bien développé, et que le code est bi
 [caption="Figure 3: "]
 image::Matrice.jpg[Matrice]
 
-=== 6.2.Cas Pratiques de la matrice
+=== 6.2. Cas Pratiques de la matrice
 
 Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
 
-==== 6.2.1.Cas Pratique "Éco2mix"
+==== 6.2.1. Cas Pratique "Éco2mix"
 
 J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
 
@@ -224,7 +224,7 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivants :
 [caption="Figure 3: "]
 image::Matrice-Eco2mix.jpg[Matrice Éco2mix ]
 
-===== 6.2.1.2.Calcul de durabilité d'Éco2mix
+===== 6.2.1.2. Calcul de durabilité d'Éco2mix
 
 La somme des valeurs de la catégorie de Conception : 20 + 60 + 80 + 100 + 60 + 100 + 40 + 60 + 80 + 40 + 20 = 660 
 
@@ -238,7 +238,7 @@ La note de la catégorie de Conception : 620 / 9 = 69%
 
 Pour cette catégorie Éco2mix est classé dans la catégorie *Très Bien* avec la note 4 / 5 selon les classification de durabilité des logiciels établies dans ce mémoire.
 
-===== 6.2.1.3.Observations et Conclusion
+===== 6.2.1.3. Observations et Conclusion
 
 D'un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dans l'aspect de conception et dans l'aspect de développement. Mon travail me permets de proposer ces recommandations pour améliorer la durabilité d'Éco2mix : 
 
