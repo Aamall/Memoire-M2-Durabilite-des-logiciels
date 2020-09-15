@@ -261,18 +261,15 @@ Les bonnes pratiques, pouvant tout aussi bien être appliquées à l’utilisati
 * En cas de chauffe démesurée, il faut enlever la batterie de l’ordinateur portable et la ranger dans un endroit sec et frais. Il faut aussi veiller à lui imposer mensuellement un cycle complet décharge/recharge.
 * Privilégier le reconditionnement des appareils informatiques en fin de vie.
 
-==== 3.2.4. Le logiciel peut aussi endommager le matériel  /// reste à faire ///
+==== 3.2.4. Le logiciel peut aussi endommager le matériel  
 
-Il faut avoir une bonne conception avant de commencer à développer des logiciels ! 
+Il est apparu que le logiciel, par sa mal conception, rend le matériel informatique obsolète plus rapidement qu'il est prevu. Cette notion est bien expliquée et démontrée dans la vidéo : https://youtu.be/ixF3-duQ4M8.
 
-Parfois, si la conception est mauvaise, cela nous conduit à un mauvais développement. Ce dernier va endommager le matériel plus rapidement qu'il n'est prévu. 
-
-
-Comme elle le souligne, la définition de la *Technologie de l'Information* dans le chapitre *Principes et définitions* : "la Technologie de l'Information représente l'ensemble des matériels informatiques, ainsi que des logiciels". Et selon l'objectif de ce travail, il est nécessaire de connaître le cycle de vie du matériel et celui des logiciels. 
+==== 3.2.5. Matériel informatique et Logiciel : analyse du cycle de vie
 
 Dans ce paragraphe, je parle du cycle de vie du matériel informatique, puis du cycle de vie du deuxième ingrédient de la technologie de l'information, le logiciel. 
 
-==== 3.2.5. Cycle de vie d'un matériel informatique 
+===== 3.2.5.a. Cycle de vie d'un matériel informatique 
 
 Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
 
@@ -325,7 +322,7 @@ Cette phase s'est avérée être un facteur majeur de la toxicité pour l'homme.
 Le recyclage du matériel informatique a une influence à la fois positive et négative sur les catégories d'impact environnemental. L'huile légère utilisée dans le processus de collecte des déchets du matériel informatique, ainsi que la consommation d'acide nitrique, d'acide sulfurique, d'acide chlorhydrique et d'agent désoxydant dans le processus de raffinage sont des raisons importantes de la toxicité et de l'écotoxicité pour l'homme. Néanmoins, le recyclage du matériel informatique réduit la charge des impacts environnementaux du cycle de vie, en particulier les effets écologiques de l'épuisement abiotique. Les émissions de CO2 et l'énergie récupérée lors du processus d'incinération n'ont pas été prises en compte dans cette étude. L'inclusion de ces facteurs peut également affecter les résultats de l'impact environnemental potentiel du recyclage des équipements informatiques. <<N>>
 
 
-==== 3.2.6. Cycle de vie d'un logiciel
+===== 3.2.5.b. Cycle de vie d'un logiciel
 
 Pour illustrer la notion de logiciel, l'Organisation internationale de normalisation (ISO), a défini en 1981 le logiciel (en anglais software) comme "une création intellectuelle rassemblant des programmes, des procédures, des règles et de la documentation utilisés pour faire fonctionner un système informatique." <<O>>. L'ISO a précisé, afin d'accentuer la nature intellectuelle du logiciel, que ce dernier existe à part des supports par lesquels il est transporté, ce qu'il requière la distinction entre le logiciel et son support. <<O>>
 
