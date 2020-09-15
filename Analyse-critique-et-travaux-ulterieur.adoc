@@ -2,7 +2,7 @@
 
 == 7. Analyse critique et travaux ultérieur
 
-=== 7.1. Critiquer le travail 
+=== 7.1. Analyse critique du travail
 
 Dans le but d'améliorer la qualité de ce mémoire, j'ai évalué mon travail en établissant une autocritique, qui sera présentée dans ce paragraphe, ainsi que mes pensées pour le future travail en cas si quelqu’un veut poursuivre les résultats issus de mes travaux.
 En réfléchissant autour du thème de recherche choisi, le *Green-IT*, j'ai posé, au début, la problématique suivante : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement?*.
