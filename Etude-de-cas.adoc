@@ -1,316 +1,91 @@
 :imagesdir: ./images 
 
 <<<
+== 6. Étude de cas : Cas pratique
 
-[#Illustrations]
-== Illustrations pratiques
-
-L'optimisation du code est une composante clé de la conception et du développement. C'est donc un critère pour traiter la problématique dans une optique de durabilité de logiciel mal conçu et mal développé.
-
-Dans ce paragraphe, je présente trois codes qui calculent la séquence de Fibonacci, en montrant le "code éco-conçu", le "code non optimisé" et le "code du pire cas".
-
-=== 5.1.Cas d'un calcul de Fibonacci
-
-Soit un logiciel permettant de calculer et afficher la valeur de la position d'une suite de Fibonacci. 
-
-==== 5.1.1.Etape de conception
-
-Dans la phase de conception logicielle on s'intéresse à répondre à l'expression du besoin émis en respectant les contraintes fixées. Ici, pour les besoins du travail de mémoire, on fixe une contrainte environnementale qui consiste à consommer le moins possible d'énergie (intimement lié aux sollicitations du CPU pour cet exemple). L'expression du besoin ne formule pas d'attente en matière de temps de calcul attendu.
-
-==== 5.1.2.Etape de développement
-
-Soit le code Python 3 suivant. Il est d'une part récursif et d'autre part, de manière paramétrable, il bascule en mode cache ou non cache. Le mode cache permet de ne pas recalculer ce qui l'a déjà été. Mettre le mode cache (ou concevoir qu'il existe) est une optimisation énergétique en tant que telle puisqu'on calcule 1000x plus rapidement la valeur finie de la suite de Fibonacci.
-
-fibonacci.py
-----
-     1	#!/bin/python3
-     2	
-     3	def fibonacci(value):
-     4	    if value == 0:
-     5	        return 0
-     6	    elif value == 1:
-     7	        return 1
-     8	    else:
-     9	        return fibonacci(value - 1) + fibonacci(value - 2)
-    10	
-    11	def fibonacci(withCache, cache, value):
-    12	    # Get the result from cache if present
-    13	    if withCache and value in cache.keys():
-    14	        return cache[value]
-    15	
-    16	    if value == 0:
-    17	        result = 0
-    18	    elif value == 1:
-    19	        result = 1
-    20	    else:
-    21	        result = fibonacci(withCache, cache, value - 1) + fibonacci(withCache, cache, value - 2)
-    22	    
-    23	    # Update the cache
-    24	    if withCache:
-    25	        cache[value] = result 
-    26	
-    27	    return result
-    28	
-    29	if __name__ == '__main__':
-    30	    withCache = True
-    31	    cache = dict()
-    32	        
-    33	    i = 0
-    34	    while True:
-    35	        result = fibonacci(withCache, cache, i)
-    36	        print(f"F({i}) = {result}")
-    37	        i = i + 1
-----
+Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
 
-D'autre part, si le code Python ci-dessus est configuré en mode non cache (Ligne 30 : withCache = False) il reste récursif mais refait les calculs déjà effectués. Ce code n'est de fait pas optimisé. Cela conduit à rater l'optimisation énergétique. Prenons l'exemple d'une application Smartphone qui aurait besoin de calculer des termes de Fibonacci, la batterie serait endommagée par le code non optimisé.
+=== 6.1. Cas Pratique "Éco2mix"
 
+J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
 
-À titre d'illustration extrême je propose le code ci-dessous qui, si il était excuté, utiliserait *sans partage* l'intégralité des ressources matérielles du terminal. Il résulterait une consommation absurde de la batterie puisque ce code n'est ni récursif ni optimisé algorithmiquement.
+Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois dans toute la France et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus. Elle a pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramètres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, ont aussi été inclus dans cette application.
 
-----
-     1 #!/bin/python3
-     2 from multiprocessing import Process
-     3 def fi(name):
-     4 print('hello', name)
-     5 def fibonacci(value):
-     6 if value == 0:
-     7 return 0
-     8 elif value == 1:
-     9 return 1
-     10 else:
-     11 return fibonacci(value - 1) + fibonacci(value - 2)
-     12 def print_fibonacci(value):
-     13 result = fibonacci(value)
-     14 print(f"F({i}) = {result}")
-     15 if name == '__main__':
-     16 processes = []
-     17 for i in range(0, 50):
-     18 p = Process(target=print_fibonacci, args=(i,))
-     19 processes.append(p)
-     20 p.start()
-     21 for p in processes:
-     22 p.join()
-----
+La discussion avec M. GALANTE-GRAS a conclu les résultats suivants : 
 
-==== 5.1.3.Etape d'utilisation
+* 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
-Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+* 2ème critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
-==== 5.1.4.Etape de suppression
+* 3ème critère a obtenu la valeur 60 - 80% : la programmation utilisée est la Programmation orientée Objet.
 
-Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au sein d'un module BackEnd d'un applicatif (smartphone ou toute autre famille logicielle)
+* 4ème critère a obtenu la valeur 80 - 100% : le cloud ne fait pas partie des caractéristiques techniques d'Éco2mix, ce qui justifie la valeur attribuée.
 
+* 5ème critère a obtenu la valeur 50 - 60% : les données d'Éco2mix sont organisées à la fois en Fichiers et en Base de données.
 
-=== 5.2.Cas d'un test de sites web : 
+* 6ème critère a obtenu la valeur 80 - 100% : Éco2mix stocke ses données localement, ce qui lui donne la bonne valeur.
 
-Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est Green ou non sur la base de plusieurs critères.
+* 7ème critère a obtenu la valeur 20 - 40% : Éxo2mix fait beaucoup de requêtes avec le réseau, ce qui diminue la valeur attribuée.
 
-À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test de quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
+* 8ème critère a obtenu la valeur 40 - 60% : Éco2mix est codé en Java (Compilé), PHP (interprété) et JavaScript (interprété). Alors, la valeur de ce critère a été choisi à 50%, placée dans l'intervalle : 40 - 60%.
 
-==== 5.2.1.Site Google : 
+* 9ème critère a obtenu la valeur 60 - 80% : Éco2mix ne travaille pas en arrière plan, à l'exception de quelques processus tel que le processus de notification.
 
-Les tests des trois logiciels pour le site web de Google montrent que le site a obtenu des bons résultats dans l'évaluation du Green.
+* 10ème critère a obtenu la valeur 20 - 40% : Éco2mix se lance automatiquement au démarrage, afin de réaliser quelques tâches. 
 
-Selon les critères du logiciel "EcoIndex", le site web de Google a obtenu le grade "A", montrant ainsi son évaluation verte profitable. 
+* 11ème critère a obtenu la valeur 0 - 20% : Éco2mix ne supporte pas la caractéristique du mode nuit / jour, ce qui dégrade la valeur de ce critère.
 
-Les résultats du test "ÉcoIndex" : 
+* 12ème critère a obtenu la valeur 60 - 80% : la valeur de ce critère a été attribuée grâce au fait que Éco2mix n'utilise pas énormément le CPU.
 
-.Test de Google sur ÉcoIndex
-[caption="Figure 5: "]
-image::Google-ecoIndex-1.png[Test de Google sur ÉcoIndex]
+* 13ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel plutôt front, donc, la valeur a été attribuée car il n'a y pas beaucoup d'algorithèmes à optimiser.
 
-.Test de Google sur ÉcoIndex
-[caption="Figure 6: "]
-image::Google-ecoIndex-2.png[Test de Google sur ÉcoIndex]
+* 14ème critère a obtenu la valeur 40 - 60% : Les développeurs d'Éco2mix n'utilisent pas encore l'optimisation de compilateur, mais l'interview leur a permis d'indentifer ce critère pour l'avenir.
 
-.Test de Google sur ÉcoIndex
-[caption="Figure 7: "]
-image::Google-ecoIndex-3.png[Test de Google sur ÉcoIndex]
+* 15ème critère a obtenu la valeur 60 - 80% : vu qu'Éco2mix est un logiciel mobile et web, il n'utilise pas le Disque Dur, et il n'occupe qu'une petite partie du RAM.
 
+* 16ème critère a obtenu la valeur 60 - 80% : Éco2mix a obtenu cette valeur grâce au fait qu'il n'utilise pas beaucoup la mémoire.
 
-Google a acquis 11 des 15 meilleures pratiques testées, selon les critères du logiciel "ÉcoMeter" et son test, ce qui reflète sa performance environnementale avantageuse.
+* 17ème critère a obtenu la valeur 80 - 100% : Éco2mix est un logiciel largement léger, ainsi son espace binaire est de 50Mo. 
 
-Les résultats de test "ÉcoMeter" : 
+* 18ème critère a obtenu la valeur 0 - 20% : Éco2mix a obtenu cette valeur parce qu'il est développé en closed-source.
 
-.Test de Google sur ÉcoMeter
-[caption="Figure 8: "]
-image::Google-ecometer-1.png[Test de Google sur ÉcoMeter]
+* 19ème critère a obtenu la valeur 20 - 40% : Éco2mix subit souvent des Bugs.
 
-.Test de Google sur ÉcoMeter
-[caption="Figure 9: "]
-image::Google-ecometer-2.png[Test de Google sur ÉcoMeter]
+* 20ème critère a obtenu la valeur 40 - 60% : le code d'Éco2mix est un peu compliqué en quelques sortes.
 
-.Test de Google sur ÉcoMeter
-[caption="Figure 10: "]
-image::Google-ecometer-3.png[Test de Google sur ÉcoMeter]
+.Matrice Éco2mix 
+[caption="Figure 3: "]
+image::Matrice-Eco2mix.jpg[Matrice Éco2mix ]
 
-Le site web de Google a passé le test du logiciel "GTmetrix" et ses critères avec un très bon score de performance "A" (95%).
+=== 6.2. Calcul de durabilité d'Éco2mix
 
-Les résultats de test "GTmetrix" : 
+La somme des valeurs de la catégorie de Conception : 20 + 60 + 80 + 100 + 60 + 100 + 40 + 60 + 80 + 40 + 20 = 660 
 
-.Test de Google sur GTmetrix
-[caption="Figure 11: "]
-image::Google-GTmatrix-1.png[Test de Google sur GTmetrix]
+La note de la catégorie de Conception : 660 / 11 = 60%
 
-.Test de Google sur GTmetrix
-[caption="Figure 12: "]
-image::Google-GTmatrix-2.png[Test de Google sur GTmetrix]
+Cela signifie que Éco2mix est classé dans la catégorie *Bien* avec la note 3 / 5 selon les classification de durabilité des logiciels établies dans ce mémoire.
 
-==== 5.2.2.Site SNCF : 
+La somme des valeurs de la catégorie de Développement : 80 + 100 + 60 + 80 + 80 + 100 + 20 + 40 + 60 = 620 
 
-L'évaluation de Green du site web de la SNCF, testée par les trois logiciel, a reçu une mauvaise note.
+La note de la catégorie de Conception : 620 / 9 = 69%
 
-La performance environnementale de la SNCF est classée dans la catégorie "E" sur "ÉcoIndex.
+Pour cette catégorie Éco2mix est classé dans la catégorie *Très Bien* avec la note 4 / 5 selon les classification de durabilité des logiciels établies dans ce mémoire.
 
-Les résultats de test "ÉcoIndex" : 
+=== 6.3. Observations et Conclusion
 
-.Test de SNCF sur ÉcoIndex
-[caption="Figure 13: "]
-image::Sncf-ecoIndex-1.png[Test de SNCF sur ÉcoIndex]
+D'un point de vue de durabilité, Éco2mix est un bon logiciel à la fois dans l'aspect de conception et dans l'aspect de développement. Mon travail me permets de proposer ces recommandations pour améliorer la durabilité d'Éco2mix : 
 
-.Test de SNCF sur ÉcoIndex
-[caption="Figure 14: "]
-image::Sncf-ecoIndex-2.png[Test de SNCF sur ÉcoIndex]
+* Il serait bien pour Éco2mix de faire la séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles et de laisser au client la libérté de choisir le type de mise à jour à installer. 
+* Les développeurs ont tout intérêt à diminuer le nombre de requêtes avec le réseau, afin d'optimiser la performance environnementale d'Éco2mix.
+* La performance énergétique d'Éco2mix est affecté par le manque du mode nuit / jour, ainsi, il est apparu utile de traiter cette aspect afin d'améliorer la performance d'Éco2mix.
+* D'après le résultat de mon travail, il est apparu que le développement en open-source est plus convenable pour la durabilité des logiciels, en facilitant la maintenance, la modification et l'amélioration du code au niveau de sécurité ainsi que fonctionnelle.
+* Les développeurs sont invités à optimiser le code d'Éco2mix afin d'avoir moins de bugs, ce qui augmentera sa performance environnementale.
+* Le code est écrit d'une manière assez compliquée, ce qui renforce l'intérêt de le rendre plus facile à lire, à modifier et à améliorer.
 
-.Test de SNCF sur ÉcoIndex
-[caption="Figure 15: "]
-image::Sncf-ecoIndex-3.png[Test de SNCF sur ÉcoIndex]
+Ces recommandations constituent la première étape dans l'amélioration des performances environnementales d'Eco2mix. Les résultats de ce test montrent l'importance de ma matrice issue des travaux de ce mémoire.
 
-Le site web de la SNCF n'a décroché que 4 des 15 meilleures pratiques testées selon les critères du logiciel "EcoMeter". 
+Après avoir deroulé l'interview du chef de projet, j'ai commuinqué les résultats et mes recommandations. Voici son retour : 
 
-Les résultats de test "ÉcoMeter" : 
+"J’ai trouvé le test utile, il m’a permis de cerner les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
 
-.Test de SNCF sur ÉcoMeter
-[caption="Figure 16: "]
-image::Sncf-ecometer-1.png[Test de SNCF sur ÉcoMeter]
-
-.Test de SNCF sur ÉcoMeter
-[caption="Figure 17: "]
-image::Sncf-ecometer-2.png[Test de SNCF sur ÉcoMeter]
-
-.Test de SNCF sur ÉcoMeter
-[caption="Figure 18: "]
-image::Sncf-ecometer-3.png[Test de SNCF sur ÉcoMeter]
-
-Le logiciel "GTmetrix", selon ses critères, a placé le site web de la SNCF dans la catégorie "D" avec une performance environnementale s'élevant jusqu'à 64%.
-
-Les résultats de test "GTmetrix" : 
-
-.Test de SNCF sur GTmetrix
-[caption="Figure 19: "]
-image::Sncf-GTmetrix-1.png[Test de SNCF sur GTmetrix]
-
-.Test de SNCF sur GTmetrix
-[caption="Figure 20: "]
-image::Sncf-GTmetrix-2.png[Test de SNCF sur GTmetrix]
-
-==== 5.2.3.Site Discovery Land Company : 
-
-Les tests des trois logiciels, selon leurs propres critères, ont donné une mauvaise note dans l'évaluation de Green du site web du Discovery Land Company.
-
-D'après les critères du logiciel "EcoIndex", le site web du Discovery Land Company a été classé dans la catégorie "E" sur l'échelle de la performance environnementale.
-
-Les résultats de test "ÉcoIndex" : 
-
-.Test de Discovery Land Company sur ÉcoIndex
-[caption="Figure 21: "]
-image::discoverylandco-ecoIndex-1.png[Test de Discovery Land Company sur ÉcoIndex]
-
-.Test de Discovery Land Company sur ÉcoIndex
-[caption="Figure 22: "]
-image::discoverylandco-ecoIndex-2.png[Test de Discovery Land Company sur ÉcoIndex]
-
-.Test de Discovery Land Company sur ÉcoIndex
-[caption="Figure 23: "]
-image::discoverylandco-ecoIndex-3.png[Test de Discovery Land Company sur ÉcoIndex]
-
-Le site web du Discovery Land Company a seulement acquis 4 des 15 meilleures pratiques testées selon les critères du logiciel "EcoMeter".
-
-Les résultats de test "ÉcoMeter" : 
-
-.Test de Discovery Land Company sur ÉcoMeter
-[caption="Figure 24: "]
-image::discoverylandco-ecometer-1.png[Test de Discovery Land Company sur ÉcoMeter]
-
-.Test de Discovery Land Company sur ÉcoMeter
-[caption="Figure 25: "]
-image::discoverylandco-ecometer-2.png[Test de Discovery Land Company sur ÉcoMeter]
-
-.Test de Discovery Land Company sur ÉcoMeter
-[caption="Figure 26: "]
-image::discoverylandco-ecometer-3.png[Test de Discovery Land Company sur ÉcoMeter]
-
-Le site web du Discovery Land Company a eu le grade "C" dans le score de performance (75%), selon les critères du logiciel "GTmetrix".
-
-Les résultats de test "GTmetrix" : 
-
-.Test de Discovery Land Company sur GTmetrix
-[caption="Figure 27: "]
-image::discoverylandco-GTmatrix-1.png[Test de Discovery Land Company sur GTmetrix]
-
-.Test de Discovery Land Company sur GTmetrix
-[caption="Figure 28: "]
-image::discoverylandco-GTmatrix-2.png[Test de Discovery Land Company sur GTmetrix]
-
-==== 5.2.4.Site Wickret : 
-
-Les tests de trois logiciels ont accordé un score moyen pour le site web Wickret dans son évaluation de Green.
-
-Wickret est classé "B", selon les critères du logiciel "ÉcoIndex" et son test. 
-
-Les résultats de test "ÉcoIndex" : 
-
-.Test de Wickret sur ÉcoIndex
-[caption="Figure 29: "]
-image::wickret-ecoIndex-1.png[Test de Wickret sur ÉcoIndex]
-
-.Test de Wickret sur ÉcoIndex
-[caption="Figure 30: "]
-image::wickret-ecoIndex-2.png[Test de Wickret sur ÉcoIndex]
-
-.Test de Wickret sur ÉcoIndex
-[caption="Figure 31: "]
-image::wickret-ecoIndex-3.png[Test de Wickret sur ÉcoIndex]
-
-Le site web Wickret a décroché 7 des 15 meilleures pratiques testées d'après les critères du logiciel "EcoMeter".
-
-Les résultats de test "ÉcoMeter" : 
-
-.Test de Wickret sur ÉcoMeter
-[caption="Figure 32: "]
-image::wickret-ecometer-1.png[Test de Wickret sur ÉcoMeter]
-
-.Test de Wickret sur ÉcoMeter
-[caption="Figure 33: "]
-image::wickret-ecometer-2.png[Test de Wickret sur ÉcoMeter]
-
-.Test de Wickret sur ÉcoMeter
-[caption="Figure 34: "]
-image::wickret-ecometer-3.png[Test de Wickret sur ÉcoMeter]
-
-Le site web Wickret s'est achevé avec un score de performance élevé "A" (97%) selon le test du logiciel "GTmetrix".
-
-Les résultats de test "GTmetrix" : 
-
-.Test de Wickret sur GTmetrix
-[caption="Figure 35: "]
-image::wickret-GTmetrix-1.png[Test de Wickret sur GTmetrix]
-
-.Test de Wickret sur GTmetrix
-[caption="Figure 36: "]
-image::wickret-GTmetrix-2.png[Test de Wickret sur GTmetrix]
-
-Grâce à ces résultats, nous pouvons constater que plus le site est simple et moins il contient d'images, plus il sera vert. Cela est confirmé par les entretiens que j'ai menés et par les notes des responsables du projet après avoir testé ma matrice.
-
-N.B. : 
-
-* Indice de performance environnementale :
-.[.Indice de performance environnementale]
-[caption="Figure 37: "]
-image::Indice-de-performance-environnementale.png[Indice de performance environnementale]
-* Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
-* Wickret : est un logiciel dédié aux services bancaires dont les objectifs principaux sont d'avoir ces services sans frais mensuels avec une gestion de payment simplifiée. Le lien de site : https://wickret.cuberto.com/
-* Pour plus d'informations sur les trois logiciels de test et leur fonctionnement, voici leurs liens : 
-** ÉcoIndex : http://www.ecoindex.fr/
-** Écometer : http://www.ecometer.org/
-** GTmetrix : https://gtmetrix.com/
+Je pense que le résultat du test correspond assez bien à la place d’Éco2mix sur une échelle de durabilité. La matrice permet de connaître les axes d’amélioration. Certains sont plus ou moins simple à mettre en œuvre(type de programmation), ou non adapté (mode nuit), tandis que d’autres constituent de vrais indices (taille du binaire par exemple)."
