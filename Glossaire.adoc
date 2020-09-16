@@ -3,5 +3,21 @@
 
 |===
 | Abréviation | XXXx
-|RTE | Réseau de Transport d'Électricité
+| RTE | Réseau de Transport d'Électricité
+| DSIT | Département de Système d'Information & Télécom
+| R & D  | Recherche et Développement
+| GES | Gas à Effet de Serre
+| Clé USB |
+| TI | Technologie f'Information
+| SI | Système d'Information
+| ERP |
+| ACV | Analsye de Cycle de Vie
+| ADP | 
+| GES |
+| EP | 
+| DSL |Digital Subscriber Line
+| ISO | International Organization for Standardization / Organisation internationale de normalisation
+| CPU | Central Processing Unit / Processeur
+| GPS | Global Positioning System
+| E / S | Éntrer / Sortir
 |===
