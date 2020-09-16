@@ -20,4 +20,5 @@
 | CPU | Central Processing Unit / Processeur
 | GPS | Global Positioning System
 | E / S | Éntrer / Sortir
+| Ademe | 
 |===
