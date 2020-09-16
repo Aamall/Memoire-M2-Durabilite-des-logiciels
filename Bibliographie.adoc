@@ -10,7 +10,7 @@
 
 - [[[D,4]]] LOESER, F. Green IT and Green IS: Definition of Constructs and Overview of Current Practices. Conference paper: 19th Americas Conference on Information Systems (AMCIS), At Chicago, IL [en ligne]. 2013, Disponible sur : https://www.researchgate.net/profile/Fabian_Loeser/publication/267737651_Green_IT_and_Green_IS_Definition_of_Constructs_and_Overview_of_Current_Practices_Completed_Research_Paper/links/5458cd700cf2cf516483bb66.pdf. Cité 74 fois
 
-- [[[E,5]]] MURUGESAN, S. Harnessing Green IT: Principles and Practices. IEEE Xplore [en ligne]. 2008, Disponible sur : https://ieeexplore.ieee.org/document/4446673?arnumber=4446673. Cité 1356 fois.
+- [[[E,5]]] MURUGESAN, S. Harnessing Green IT: Principles and Practices. IEEE Xplore [en ligne]. 2008, Disponible sur : https://ieeexplore.ieee.org/document/4446673?arnumber=4446673. Cité 1356 fois. Impact Factor : 10.694.
 
 - [[[F,6]]] GOUVERNEMENT FRANÇAIS. LOI n° 2015-992 du 17 août 2015 relative à la transition énergétique pour la croissance verte. [en ligne]. Journal Officiel du 18 août 2015 , Disponible sur : https://www.legifrance.gouv.fr/affichTexte.do;jsessionid=D07E4B7FF38C9264A5554513AB55B753.tplgfr22s_1?cidTexte=JORFTEXT000031044385&dateTexte=20200416.
 
@@ -29,11 +29,11 @@
 
 - [[[M,13]]] BORDAGE, F. Empreinte environnementale du numérique mondial. GreenIT [en ligne]. 2019, Disponible sur : https://www.greenit.fr/wp-content/uploads/2019/10/2019-10-GREENIT-etude_EENM-rapport-accessible.VF_.pdf. Cité 1 fois
 
-- [[[N,14]]] CHOI, B-C., SHIN, H-S., LEE, S-Y., et HUR, T. Life Cycle Assessment of a Personal Computer and its Effective Recycling Rate. The International Journal of Life Cycle Assessment [en ligne]. 2006, Disponible sur : https://www.researchgate.net/profile/Su_Yol_Lee/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp/links/554ff10908ae93634ec879ad.pdf. Cité 174 fois. Impact factor 5.317.
+- [[[N,14]]] CHOI, B-C., SHIN, H-S., LEE, S-Y., et HUR, T. Life Cycle Assessment of a Personal Computer and its Effective Recycling Rate. The International Journal of Life Cycle Assessment [en ligne]. 2006, Disponible sur : https://www.researchgate.net/profile/Su_Yol_Lee/publication/226388568_Life_Cycle_Assessment_of_a_Personal_Computer_and_its_Effective_Recycling_Rate_7_pp/links/554ff10908ae93634ec879ad.pdf. Cité 174 fois. Impact Factor 5.317.
 
 - [[[O,15]]] BUCHS, D. Cycle de vie du logiciel. University of Geneva [en ligne]. 2000, Disponible sur : https://www.researchgate.net/profile/Didier_Buchs/publication/37422534_Cycle_de_vie_du_logiciel/links/0fcfd5111030d47f2c000000.pdf. Cité 11 fois.
 
-- [[[P,16]]] PANG, C., HINDLE, A., ADAMS, B., et HASSAN, A. What Do Programmers Know about Software Energy Consumption?. IEEE Xplore [en ligne]. 2015, Disponible sur : https://ieeexplore.ieee.org/document/7155416. Cité 85 fois.
+- [[[P,16]]] PANG, C., HINDLE, A., ADAMS, B., et HASSAN, A. What Do Programmers Know about Software Energy Consumption?. IEEE Xplore [en ligne]. 2015, Disponible sur : https://ieeexplore.ieee.org/document/7155416. Cité 85 fois. Impact Factor : 10.694.
 
 - [[[Q,17]]] Organisation Négawatt. Pourquoi et comment faire durer son ordinateur ?. [en ligne]. 2018, disponible sur : https://negawatt.org/IMG/pdf/181112_faire-durer-son-ordinateur.pdf.
 
