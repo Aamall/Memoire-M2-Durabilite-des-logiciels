@@ -6,6 +6,8 @@
 
 Le choix des profils à interviewer s’est porté sur sept experts travaillant chez RTE dans les départements R&D et DSIT.
 
+Ce mémoire a été fondé sur des recherches scientifiques profondes, que la définition de ces dernières contient le fait de poser une problématique non traitée, précédemment, dans un domaine quelconque, et de trouver les solutions appropriées. La base des recherches scientifiques est d’établir l’état de l’art traitant les aspects pertinents déjà existants et liés à la problématique, afin d’approfondir la compréhension de celle-ci. De plus, les interviews avec des experts permettent de consolider et de mieux contextualiser l’axe de recherche et de bien déterminer le plan du travail scientifique.
+
 Les interviews ont eu lieu au début des travaux de ce mémoire, et les questions posées étaient assez ouvertes afin de couvrir autant que possible des aspects liés à la problématique soulevée.
 
 Riche en informations, les interviews ont permis de constituer et de solidifier l'axe de recherche. Elles ont également mis l'accent sur les points essentiels à évoquer lors du traitement du sujet de Green-IT.
