@@ -42,4 +42,14 @@
 | Figure 37: Indice de performance environnementale | 43
 | Figure 38: Matrice | 54
 | Figure 39: Matrice Éco2mix | 57
+| Figure 40: Annees-d-experience-en-materes-de-programmation| 
+| Figure 41: Langage de programmaion le plus competent | 
+| Figure 42: Développer logiciels / applications pour smartphones |
+| Figure 43: Annees-d-experience-en-materes-de-programmation |
+| Figure 44: Langage de programmaion le plus competent | 
+| Figure 45: Développer logiciels / applications pour smartphones | 
+| Figure 46: critères qui rendent les logiciels de smartphones plus durables | 
+| Figure 47: Critères qui font veillir les smartphones | 
+| Figure 48: Critères qui font veillir les smartphones |
+| Figure 49: Critères qui font veillir les smartphones |
 |===
