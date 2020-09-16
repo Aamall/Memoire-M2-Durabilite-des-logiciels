@@ -2,7 +2,7 @@
 
 == 4. Etude qualitative et quantitative
 
-=== 4.1. Etude qualitative : Interviews ///reste à faire, critères, recherche scientifique///
+=== 4.1. Etude qualitative : Interviews
 
 Le choix des profils à interviewer s’est porté sur sept experts travaillant chez RTE dans les départements R&D et DSIT.
 
