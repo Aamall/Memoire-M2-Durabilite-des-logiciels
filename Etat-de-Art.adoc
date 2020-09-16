@@ -705,7 +705,8 @@ Grâce à ces résultats, nous pouvons constater que plus le site est simple et 
 N.B. : 
 
 * Indice de performance environnementale :
-.[.Indice de performance environnementale]
+
+.Indice de performance environnementale
 [caption="Figure 37: "]
 image::Indice-de-performance-environnementale.png[Indice de performance environnementale]
 * Discovery Land Company : est un promoteur immobilier américain et un exploitant des clubs résidentiels privés et des centres de villégiature avec un portefeuille de renommée mondial de propriétés nationales et internationales. Le lien de site : https://discoverylandco.com/
