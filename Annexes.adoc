@@ -316,7 +316,7 @@ Aussi, il y a l’idée concernant l’organisation des données du logiciels, p
 Dans ce contexte, il faut aussi bien prendre en compte le nombre de requêtes imposées par le logiciel avec le réseau, qui va être primordial dans le cas des logiciels du smartphone, car le fait de maintenir la connexion avec le réseau est le premier facteur de consommation d’énergie. Moins le nombre de requêtes, moins la consommation d’énergie, et plus la protection de l’environnement. Le fait d’envoyer des requêtes affecte pas seulement le smartphone, mais aussi le média transportant ces requêtes et le serveur qui réponde à ces requêtes. Cet impact se multiplie si on utilise un logiciel web, parce qu’il maintient  une connexion constante avec le réseau. 
 
 <<<
-=== Annexe 5 *Le questionnaire*
+=== Annexe 6 *Le questionnaire*
 
 _Section 1_ : *Le profil général du répondant*
 
