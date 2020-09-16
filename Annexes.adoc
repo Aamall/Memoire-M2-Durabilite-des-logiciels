@@ -20,7 +20,7 @@ Ensuite un volet maturité. En fait, selon un référentiel élaboré par le clu
 Cela a permis d'identifier l'emprunte pour un salarié et également, de pointer de bonnes pratiques pour progresser.
 À partir de ces éléments là, sur les 2 premières années, on a construit une feuille de route permettant de faire des progrès rapides, et progressivement en facile mettre un œuvre corrigé à rendre quelque chose plus compliquée. L’éco-conception logiciel a encore beaucoup des choses à faire, on le connais, mais la façon d'aborder l'éco-conception est compliquée. Il y deux ans de ça, le département développement logiciel n'existait pas chez nous. On donnait des directives à des sous-traitants.
 
-Là j'ai support complet pour les adhérents du club où j'ai fait former une dizaine de personnes à la DSIT (Département Système Information et Technologie à RTE).
+Là j'ai support complet pour les adhérents du club où j'ai fait former une dizaine de personnes à la DSIT (Département Système Information et Télécom à RTE).
 
 Sur l'échelle du temps, depuis l'arrivée de l'homme sur Terre, etc... finalement, on parle de Green IT sur ces quelques dernières années, c’est une notion qui n’existe pas de tout avant dans l’informatique.
 
