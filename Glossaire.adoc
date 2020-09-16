@@ -2,23 +2,22 @@
 == Glossaire
 
 |===
-| Abréviation | XXXx
+| Abréviation | Nom
 | RTE | Réseau de Transport d'Électricité
 | DSIT | Département de Système d'Information & Télécom
 | R & D  | Recherche et Développement
 | GES | Gas à Effet de Serre
-| Clé USB |
-| TI | Technologie f'Information
+| Clé USB | Universal Serial Bus
+| TI | Technologie de l'Information
 | SI | Système d'Information
-| ERP |
+| ERP | Enterprise Resource Planning
 | ACV | Analsye de Cycle de Vie
-| ADP | 
-| GES |
-| EP | 
+| ADP | Abiotic resource Depletion Potentials
+| EP | Énergie primaire / Primary Energy 
 | DSL |Digital Subscriber Line
 | ISO | International Organization for Standardization / Organisation internationale de normalisation
 | CPU | Central Processing Unit / Processeur
 | GPS | Global Positioning System
 | E / S | Éntrer / Sortir
-| Ademe | 
+| Ademe | Agence De l’Environnement et de la Maîtrise de l’Énergie
 |===
