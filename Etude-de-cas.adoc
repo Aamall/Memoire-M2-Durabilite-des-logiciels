@@ -54,7 +54,7 @@ La discussion avec M. GALANTE-GRAS a conclu les résultats suivants :
 * 20ème critère a obtenu la valeur 40 - 60% : le code d'Éco2mix est un peu compliqué en quelques sortes.
 
 .Matrice Éco2mix 
-[caption="Figure 3: "]
+[caption="Figure 39: "]
 image::Matrice-Eco2mix.jpg[Matrice Éco2mix ]
 
 === 6.2. Calcul de durabilité d'Éco2mix
