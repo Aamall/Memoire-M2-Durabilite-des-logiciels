@@ -165,5 +165,5 @@ Suite à la réflexion au sujet de la "Durabilité des logiciels", ce critère e
 Ce critère signifie que le logiciel est bien développé, et que le code est bien écrit de manière claire. Cela facilite l'évolution par les développeurs et l'exécution par le compilateur.
 
 .Matrice 
-[caption="Figure 3: "]
+[caption="Figure 38: "]
 image::Matrice.jpg[Matrice]
