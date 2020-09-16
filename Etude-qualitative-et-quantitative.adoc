@@ -102,4 +102,4 @@ Quelques réponses à cette question :
 * " Les bonnes pratiques de développement visant à avoir un logiciel facilement maintenable favorisent aussi la durabilité je pense. Par contre si on veut mettre la durabilité comme objectif principal je pense que cela peut obliger à certains renoncements sur certaines fonctionnalités qui n’apportent pas un gain suffisant pour justifier leur fort coût en ressources par exemple. " 
 * " Le low code, prendre des technos actuelles et stables, essayer de faire du code réutilisable dans d'autres fonctionnalités/projets. "
 
-Pour le questionnaire et ses réponses, voir l'annexe 5.
+Pour le questionnaire et ses réponses, voir l'annexe 6.
