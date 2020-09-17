@@ -294,6 +294,25 @@ Alors ça veut dire plusieurs choses l’éco-conception :
 
 Il y a des choses qui existent mais appliquées à des sites web comme, ÉcoIndex, Écometer, Gtmatrix, Greenspector qui est pour les applications mobiles.
 
+*Selon vous, il-y a t-il des méthodologies de projet ou de conception technique qui favorisent 
+la durabilité du logiciel?*
+
+Ce dont je me rends compte, c'est que plus on définit de règles d'architecture qui vont devenir des contraintes pour les concepteurs, les développeurs, plus on définit un cadre
+et on évite de sortir du cadre.
+
+Nous, on se trouve à RTE on a fait des choix d'architecture de data center qui sont un cadre. Cela fait que l'on a peu de solutions atypiques, particulières qui font qu'il faut rajouter du matériel. Nous on a ce cadre là parce que nos data center on les a construit il y a une petite dizaine d'année, ils sont assez récents. Avant on avait : un développement logiciel = un serveur d’application, un serveur de base de données. c’était dans cette logique.
+
+Aujourd’hui, on a tout virtualisé. On demande aux applications de fonctionner dans ce cadre là. Ça c'est un gage d'optimisation, de durabilité. Donc ça c’est important, ça c’est on l’a défini, mais on l’a défini avant qu’on parle du Green-IT qui se trouve une très bonne notion. Le fait qu’on a choisi de rien avoir à installer sur un PC. C’est pas vrai par tout, il y a des logiciels lourds, mais on limite énormément.
+Le poste de travail est léger.
+
+Ce sont des règles d'architecture que l'on s'est fixées qui favorisent la réalisation de logiciels durables.
+
+En terme de réseaux, on est sur une logique d'architecture de réseau unifié. Ça c’est bien aussi par ce que on sépare par des logiciels par des flux VPN le même tuyaux, donc on déploie moins de tuyaux, moins d’équipements d’extrémités,etc.. donc un réseau informatique unique, des data centers avec des règle d’architecture typiquement contraignantes.
+Aujourd'hui, quelqu'un qui veut développer, un chef de projet chez nous qui demande de mettre en place une nouvelle solution, il faudra qu'il fasse un dossier d'architecture, il faudra qu'il montre ce qui s'inscrit parfaitement dans l'architecture préconisée et qu’est ce qui ne s'inscrira pas. Il sera challenger là-dessus. On lui dit au matin tu peux pas faire celui ou cela pour enter, si ça n’entre pas et qu’il n’y a pas d’autres solutions, on le fera, mais c’est le dernier recours. Donc ça favorise les solutions homogènes qui s’inscrivent dans la même solution d’architecture bien définie. Ça c’est les fondations, si vous n’avez pas les fondations, si à chaque fois vous dites à un développeur fais ce que tu veux, à l'arrivée on a un système anarchique en terme des résultats.
+Donc pour résumer, il est important d'avoir des règles.
+
+La virtualisation et l’unification sont des choses qui sont en adéquation avec la philosophie.
+
 
 
 <<<
