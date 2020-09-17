@@ -1,3 +1,4 @@
+:toc:
 :toc-title: Plan
 
 include::Remerciements.adoc[leveloffset=+1]
