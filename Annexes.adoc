@@ -313,6 +313,22 @@ Donc pour résumer, il est important d'avoir des règles.
 
 La virtualisation et l’unification sont des choses qui sont en adéquation avec la philosophie.
 
+*Avez-vous d'autres choses à ajouter ?*
+
+L’impact du logiciel, on le mesure à travers sa consommation des ressources matérielles. Donc, mesurer tout seul l'impact du logiciel n'a pas de sens. 
+
+Le logiciel Soft consomme du Hard, et c'est le Hard que l'on mesure son impact sur l’environnement, son impact est dans sa fabrication, puis son utilisation dans une moindre mesure, puis, sa fin de vie. Dire que le logiciel entraine le renouvellement du Hard est d’autant plus vrai si le logiciel n’est pas optimisé.
+
+Souvent on change un terminal pas parce qu'il est en panne mais parce qu’on veut un temps de réponse plus court, la batterie qui faiblit, etc. et ça c’est parce qu'il y a de plus en plus se choses qui tournent dessus, qui consomment de la batterie etc.
+
+Les logiciels ont-ils un impact direct sur l'environnement?
+Cela se mesure à travers la consommation de matériel.
+
+Les logiciels peuvent-ils être rendus plus durables ?
+Oui, en concevant mieux, mais pas seulement, en réfléchissant bien sur le centre des besoins et en définissant   en amont sur quoi il doit fonctionner et sur quoi il ne faut pas consommer.
+
+Le software je ne sais pas le mesurer, je ne peux mesurer son impact qu'à travers le Hardware.
+
 
 
 <<<
