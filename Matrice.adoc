@@ -15,7 +15,7 @@ Ces notes :
 * *4* -> 60 - 80% -> le logiciel est *Très bien*. 
 * *5* -> 80 - 100% -> le logiciel est *Excellent*.
 
-Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leurs type et leurs poids.
+Pour réaliser cette matrice, je l'ai divisée en deux parties. La première, à gauche, contient les critères utilisés. Ceux-ci sont classés en deux catégories : *Conception* et *Développement*, en ajoutant leurs types et leurs poids.
 
 Pour le type de critères, j'ai choisi trois types : 
 
@@ -31,7 +31,7 @@ La deuxième, à droite, est à remplir par *le chef de projet*. Le chef de proj
 
 * *Séparation entre les mises à jour de sécurité et les mises à jour fonctionnelles :* 
 
-Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en donnant au client le choix d'accepter les mises à jours de sécurité et d'accepter ou réfuser les mises à jour fonctionnelles. Car les mises à jour de sécurité sont indispensables pour le bon déroulement du logiciel, contrairement aux mises à jour fonctionnelles, qui sont facultativs.
+Ce critère signifie que l'éditeur de logiciels doit être transparent pour séparer les mises à jour de sécurité des mises à jour fonctionnelles en donnant au client le choix d'accepter les mises à jours de sécurité et d'accepter ou réfuser les mises à jour fonctionnelles. Car les mises à jour de sécurité sont indispensables pour le bon déroulement du logiciel, contrairement aux mises à jour fonctionnelles, qui sont facultatives.
 
 Ce critère a été ajouté selon ma propre expérience, suite à la réflexion que j'ai menée au sujet de la *Durabilité des logiciels*. En outre, ce critère avait le pourcentage de 52,2% dans le questionnaire.
 
@@ -41,7 +41,7 @@ Ce critère signifie que le logiciel doit télécharger ses dépendances lorsqu'
 
 Ce critère est parmi ceux ajoutés selon ma propre expérience en ce qui concerne le sujet de *Durabilité des logiciels*.
 
-*Lazy loading* : est un modèle de conception généralement utilisé en programmation informatique. Son objectif est d'initialiser un objet uniquement quand cet objet devient nécessaire. De cette manière, Lazy Loading participe effectivement à l'efficacité du fonctionnement du logiciel s'il est utilisé d'une façon correcte et adéquate. Cela rend Lazy Loading une propriété idéale dans les cas d’utilisation où le contenu du réseau est accessible et où le temps d’initialisation doit être réduit au minimum, comme dans le cas des pages web. L’inverse de Lazy Loading est Eager Loading. <<R>>
+*Lazy loading* : est un modèle de conception généralement utilisé en programmation informatique. Son objectif est d'initialiser un objet uniquement quand ce dernier devient nécessaire. De cette manière, Lazy Loading participe effectivement à l'efficacité du fonctionnement du logiciel s'il est utilisé d'une façon correcte et adéquate. Cela rend Lazy Loading une propriété idéale dans les cas d’utilisation où le contenu du réseau est accessible et où le temps d’initialisation doit être réduit au minimum, comme dans le cas des pages web. L’inverse de Lazy Loading est Eager Loading. <<R>>
 
 * *Programmation Orienté Objet vs Programmation Fonctionnelle :*
 
@@ -100,7 +100,7 @@ Ce critère indique si le logiciel contient des composants qui fonctionnent en a
 
 Ce critère a été défini par le questionnaire avec un pourcentage de 39.1%.
 
-Ce critère signifie que les dépendances de logiciel fonctionnent directement par défaut au moment du démarrage. Donc, ce logiciel consomme de l'énergie et des composants du matériel, bien qu'ils ne soient pas utilisés à la demende de l'utilisateur.
+Ce critère signifie que les dépendances de logiciel fonctionnent directement par défaut au moment du démarrage. Donc, ce logiciel consomme de l'énergie et des composants du matériel, bien qu'ils ne soient pas utilisés à la demande de l'utilisateur.
 
 * *Mode Nuit / Jour :* 
 
