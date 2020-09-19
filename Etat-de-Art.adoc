@@ -56,10 +56,10 @@ de plusieurs manières différentes. Chaque étape de la vie d'un ordinateur, de
 
 Elle nous conduit donc à appliquer une approche globale pour réduire les impacts environnementaux. Nous devons adopter une approche holistique qui aborde les problèmes de quatre manières complémentaires : <<E>>
 
-* Green utilisation : qui indique à utiliser les ordinateurs et les autres systèmes d'information de manière écologique afin de réduire leur consommation d'énergie.
-* Green élimination :  qui indique à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
-* Green conception :  qui indique à préserver l'environnement via la conception, de façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
-* Green fabrication : qui indique à fabriquer, dans le but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
+* Green utilisation : qui consiste à utiliser les ordinateurs et les autres systèmes d'information de manière écologique afin de réduire leur consommation d'énergie.
+* Green élimination : qui consiste à tirer parti des vieux ordinateurs en les remettant à neuf et en les réutilisant, ainsi que de recycler tous les appareils informatiques non désirés en manière correcte.
+* Green conception : qui consiste à préserver l'environnement via la conception, de façon efficace sur le plan énergétique, tous les composants, les ordinateurs, les serveurs et les équipements de refroidissement.
+* Green fabrication : qui consiste à fabriquer, dans le but d'avoir un impact minimal ou nul sur l'environnement, tous les composants électroniques, les ordinateurs, et les autres sous-systèmes associés.
 
 Minimiser les émissions de gaz à effet de serre, en réduisant la consommation d'énergie des systèmes informatiques et des centres de données opérationnels, forme un objectif essentiel de Green IT, pour cela il existe plusieurs pratiques : <<E>>
 
@@ -131,7 +131,7 @@ L' *Application* : est la mise à disposition de fonctionnalités pour un usage 
 
 * En *Client Lourd* (Fat Client en anglais) : est une application client qui intègre une logique commerciale. Le traitement est donc décentralisé - le serveur n'est responsable que de parties rudimentaires de la logique et sert principalement à stocker les données. <<J>>
 
-Ces types de composants interagissent avec différents classes de Matériels. 
+Ces types de composants interagissent avec différents classes de matériels. 
  
 .Les Matériels impactés
 [caption="Figure 1: "]
@@ -212,7 +212,7 @@ Les quatre indicateurs qui ont été pris en compte dans cette étude sont : <<M
 * Épuisement des ressources abiotiques (ADP) : cet indicateur évalue l'impact de la technologie numérique sur l'épuisement des stocks de minéraux.
 * Réchauffement global (GES) : cet indicateur reflète le changement climatique.
 * Bilan énergétique (EP) : L'énergie dite "primaire" est celle nécessaire pour produire l'énergie finale. Ainsi, en numérique comme dans toute autre industrie, afin de fabriquer l'équipement et selon l'étape de son cycle de vie, il y aura différents types d'énergie primaire pour produire l'énergie finale nécessaire à réaliser cette étape.
-* Tension sur l’eau douce (Eau) : après l'air respirable, l'eau douce est classée comme la deuxième ressource physiologique de base la plus importante aussi pour l'être humain que pour d'autres formes de vie. Il est à notifier qu'uniquement l'eau bleu est accessible aux êtres humains, contrairement à l'eau verte, qui est accessible uniquement aux plantes. Par conséquent, si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.  
+* Tension sur l’eau douce (Eau) : après l'air respirable, l'eau douce est classée comme la deuxième ressource physiologique de base la plus importante aussi pour l'être humain que pour d'autres formes de vie. Il est à notifier qu'uniquement l'eau bleue est accessible aux êtres humains, contrairement à l'eau verte, qui est accessible uniquement aux plantes. Par conséquent, si la technologie numérique augmente la consommation d'eau bleue, cette dernière sera moins disponible pour d'autres usages à un moment donné.  
 
 Le mot *Numérique* n'est pas abstrait, il est traduit par des milliers d'équipements et câbles. L'équipe de GreenIt.fr a divisé le monde numérique en trois tiers : les *utilisateurs*, les *centres informatiques* et les *réseaux* qui relient les utilisateurs entre eux et aux centres informatiques. <<M>> 
 
@@ -234,7 +234,7 @@ Pour illustrer l'empreinte écologique du numérique mondial, l'équipe de Green
 
 Ces résultats nous encouragent donc à réduire autant que possible ces impacts environnementaux. Car après tout ce qui précède, nous constatons le grand effet de la technologie numérique sur l'environnement, qui augmente chaque année avec la croissance des équipements numériques et de leurs utilisations. Cette croissance est liée au soutien de l'économie, il n'est donc plus acceptable d'accélérer volontairement notre empreinte numérique uniquement pour le bien de l'économie, ce qui est la principale raison de la croissance effrénée des impacts numériques. 
 
-En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'information <<M>> ) .
+En outre, cette étude illustre certaines hypothèses et recommandations visant à réduire les impacts environnementaux (pour plus d'informations <<M>> ) .
 
 ==== 3.2.2. Démonstration de l'importance du couplage entre Software et Hardware
 
@@ -503,7 +503,7 @@ Non Applicable dans ce cas, plutôt à considérer soit comme théorique soit au
 
 ==== 3.5.2. Cas d'un test de sites web : 
 
-Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrants si le logiciel est Green ou non sur la base de plusieurs critères.
+Sous le thème "Green-IT", il existe plusieurs logiciels qui font des tests pour les sites web, montrant si le logiciel est Green ou non sur la base de plusieurs critères.
 
 À ce stade, j'ai choisi trois logiciels de test (Écoindex, GTmetrix, Écometer) pour faire le test de quatre sites web (Google, SNCF, Discovery Land Company, Wickret).
 
