@@ -333,7 +333,7 @@ Le software je ne sais pas le mesurer, je ne peux mesurer son impact qu'à trave
 
 <<<
 [#Annexe]
-=== Annexe 4 *Retranscription interview M. Boris DOLLY, M. Vincent BARBASENT, M. Rémy CLÉMENT, M. Jean-Marc DEBRAYME*
+=== Annexe 4 *Retranscription interview M. Boris DOLLEY, M. Vincent BARBASENT, M. Rémy CLÉMENT, M. Jean-Marc DEBRAYME*
 
 *Selon vous, quels sont les critères qui rendent les applications / logiciels plus durables ? Ou quels sont les critères qui provoquent le renouvellement prématuré des terminaux ?*
 
