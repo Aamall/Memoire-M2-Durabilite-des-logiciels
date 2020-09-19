@@ -1,6 +1,8 @@
 :toc:
 :toc-title: Plan
 
+include::Glossaire.adoc[leveloffset=+1]
+include::Tableau-de-Figures.adoc[leveloffset=+1]
 include::Remerciements.adoc[leveloffset=+1]
 include::Introduction.adoc[leveloffset=+1]
 include::Methodes-de-recherche.adoc[leveloffset=+1]
@@ -12,4 +14,3 @@ include::Analyse-critique-et-travaux-ulterieur.adoc[leveloffset=+1]
 include::Conclusion.adoc[leveloffset=+1]
 include::Bibliographie.adoc[leveloffset=+1]
 include::Annexes.adoc[leveloffset=+1]
-include::Tableau-de-Figures.adoc[leveloffset=+1]
