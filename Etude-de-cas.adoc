@@ -3,19 +3,19 @@
 <<<
 == 6. Étude de cas : Cas pratique
 
-Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. les lignes suivantes expliquent les tests effectués de ce cas pratique.
+Afin de valider la bonne conception de la matrice, un cas pratique concernant le logiciel mobile "Éco2mix", développé par l'entreprise RTE, a été étudié. Les lignes suivantes expliquent les tests effectués de ce cas pratique.
 
 === 6.1. Cas Pratique "Éco2mix"
 
-J'ai fait une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
+J'ai réalisé une interview avec M. Nathaël GALANTE-GRAS, le chef de projet de l'application "Éco2mix". Cette application est accessible à tous, pas seulement aux clients de RTE ou ses agents. Elle est intégrée dans un autre site de RTE, appelé "RTE France". Éco2mix est opérable sur Android et IOS. 
 
-Cette application est dédié à exposer les données de RTE sur les utilisations et la production d'énergie (prod nucléaire, solaire, hydraulique, photovoltaïque...) à la fois dans toute la France et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus. Elle a pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramètres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, ont aussi été inclus dans cette application.
+Cette application est dédiée à exposer les données de RTE sur les utilisations et la production d'énergie (production nucléaire, solaire, hydraulique, photovoltaïque...) à la fois dans toute la France et au niveau des régions administratives et dans certaines métropoles. L'application donne aussi la consommation énergétique moyenne d'une maison en France et la possibilité de la comparer avec celles des individus. Elle a pour objectif de mieux gérer le bilan énergétique. Les échanges effectués de tous les paramètres électriques au niveau des régions françaises, et celui entre la France avec ses pays voisins, ont aussi été inclus dans cette application.
 
 La discussion avec M. GALANTE-GRAS a conclu les résultats suivants : 
 
 * 1er critère a obtenu la valeur 0 - 20% : Éco2mix est souvent supporté par des mises à jour fonctionnelle, et n'est pas toujours supporté par des mises à jour sécurité. Éco2mix ne sépare pas les deux types de mises à jour, ce qui justifie la valeur attribuée. 
 
-* 2ème critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fut et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
+* 2ème critère a obtenu la valeur 40 - 60% : Éco2mix interagit avec l'utilisateur en se basant sur des données déjà téléchargées avec le démarrage du logiciel. Puis, au fur et à mesure, Éco2mix télécharge les données nécessaires aux opérations effectuées par l'utilisateur.  
 
 * 3ème critère a obtenu la valeur 60 - 80% : la programmation utilisée est la Programmation orientée Objet.
 
