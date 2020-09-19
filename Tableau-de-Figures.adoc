@@ -3,58 +3,58 @@
 
 |===
 | Figure | Numéro de page
-| Figure 1: Les Matériels impactés | 10
-| Figure 2: Les différents types de serveurs et leurs logiciels | 13
-| Figure 3: Architecture du processus du logiciel | 19
-| Figure 4: Cycle de vie du logiciel | 21
-| Figure 5: Test de Google sur ÉcoIndex | 27
-| Figure 6: Test de Google sur ÉcoIndex | 27
-| Figure 7: Test de Google sur ÉcoIndex | 28
-| Figure 8: Test de Google sur ÉcoMeter | 28
-| Figure 9: Test de Google sur ÉcoMeter | 29
-| Figure 10: Test de Google sur ÉcoMeter | 29
-| Figure 11: Test de Google sur GTmetrix | 30
-| Figure 12: Test de Google sur GTmetrix | 30
-| Figure 13: Test de SNCF sur ÉcoIndex | 31
-| Figure 14: Test de SNCF sur ÉcoIndex | 31
-| Figure 15: Test de SNCF sur ÉcoIndex | 32
-| Figure 16: Test de SNCF sur ÉcoMeter | 32
-| Figure 17: Test de SNCF sur ÉcoMeter | 33
-| Figure 18: Test de SNCF sur ÉcoMeter | 33
-| Figure 19: Test de SNCF sur GTmetrix | 34
-| Figure 20: Test de SNCF sur GTmetrix | 34
-| Figure 21: Test de Discovery Land Company sur ÉcoIndex | 35
-| Figure 22: Test de Discovery Land Company sur ÉcoIndex | 35
-| Figure 23: Test de Discovery Land Company sur ÉcoIndex | 36
-| Figure 24: Test de Discovery Land Company sur ÉcoMeter | 36
-| Figure 25: Test de Discovery Land Company sur ÉcoMeter | 37
-| Figure 26: Test de Discovery Land Company sur ÉcoMeter | 37
-| Figure 27: Test de Discovery Land Company sur GTmetrix | 38
-| Figure 28: Test de Discovery Land Company sur GTmetrix | 38
-| Figure 29: Test de Wickret sur ÉcoIndex | 39
-| Figure 30: Test de Wickret sur ÉcoIndex | 39
-| Figure 31: Test de Wickret sur ÉcoIndex | 40
-| Figure 32: Test de Wickret sur ÉcoMeter | 40
-| Figure 33: Test de Wickret sur ÉcoMeter | 41
-| Figure 34: Test de Wickret sur ÉcoMeter | 41
-| Figure 35: Test de Wickret sur GTmetrix | 42
-| Figure 36: Test de Wickret sur GTmetrix | 42
-| Figure 37: Indice de performance environnementale | 43
-| Figure 38: Matrice | 54
-| Figure 39: Matrice Éco2mix | 57
-| Figure 40: Éco2mix consommation d'électricité en France|
-| Figure 41: Éco2mix consommation d'électricité en île de France|
-| Figure 42: Éco2mix consommation d'électricité Appareil Informatique|
-| Figure 43: Éco2mix consommation d'électricité Four|
-| Figure 44: Éco2mix consommation d'électricité Lave-Linge|
-| Figure 45: Annees-d-experience-en-materes-de-programmation| 
-| Figure 46: Langage de programmaion le plus competent | 
-| Figure 47: Développer logiciels / applications pour smartphones |
-| Figure 48: Annees-d-experience-en-materes-de-programmation |
-| Figure 49: Langage de programmaion le plus competent | 
-| Figure 50: Développer logiciels / applications pour smartphones | 
-| Figure 51: critères qui rendent les logiciels de smartphones plus durables | 
-| Figure 52: Critères qui font veillir les smartphones | 
-| Figure 53: Critères qui font veillir les smartphones |
-| Figure 54: Critères qui font veillir les smartphones |
+| Figure 1 : Les Matériels impactés | 10
+| Figure 2 : Les différents types de serveurs et leurs logiciels | 13
+| Figure 3 : Architecture du processus du logiciel | 19
+| Figure 4 : Cycle de vie du logiciel | 21
+| Figure 5 : Test de Google sur ÉcoIndex | 27
+| Figure 6 : Test de Google sur ÉcoIndex | 27
+| Figure 7 : Test de Google sur ÉcoIndex | 28
+| Figure 8 : Test de Google sur ÉcoMeter | 28
+| Figure 9 : Test de Google sur ÉcoMeter | 29
+| Figure 10 : Test de Google sur ÉcoMeter | 29
+| Figure 11 : Test de Google sur GTmetrix | 30
+| Figure 12 : Test de Google sur GTmetrix | 30
+| Figure 13 : Test de SNCF sur ÉcoIndex | 31
+| Figure 14 : Test de SNCF sur ÉcoIndex | 31
+| Figure 15 : Test de SNCF sur ÉcoIndex | 32
+| Figure 16 : Test de SNCF sur ÉcoMeter | 32
+| Figure 17 : Test de SNCF sur ÉcoMeter | 33
+| Figure 18 : Test de SNCF sur ÉcoMeter | 33
+| Figure 19 : Test de SNCF sur GTmetrix | 34
+| Figure 20 : Test de SNCF sur GTmetrix | 34
+| Figure 21 : Test de Discovery Land Company sur ÉcoIndex | 35
+| Figure 22 : Test de Discovery Land Company sur ÉcoIndex | 35
+| Figure 23 : Test de Discovery Land Company sur ÉcoIndex | 36
+| Figure 24 : Test de Discovery Land Company sur ÉcoMeter | 36
+| Figure 25 : Test de Discovery Land Company sur ÉcoMeter | 37
+| Figure 26 : Test de Discovery Land Company sur ÉcoMeter | 37
+| Figure 27 : Test de Discovery Land Company sur GTmetrix | 38
+| Figure 28 : Test de Discovery Land Company sur GTmetrix | 38
+| Figure 29 : Test de Wickret sur ÉcoIndex | 39
+| Figure 30 : Test de Wickret sur ÉcoIndex | 39
+| Figure 31 : Test de Wickret sur ÉcoIndex | 40
+| Figure 32 : Test de Wickret sur ÉcoMeter | 40
+| Figure 33 : Test de Wickret sur ÉcoMeter | 41
+| Figure 34 : Test de Wickret sur ÉcoMeter | 41
+| Figure 35 : Test de Wickret sur GTmetrix | 42
+| Figure 36 : Test de Wickret sur GTmetrix | 42
+| Figure 37 : Indice de performance environnementale | 43
+| Figure 38 : Matrice | 54
+| Figure 39 : Matrice Éco2mix | 57
+| Figure 40 : Éco2mix consommation d'électricité en France|
+| Figure 41 : Éco2mix consommation d'électricité en île de France|
+| Figure 42 : Éco2mix consommation d'électricité Appareil Informatique|
+| Figure 43 : Éco2mix consommation d'électricité Four|
+| Figure 44 : Éco2mix consommation d'électricité Lave-Linge|
+| Figure 45 : Annees-d-experience-en-materes-de-programmation| 
+| Figure 46 : Langage de programmaion le plus competent | 
+| Figure 47 : Développer logiciels / applications pour smartphones |
+| Figure 48 : Annees-d-experience-en-materes-de-programmation |
+| Figure 49 : Langage de programmaion le plus competent | 
+| Figure 50 : Développer logiciels / applications pour smartphones | 
+| Figure 51 : critères qui rendent les logiciels de smartphones plus durables | 
+| Figure 52 : Critères qui font veillir les smartphones | 
+| Figure 53 : Critères qui font veillir les smartphones |
+| Figure 54 : Critères qui font veillir les smartphones |
 |===
