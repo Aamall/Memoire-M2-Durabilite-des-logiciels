@@ -59,7 +59,7 @@ La première phase concerne l'état de l’art : une revue littéraire succincte
 
 ==== 2.2.2. PHASE 2 Études qualitatives et quantitatives 
 
-La deuxième phase de cette étude consiste, dans un premier temps, en des entretiens avec sept personnes ayant des expériences différentes (chercheurs en R&D, experts GreenIt) dans l'entreprise où j'ai fait mon apprentissage. Ces entretiens ont été réalisés pour définir, selon les experts, la notion de durabilité des logiciels, mais aussi pour savoir quels sont les critères qui rendent les applications/logiciels plus durables.
+La deuxième phase de cette étude consiste, dans un premier temps, en des entretiens avec sept personnes ayant des expériences différentes (chercheurs en R&D, experts GreenIt) dans l'entreprise où j'ai effectué mon apprentissage. Ces entretiens ont été réalisés pour définir, selon les experts, la notion de durabilité des logiciels, mais aussi pour savoir quels sont les critères qui rendent les applications/logiciels plus durables.
 
 Dans un deuxième temps, j'ai publié un questionnaire réalisé avec l'outil Google Form et diffusé sur le réseau professionnel LinkedIn sous forme de post puis en le partageant avec mon entourage en France, en Allemagne et en Jordanie. La collecte des réponses a permis à cette étude de faire une analyse afin de construire la matrice de durabilité pour répondre à la problématique.
 
