@@ -1,9 +1,9 @@
 :toc:
 :toc-title: Plan
 
+include::Remerciements.adoc[leveloffset=+1]
 include::Glossaire.adoc[leveloffset=+1]
 include::Tableau-de-Figures.adoc[leveloffset=+1]
-include::Remerciements.adoc[leveloffset=+1]
 include::Introduction.adoc[leveloffset=+1]
 include::Methodes-de-recherche.adoc[leveloffset=+1]
 include::Etat-art.adoc[leveloffset=+1]
