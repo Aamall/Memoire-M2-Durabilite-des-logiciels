@@ -271,7 +271,7 @@ Dans ce paragraphe, je parle du cycle de vie du matériel informatique, puis du 
 
 ===== 3.2.5.1. Cycle de vie d'un matériel informatique 
 
-Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud. <<N>>
+Pour montrer le cycle de vie d'un matériel informatique, j'ai choisi une étude qui a été menée par quatre chercheurs sud-coréens, Byung-Chul Choi, Hang-Sik Shin, Su-Yol Lee et Tak Hur, et qui a été réalisée selon les conditions relatives au cycle de vie d'un appareil informatique en Corée du Sud.<<N>>
 
 D'un point de vue général, le cycle de vie d'un matériel informatique peut être segmenté en cinq grandes phases : <<N>> 
 
