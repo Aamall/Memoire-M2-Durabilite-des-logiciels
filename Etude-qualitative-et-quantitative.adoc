@@ -10,7 +10,7 @@ Ce mémoire a été fondé sur des recherches scientifiques profondes, que la d�
 
 Les interviews ont eu lieu au début des travaux de ce mémoire, et les questions posées étaient assez ouvertes afin de couvrir autant que possible des aspects liés à la problématique soulevée.
 
-Riche en informations, les interviews ont permis de constituer et de solidifier l'axe de recherche. Elles ont également mis l'accent sur les points essentiels à évoquer lors du traitement du sujet de Green-IT.
+Riches en informations, les interviews ont permis de constituer et de solidifier l'axe de recherche. Elles ont également mis l'accent sur les points essentiels à évoquer lors du traitement du sujet de Green-IT.
 
 Durant ces interviews, plusieurs définitions des concepts du Green-IT ont été clarifiées, et plusieurs critères substantiels à optimiser la performance des logiciels ont été déterminés afin de visualiser leurs impacts sur la durabilités de ces derniers.
 
@@ -36,19 +36,19 @@ La différence de niveau d'expérience des développeurs me permet d'observer qu
 
 La plupart des réponses à la quatrième question montraient un intérêt certain pour ce problème, mais une mise en œuvre difficile.
 
-Voici par exemple quatre réponses typique à cette question : 
+Voici par exemple quatre réponses typiques à cette question : 
 
 * "Non, malheureusement"
 * "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie"
-* "Parfois, quand on s'apperçoit qu'il y a une consommation anormale visible à l'utilisation de l'application ex ( le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
+* "Parfois, quand on s'apperçoit qu'il y a une consommation anormale visible à l'utilisation de l'application (ex : le smartphone se décharge rapidement avec une utilisation prolongée, des messages de l'os du téléphone qui l'indique clairement ...)"
 * "La performance est recherchée, donc rapidité des calculs en réduisant au maximum la complexité des développements ce qui peut alléger la mémoire ou le CPU parfois mais aucune mesure durable n'est mise en place pour vérifier que cela induit un réduction de consommation d'énergie."
 
 Par conséquent, les développeurs ne prennent presque jamais en compte la consommation d'énergie, sauf si celle-ci est perceptible. Cela implique que les développeurs ne sont pas conscients de la consommation d'énergie des logiciels. Cela est également confirmé, dans l'article <<P>> que j'ai détaillé dans le chapitre "État de l'art".
 
 J'ai pu recueillir les critères de la matrice et les trier par importance en posant les deux questions suivantes :
 
-* *Selon vous quels sont les critères qui rendent les applications/logiciel pour Smartphones plus durables ?*
-* *Selon vous quels sont les critères qui font-vieillir les Smartphones ?*
+* *Selon vous quels sont les critères qui rendent les applications/logiciels pour Smartphones plus durables ?*
+* *Selon vous quels sont les critères qui font vieillir les Smartphones ?*
 
 En ce qui concerne les critères qui rendent les logiciels plus durables, les critères suivants sont de la plus haute importance :
 
@@ -91,9 +91,9 @@ Quelques réponses à cette question :
 
 * " Qu'un logiciel puisse fonctionner pendant au moins plusieurs années (plus que 2 ans) sur le même appareil sans que les mises à jour rendent le smartphone obsolète. "
 * " Bonne gestion du mode offline / cache et synchronisation, Compatibilité des OS, Complexité fonctionnelles applicative. "
-* " L'age du logiciel, les intervalles entre les maintenances/évolutions, l'évolution de son utilisation dans le temps (est-ce que le logiciel continue d'être utilisé après 2, 5, 10 ans..). "
+* " L'âge du logiciel, les intervalles entre les maintenances/évolutions, l'évolution de son utilisation dans le temps (est-ce que le logiciel continue d'être utilisé après 2, 5, 10 ans..). "
 * " Peut être pourrait on suivre la différence de consommation de batterie et d'usage de CPU pour un usage identique de l'application entre deux release? "
-* " Capacité du logiciel a fonctionner sur des anciens modèles de smartphone. "
+* " Capacité du logiciel à fonctionner sur des anciens modèles de smartphone. "
 
 *Selon vous y-a-t-il des méthodologies de projet, de conception technique qui favorisent la durabilité des logiciels?*
 
@@ -102,6 +102,6 @@ Quelques réponses à cette question :
 * " Il en existe certainement mais elles ne sont pas mises en avant au sein de mon entreprise et il n’y a aucune mention de la durabilité du logiciel dans le cahier des charges. "
 * " Pas vraiment une méthodologie, mais l'optimisation des traitements (algorithme, nombre de requêtes en BD, ne remonter que les données nécessaires, ...) limitent la consommation. "
 * " Les bonnes pratiques de développement visant à avoir un logiciel facilement maintenable favorisent aussi la durabilité je pense. Par contre si on veut mettre la durabilité comme objectif principal je pense que cela peut obliger à certains renoncements sur certaines fonctionnalités qui n’apportent pas un gain suffisant pour justifier leur fort coût en ressources par exemple. " 
-* " Le low code, prendre des technos actuelles et stables, essayer de faire du code réutilisable dans d'autres fonctionnalités/projets. "
+* " Le low code, prendre des technologies actuelles et stables, essayer de faire du code réutilisable dans d'autres fonctionnalités/projets. "
 
 Pour le questionnaire et ses réponses, voir l'annexe 6.
