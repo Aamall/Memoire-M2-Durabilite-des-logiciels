@@ -42,14 +42,19 @@
 | Figure 37: Indice de performance environnementale | 43
 | Figure 38: Matrice | 54
 | Figure 39: Matrice Éco2mix | 57
-| Figure 40: Annees-d-experience-en-materes-de-programmation| 
-| Figure 41: Langage de programmaion le plus competent | 
-| Figure 42: Développer logiciels / applications pour smartphones |
-| Figure 43: Annees-d-experience-en-materes-de-programmation |
-| Figure 44: Langage de programmaion le plus competent | 
-| Figure 45: Développer logiciels / applications pour smartphones | 
-| Figure 46: critères qui rendent les logiciels de smartphones plus durables | 
-| Figure 47: Critères qui font veillir les smartphones | 
-| Figure 48: Critères qui font veillir les smartphones |
-| Figure 49: Critères qui font veillir les smartphones |
+| Figure 40: Éco2mix consommation d'électricité en France|
+| Figure 41: Éco2mix consommation d'électricité en île de France|
+| Figure 42: Éco2mix consommation d'électricité Appareil Informatique|
+| Figure 43: Éco2mix consommation d'électricité Four|
+| Figure 44: Éco2mix consommation d'électricité Lave-Linge|
+| Figure 45: Annees-d-experience-en-materes-de-programmation| 
+| Figure 46: Langage de programmaion le plus competent | 
+| Figure 47: Développer logiciels / applications pour smartphones |
+| Figure 48: Annees-d-experience-en-materes-de-programmation |
+| Figure 49: Langage de programmaion le plus competent | 
+| Figure 50: Développer logiciels / applications pour smartphones | 
+| Figure 51: critères qui rendent les logiciels de smartphones plus durables | 
+| Figure 52: Critères qui font veillir les smartphones | 
+| Figure 53: Critères qui font veillir les smartphones |
+| Figure 54: Critères qui font veillir les smartphones |
 |===
