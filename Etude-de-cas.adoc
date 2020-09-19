@@ -91,3 +91,23 @@ Après avoir deroulé l'interview du chef de projet, j'ai commuinqué les résul
 "J’ai trouvé le test utile, il m’a permis de cerner les éléments rentrant en compte dans la durabilité d’un logiciel, éléments qui à la réflexion me semblent pertinents. 
 
 Je pense que le résultat du test correspond assez bien à la place d’Éco2mix sur une échelle de durabilité. La matrice permet de connaître les axes d’amélioration. Certains sont plus ou moins simple à mettre en œuvre(type de programmation), ou non adapté (mode nuit), tandis que d’autres constituent de vrais indices (taille du binaire par exemple)."
+
+.Eco2mix consommation d'électricité en France
+[caption="Figure 40: "]
+image::Eco2mix-consommation-electricite-en-france.jpg[Eco2mix consommation d'électricité en France]
+
+.Eco2mix consommation d'électricité en île de France
+[caption="Figure 41: "]
+image::Eco2mix-consommation-electricite-en-ile-de-france.jpg[Eco2mix consommation d'électricité en île de France]
+
+.Eco2mix consommation d'électricité Appareil Informatique
+[caption="Figure 42: "]
+image::Eco2mix-consommation-electricite-appareil-informatique.jpg[Eco2mix consommation d'électricité Appareil Informatique]
+
+.Eco2mix consommation d'électricité Four
+[caption="Figure 43: "]
+image::Eco2mix-consommation-electricite-four.jpg[Eco2mix consommation d'électricité Four]
+
+.Eco2mix consommation d'électricité Lave-Linge
+[caption="Figure 44: "]
+image::Eco2mix-consommation-electricite-lave-linge.jpg[Eco2mix consommation d'électricité Lave-Linge]
