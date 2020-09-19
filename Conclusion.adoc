@@ -1,5 +1,5 @@
 <<<
-== Conclusion 
+== 8. Conclusion 
 
 Les travaux de ce mémoire ont enrichi mes connaissances et mes compétences dans le domaine du Green-IT, surtout que ce mémoire a été encadré par le département DSIT de la société RTE. Ce département a mis en place des procédures évolutives afin d'appliquer le concept du Green-IT, ce qui a ouvert l'opportunité d'approfondir mes recherches de ce sujet en milieu professionnel. La durabilité des logiciels est un sujet récent et peu courant. J’ai eu l’occasion de le traiter dans ce mémoire, malgré la rarté des études et des recherches scientifiques dans la matière. 
 
