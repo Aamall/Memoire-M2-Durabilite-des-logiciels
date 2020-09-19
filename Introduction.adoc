@@ -20,10 +20,10 @@ La stratégie ou la politique que les entreprises suivent pour réduire ces effe
 Si l'enjeu environnemental repose sur le fait de rendre durable un matériel, alors la question, posée de manière vulgarisée, peut être formulée ainsi : *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux ?*
 
 
-L'objectif de cette thèse est donc de construire une matrice de durabilité logicielle qui expose et note les critères de la durabilité logicielle. Idéalement, cette matrice nous permettra de déterminer si un logiciel est durable ou non.
+L'objectif de ce mémoire est donc de construire une matrice de durabilité logicielle qui expose et note les critères de la durabilité logicielle. Idéalement, cette matrice nous permettra de déterminer si un logiciel est durable ou non.
 
  
-Au préalable, nous nous pencherons sur les principes et définitions afin de clarifier certains concepts puis nous illustrerons le poids relatif des émissions de Gaz à Effet de Serre du logiciel par rapport à la construction d'un équipement (un matériel). Nous pourrons ensuite décrire l'importance du couplage entre le logiciel et le matériel informatique afin de pouvoir répondre à la question que pose ce mémoire. Enfin, nous évaluerons les critères de la matrice de durabilité des logiciels pour la famille logicielle des SmartPhone.
+Au préalable, nous nous pencherons sur les principes et définitions afin de clarifier certains concepts puis nous illustrerons le poids relatif des émissions de gaz à effet de serre du logiciel par rapport à la construction d'un équipement (un matériel). Nous pourrons ensuite décrire l'importance du couplage entre le logiciel et le matériel informatique afin de pouvoir répondre à la question que pose ce mémoire. Enfin, nous évaluerons les critères de la matrice de durabilité des logiciels pour la famille logicielle des SmartPhone.
 
 
 Il existe plusieurs familles de logiciels (cf. <<notion>>). Ce travail de mémoire se concentre sur la famille de logiciels des SmartPhones mais pourra être étendu aux autres familles se logiciels si les travaux sont repris pour poursuivre ce premier travail de recherche..
