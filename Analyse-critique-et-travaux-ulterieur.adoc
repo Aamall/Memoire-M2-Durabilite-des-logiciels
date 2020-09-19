@@ -1,29 +1,25 @@
 <<<
 
-== 7. Analyse critique et travaux ultérieur
+== 7. Analyse critique et travaux ultérieurs
 
 === 7.1. Analyse critique du travail
 
-Dans le but d'améliorer la qualité de ce mémoire, j'ai évalué mon travail en établissant une autocritique, qui sera présentée dans ce paragraphe, ainsi que mes pensées pour le future travail en cas si quelqu’un voudrait poursuivre les résultats issus de mes travaux.
+Dans le but d'améliorer la qualité de ce mémoire, j'ai évalué mon travail en établissant une autocritique, qui sera présentée dans ce paragraphe, ainsi que mes pensées pour le future travail au cas où quelqu'un voudrait poursuivre les résultats issus de mes travaux.
 
-En réfléchissant autour du thème de recherche choisi, le *Green-IT*, j'ai posé, au début, la problématique suivante : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement?*.
+En réfléchissant autour du thème de recherche choisi, le *Green-IT*, j'ai posé, au début, la problématique suivante : *Le logiciel et son cycle de vie font-ils vieillir le matériel plus ou moins rapidement?*
 
 Cette problématique traite le fait que le logiciel, par son exploitation, fait vieillir l’appareil informatique au sens physique, ce qui le rend bien usé et le met en décharge. 
 
-Mais, pour objectif de mieux contextualiser le sujet de recherche, j'ai reformulé la problématique afin qu'elle soit : *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux?*. Cela m’a permis de bien structurer mon travail et le plan de recherche, et m’a laissé réfléchir à tous les aspects pertinents, comme celui qui traite si le logiciel, par sa complexité et sa mal conception, raccourcit la durée de vie supposée par le fabricant de l’appareil informatique. 
+Mais, pour objectif de mieux contextualiser le sujet de recherche, j'ai reformulé la problématique afin qu'elle soit : *Le logiciel et son cycle de vie provoquent-ils le renouvellement prématuré des terminaux?* Cela m’a permis de bien structurer mon travail et le plan de recherche, et m’a laissé réfléchir à tous les aspects pertinents, comme celui qui traite si le logiciel, par sa complexité et sa mal conception, raccourcit la durée de vie supposée par le fabricant de l’appareil informatique. 
 
 Une bonne partie du mémoire a été consacrée à établir une matrice permettant aux chefs de projets de tester la durabilité de leurs logiciels. Cette matrice a été fondée sur les résultats issus des interviews avec des experts, ainsi d’un questionnaire publié sur le web via mon réseau professionnel. Ce questionnaire contenait deux types des critères : positifs et négatifs rendant le logiciel plus ou moins durable. Lorsque je construisais la matrice, j’ai trouvé qu’il serait plus adapté si tous les critères ont été posés dans le sens positif, selon le degré de leur positivité par rapport à la durabilité des logiciels. Donc, et par exemple, j’ai reformulé deux critères : l’*Usage intensif du CPU*, et l’*Usage intensif de la mémoire*, posés initialement au sens négatif, afin qu’ils soient posés au sens positif comme les autres critères en leur accordant une note selon leur position par rapport à l’échelle de la durabilité des logiciels.
 
-=== 7.2. Travaux d'avenir ///reste à faire///
+=== 7.2. Travaux ultérieurs
 
-Les travaux effectués de ce mémoire ont été réalisés en s’appuyant sur une base théorique. Les critères fondants la matrice ont été rassemblés théoriquement en s’appuyant sur les résultats issus des interviews et du questionnaire, ainsi que de la lecture littéraire. Donc, il est préférable que les travaux d’avenir profiteront d’un moyen pratique afin d’évaluer la pertinence des critères et leurs impacts sur la durabilité des logiciels, en testant chaque critère sépérament. Comme avoir mentionné précédemment, il n’existe que des outils de test de durabilité destinés uniquement aux sites web, ce qui insiste d’avoir des outils de test de durabilité destiné aux logiciels implantés sur tous les appareils informatiques, tel que les smartphones et les ordinateurs. 
-La matrice, par son importance, forme une bonne base d’évaluation de la durabilité des logiciels, ce qui la rend méritée d’être codée et convertie en logiciel permettant aux chef de projets d’évaluer à quelle point leur logiciel est Green.
+Les travaux effectués dans ce mémoire ont été réalisés en s’appuyant sur une base théorique. Les critères fondants la matrice ont été rassemblés théoriquement en s’appuyant sur les résultats issus des interviews et du questionnaire, ainsi que de la littérature. Or, il est préférable que les travaux ultérieurs profitent d’un matériel de mesure afin d’évaluer réellement la pertinence des critères et leurs impacts sur la durabilité des logiciels. Chaque critère devrait tester sépérament. Comme mentionné précédemment, à ce stade, il n’existe que des outils de test de durabilité dédiés aux sites web. Il s'agira donc de construire des outils de test de durabilité destinés aux logiciels implantés sur tous les appareils informatiques, tel que les smartphones et les ordinateurs. 
 
-Impact fort sur l’utilisation de la batterie;TRILEAN;Utilisation; → travail futur
-Empriente résiduelle;POURCENTAGE;Intégration; → travail futur
+La matrice, par son importance, forme une bonne base d’évaluation de la durabilité des logiciels. Les travaux ultérieurs pourraient reprendre tout ou partie de cette matrice. Ainsi, les chefs de projets informatiques pourraient évaluer la durabilité de leurs logiciels. 
 
-La matrice a été initialement catégorisée en quatre catégories : *Conception*, *Développement*, *Utilisation* et *Intégration*.
+Enfin, la matrice a été scindée en quatre catégories : *Conception*, *Développement*, *Utilisation* et *Intégration*.
 
-Les traveux de ce mémoire ont traité les deux premières catégories, alors que les deux derinères catégories ont été laissées pour le future travail. 
-
-La catégorie "Utilisation" comportait, par exemple, le critère *Impact fort sur l’utilisation de la batterie*, qui désignait l'impact du logiciel en ce qui concerne la concommation éléctrique de la batterie.
+Les travaux de ce mémoire ont traité les deux premières catégories, alors que les deux catégories suivantes pourraient faire l'objet d'intéressants travaux ultérieurs. Je pense notamment dans la catégorie *Utilisation* au critère *Impact fort sur l’utilisation de la batterie*.
